@@ -1,0 +1,649 @@
+Long,Lat,HOSPITAL_NAME,HOSPITAL_TYPE,HQ_ADDRESS,HQ_ADDRESS1,HQ_CITY,HQ_STATE,HQ_ZIP_CODE,COUNTY_NAME,STATE_NAME,STATE_FIPS,CNTY_FIPS,FIPS,NUM_LICENSED_BEDS,NUM_STAFFED_BEDS,NUM_ICU_BEDS,ADULT_ICU_BEDS,PEDI_ICU_BEDS,BED_UTILIZATION,Potential_Increase_In_Bed_Capac,AVG_VENTILATOR_USAGE
+-95.6280207,31.7327337,Palestine Regional Medical Center,Short Term Acute Care Hospital,2900 S Loop 256,,Palestine,TX,75801,Anderson,Texas,48,1,48001,156,150,10,10,0,0.427373648,6,2
+-102.5461167,32.3381503,Permian Regional Medical Center,Short Term Acute Care Hospital,720 Hospital Dr,,Andrews,TX,79714,Andrews,Texas,48,3,48003,34,30,5,5,0,0.131050229,4,2
+-94.7421221,31.3363231,CHI St Lukes Health-Memorial Lufkin (FKA Memorial Health System of East Texas - Lufkin),Short Term Acute Care Hospital,1201 W Frank Ave,,Lufkin,TX,75904,Angelina,Texas,48,5,48005,266,172,24,24,0,0.623048484,94,6
+-94.7541222,31.3287296,Woodland Heights Medical Center,Short Term Acute Care Hospital,505 S John Redditt Dr,,Lufkin,TX,75904,Angelina,Texas,48,5,48005,149,145,15,15,15,0.421010852,4,4
+-98.5260352,28.9331124,Methodist Hospital - South (FKA South Texas Regional Medical Center),Short Term Acute Care Hospital,1905 Texas Hwy 97 E,,Jourdanton,TX,78026,Atascosa,Texas,48,13,48013,67,67,6,6,0,0.202044576,0,2
+-96.2613,29.951,Bellville Medical Center (FKA CHI St Joseph Health Bellville Hospital),Short Term Acute Care Hospital,44 N Cummings St,,Bellville,TX,77418,Austin,Texas,48,15,48015,30,32,6,6,0,0.072431505,-2,0
+-97.1352366,30.0041786,Ascension Seton Smithville (FKA Seton Smithville Regional),Short Term Acute Care Hospital,1201 Hill Rd,,Smithville,TX,78957,Bastrop,Texas,48,21,48021,8,8,1,1,0,0.193150684,0,2
+-99.2486789,33.5900202,Seymour Hospital,Short Term Acute Care Hospital,200 Stadium Dr,,Seymour,TX,76380,Baylor,Texas,48,23,48023,25,27,5,5,0,0.18812786,-2,1
+-97.730742,28.406177,CHRISTUS Spohn Hospital Beeville,Short Term Acute Care Hospital,1500 E Houston St,,Beeville,TX,78102,Bee,Texas,48,25,48025,69,40,8,8,0,0.332671225,29,2
+-97.3639792,31.0776472,Baylor Scott & White Medical Center - Temple,Short Term Acute Care Hospital,2401 S 31st St,,Temple,TX,76508,Bell,Texas,48,27,48027,574,640,70,70,68,0.744305909,-66,35
+-97.8007561,31.1132607,AdventHealth Central Texas (FKA Metroplex Adventist Hospital),Short Term Acute Care Hospital,2201 S Clear Creek Rd,,Killeen,TX,76549,Bell,Texas,48,27,48027,170,148,10,10,4,0.317241848,22,6
+-97.3472399,31.0771112,Central Texas Veterans Health Care System - Olin E Teague Veterans Medical Center,VA Hospital,1901 Veterans Memorial Dr,,Temple,TX,76504,Bell,Texas,48,27,48027,,,1,1,,,0,2
+-98.5796252,29.5067129,South Texas Veterans Health Care System - Audie L Murphy VA Hospital,VA Hospital,7400 Merton Minter St,,San Antonio,TX,78229,Bexar,Texas,48,29,48029,,,3,3,,,0,2
+-98.5950259,29.5269961,Methodist Hospital Ambulatory Surgery,Short Term Acute Care Hospital,9150 Huebner Rd,,San Antonio,TX,78240,Bexar,Texas,48,29,48029,22,22,4,4,0,0.11693649,0,1
+-98.4773014,29.6133396,South Texas Spine & Surgical Hospital,Short Term Acute Care Hospital,18600 Hardy Oak Blvd,,San Antonio,TX,78258,Bexar,Texas,48,29,48029,30,30,5,5,0,0.271141559,0,0
+-98.5454083,29.3532906,Southwest General Hospital,Short Term Acute Care Hospital,7400 Barlite Blvd,,San Antonio,TX,78224,Bexar,Texas,48,29,48029,325,185,18,18,24,0.445435017,140,3
+-98.5774875,29.5071407,University Hospital (AKA University Health System),Short Term Acute Care Hospital,4502 Medical Dr,,San Antonio,TX,78229,Bexar,Texas,48,29,48029,1034,606,64,64,82,0.76627332,428,11
+-98.4927788,29.4337636,Baptist Medical Center,Short Term Acute Care Hospital,111 Dallas St,,San Antonio,TX,78205,Bexar,Texas,48,29,48029,623,1457,151,151,140,0.475123405,-834,26
+-98.5721936,29.5078773,Methodist Hospital,Short Term Acute Care Hospital,7700 Floyd Curl Dr,,San Antonio,TX,78229,Bexar,Texas,48,29,48029,1013,1560,227,227,110,0.748730421,-547,42
+-98.5898738,29.5302075,Foundation Surgical Hospital of San Antonio,Short Term Acute Care Hospital,9522 Huebner Rd,,San Antonio,TX,78240,Bexar,Texas,48,29,48029,20,20,4,4,0,0.29383561,0,1
+-98.4743864,29.6162229,Methodist Hospital - Stone Oak,Short Term Acute Care Hospital,1139 E Sonterra Blvd,,San Antonio,TX,78258,Bexar,Texas,48,29,48029,242,227,28,28,24,0.691436827,15,6
+-97.5894982,31.776422,Goodall Witcher Healthcare Foundation,Critical Access Hospital,101 Posey Ave,,Clifton,TX,76634,Bosque,Texas,48,35,48035,25,25,4,4,0,0.336109579,0,2
+-94.0468,33.4279,Wadley Regional Medical Center,Short Term Acute Care Hospital,1000 Pine St,,Texarkana,TX,75501,Bowie,Texas,48,37,48037,370,185,26,26,0,0.394875973,185,5
+-94.112843,33.4524436,CHRISTUS St Michael Hospital (AKA CHRISTUS St Michael Health System),Short Term Acute Care Hospital,2600 Saint Michael Dr,,Texarkana,TX,75501,Bowie,Texas,48,37,48037,311,354,40,40,8,0.449717522,-43,11
+-95.4527189,29.0295851,CHI St Lukes Health - Brazosport Hospital,Short Term Acute Care Hospital,100 Medical Dr,,Lake Jackson,TX,77566,Brazoria,Texas,48,39,48039,154,80,8,8,0,0.400308222,74,4
+-96.289711,30.5812822,CHI St Joseph Health College Station Hospital (FKA College Station Medical Center),Short Term Acute Care Hospital,1604 Rock Prairie Rd,,College Station,TX,77845,Brazos,Texas,48,41,48041,167,114,12,12,0,0.201262236,53,3
+-96.346709,30.6559292,CHI St Joseph Regional Health Care Center,Short Term Acute Care Hospital,2801 Franciscan Dr,,Bryan,TX,77802,Brazos,Texas,48,41,48041,235,209,20,20,0,0.711542249,26,16
+-96.2975699,30.6502852,The Physicians Centre Hospital,Short Term Acute Care Hospital,3131 University Dr E,,Bryan,TX,77802,Brazos,Texas,48,41,48041,16,16,3,3,0,0.091780819,0,0
+-103.662938,30.3579619,Big Bend Regional Medical Center,Critical Access Hospital,2600 N State Highway 118,,Alpine,TX,79830,Brewster,Texas,48,43,48043,25,25,3,3,0,0.29621917,0,2
+-98.993508,31.677218,Brownwood Regional Medical Center,Short Term Acute Care Hospital,1501 Burnet Rd,,Brownwood,TX,76801,Brown,Texas,48,49,48049,188,63,12,12,0,0.381748438,125,3
+-96.7164547,30.5202339,CHI St Joseph Health Burleson Hospital,Critical Access Hospital,1101 Woodson Dr,,Caldwell,TX,77836,Burleson,Texas,48,51,48051,25,15,3,3,0,0.35926941,10,1
+-98.2367648,30.7330977,Ascension Seton Highland Lakes,Critical Access Hospital,3201 S Water St,,Burnet,TX,78611,Burnet,Texas,48,53,48053,25,25,4,4,0,0.295232862,0,2
+-97.654459,29.673084,Ascension Seton Edgar B Davis (FKA Seton Edgar B Davis Hospital),Critical Access Hospital,130 Hays St,,Luling,TX,78648,Caldwell,Texas,48,55,48055,24,23,4,4,0,0.305419892,1,2
+-96.6321635,28.620326,Memorial Medical Center,Critical Access Hospital,815 N Virginia St,,Port Lavaca,TX,77979,Calhoun,Texas,48,57,48057,25,25,6,6,0,0.38104111,0,2
+-97.6753364,26.157498,Harlingen Medical Center,Short Term Acute Care Hospital,5501 S Expy 77,,Harlingen,TX,78550,Cameron,Texas,48,61,48061,112,112,14,14,0,0.573385537,0,6
+-97.5146344,25.9780246,Valley Regional Medical Center,Short Term Acute Care Hospital,100a E Alton Gloor Blvd,,Brownsville,TX,78526,Cameron,Texas,48,61,48061,214,214,18,18,10,0.550505698,0,9
+-97.5109748,25.9180366,Valley Baptist Medical Center - Brownsville (FKA VHS Brownsville Hospital),Short Term Acute Care Hospital,1040 W Jefferson St,,Brownsville,TX,78520,Cameron,Texas,48,61,48061,240,243,24,24,36,0.426608026,-3,7
+-97.6705186,26.1746446,Valley Baptist Medical Center - Harlingen (FKA VHS Harlingen Hospital),Short Term Acute Care Hospital,2101 Pease St,,Harlingen,TX,78550,Cameron,Texas,48,61,48061,578,378,40,40,32,0.561122,200,10
+-94.9596,33.0334,UT Health Pittsburg (FKA East Texas Medical Center - Pittsburg),Critical Access Hospital,2701 Us Highway 271 N,,Pittsburg,TX,75686,Camp,Texas,48,63,48063,25,25,4,4,0,0.328436375,0,2
+-102.3151021,34.5557091,Plains Memorial Hospital (AKA Castro County Healthcare),Critical Access Hospital,310 W Halsell St,,Dimmitt,TX,79027,Castro,Texas,48,69,48069,17,17,3,3,0,0.247703463,0,0
+-94.5434,29.7107,Bayside Community Hospital,Critical Access Hospital,200 Hospital Drive,,Anahuac,TX,77514,Chambers,Texas,48,71,48071,14,14,2,2,0,0.062426616,0,0
+-95.2477966,31.9384049,CHRISTUS Mother Frances Hospital - Jacksonville,Critical Access Hospital,2026 S Jackson St,,Jacksonville,TX,75766,Cherokee,Texas,48,73,48073,25,23,4,4,0,0.457891613,2,2
+-95.270566,31.9602405,UT Health Jacksonville (FKA East Texas Medical Center - Jacksonville),Short Term Acute Care Hospital,501 S Ragsdale St,,Jacksonville,TX,75766,Cherokee,Texas,48,73,48073,72,32,6,6,0,0.24323979,40,2
+-100.2268949,34.4392524,Childress Regional Medical Center,Short Term Acute Care Hospital,901 Us Highway 83 N,PO BOX 1030,Childress,TX,79201,Childress,Texas,48,75,48075,39,37,7,7,0,0.168752313,2,2
+-99.4252,31.8286,Coleman County Medical Center,Critical Access Hospital,310 S Pecos St,,Coleman,TX,76834,Coleman,Texas,48,83,48083,25,25,4,4,0,0.335232884,0,2
+-96.790729,33.0133231,Baylor Scott & White Medical Center - Plano,Short Term Acute Care Hospital,4700 Alliance Blvd,,Plano,TX,75093,Collin,Texas,48,85,48085,160,118,16,16,0,0.738402605,42,7
+-96.8319176,33.0439926,Texas Health Center for Diagnostics & Surgery,Short Term Acute Care Hospital,6020 W Parker Rd,,Plano,TX,75093,Collin,Texas,48,85,48085,18,18,3,3,0,0.155555561,0,0
+-96.8375358,33.1052,Baylor Scott & White Medical Center - Frisco,Short Term Acute Care Hospital,5601 Warren Pkwy,,Frisco,TX,75034,Collin,Texas,48,85,48085,68,68,8,8,8,0.413053989,0,2
+-96.7706725,33.11385,Baylor Scott & White Medical Center - Centennial (FKA Centennial Medical Center),Short Term Acute Care Hospital,12505 Lebanon Rd,,Frisco,TX,75035,Collin,Texas,48,85,48085,118,118,14,14,14,0.392291546,0,2
+-96.6693061,33.1190526,Texas Health Presbyterian Hospital Allen,Short Term Acute Care Hospital,1105 Central Expy N,,Allen,TX,75013,Collin,Texas,48,85,48085,68,44,8,8,6,0.549128294,24,2
+-96.7659615,33.0213228,Medical City Plano (FKA Medical Center of Plano),Short Term Acute Care Hospital,3901 W 15th St,,Plano,TX,75075,Collin,Texas,48,85,48085,603,441,41,41,41,0.786208153,162,17
+-96.8379001,33.0440054,Texas Health Presbyterian Hospital Plano,Short Term Acute Care Hospital,6200 W Parker Rd,,Plano,TX,75093,Collin,Texas,48,85,48085,338,321,26,26,45,0.616626143,17,5
+-96.6371294,33.1596558,Medical City McKinney (FKA Medical Center of Mckinney),Short Term Acute Care Hospital,4500 Medical Center Dr,,McKinney,TX,75069,Collin,Texas,48,85,48085,157,157,16,16,7,0.759811521,0,8
+-96.7897247,33.0147787,Baylor Scott & White the Heart Hospital Baylor - Plano,Short Term Acute Care Hospital,1100 Allied Dr,,Plano,TX,75093,Collin,Texas,48,85,48085,106,114,20,20,0,0.724249005,-8,5
+-100.2129102,34.8489528,Collingsworth General Hospital,Critical Access Hospital,1013 15th St,,Wellington,TX,79095,Collingsworth,Texas,48,87,48087,13,13,2,2,0,0.171338245,0,0
+-96.5433977,29.6945319,Columbus Community Hospital,Short Term Acute Care Hospital,110 Shult Dr,,Columbus,TX,78934,Colorado,Texas,48,89,48089,40,40,7,7,0,0.192465752,0,2
+-98.7058385,31.9235874,Comanche County Medical Center,Critical Access Hospital,10201 Highway 16,,Comanche,TX,76442,Comanche,Texas,48,93,48093,25,25,4,4,0,0.292273968,0,2
+-97.1625335,33.6463399,North Texas Medical Center,Short Term Acute Care Hospital,1900 Hospital Blvd,,Gainesville,TX,76240,Cooke,Texas,48,97,48097,60,36,5,5,0,0.424048692,24,2
+-102.5209785,36.0516278,Coon Memorial Hospital,Critical Access Hospital,1411 Denver Ave,,Dalhart,TX,79022,Hartley,Texas,48,205,48205,21,21,4,4,0,0.261839539,0,0
+-96.83689,32.8106928,Zale Lipshy Pavilion - William P Clements Jr University Hospital (AKA Zale Lipshy University Hospital),Short Term Acute Care Hospital,5151 Harry Hines Blvd,,Dallas,TX,75235,Dallas,Texas,48,113,48113,94,94,20,20,0,0.73908484,0,4
+-96.8764968,32.6453975,Methodist Charlton Medical Center,Short Term Acute Care Hospital,3500 W Wheatland Rd,,Dallas,TX,75237,Dallas,Texas,48,113,48113,314,317,32,32,0,0.563908219,-3,13
+-96.5087101,32.9181073,Baylor Scott & White Medical Center - Lake Pointe,Short Term Acute Care Hospital,6800 Scenic Dr,,Rowlett,TX,75088,Rockwall,Texas,48,397,48397,176,121,14,14,17,0.619268656,55,5
+-96.7052017,32.8344592,City Hospital at White Rock (FKA Baylor Scott & White Medical Center - White Rock),Short Term Acute Care Hospital,9440 Poppy Dr,,Dallas,TX,75218,Dallas,Texas,48,113,48113,218,187,20,20,0,0.349073321,31,5
+-96.6004473,32.7784533,Dallas Regional Medical Center,Short Term Acute Care Hospital,1011 N Galloway Ave,,Mesquite,TX,75149,Dallas,Texas,48,113,48113,202,202,24,24,0,0.393191367,0,9
+-96.7734075,32.9129011,Medical City Dallas,Short Term Acute Care Hospital,7777 Forest Ln,,Dallas,TX,75230,Dallas,Texas,48,113,48113,876,776,52,52,116,0.652859747,100,14
+-96.7915235,32.693296,VA North Texas Health Care System - Dallas VA Medical Center,VA Hospital,4500 S Lancaster Rd,,Dallas,TX,75216,Dallas,Texas,48,113,48113,292,292,3,3,,,0,2
+-96.7803332,32.7877976,Baylor Scott & White Heart and Vascular Hospital - Dallas (FKA Baylor Jack and Jane Hamilton Heart and Vascular),Short Term Acute Care Hospital,621 N Hall St,,Dallas,TX,75226,Dallas,Texas,48,113,48113,59,53,9,9,0,0.457224101,6,2
+-96.9569976,32.9018771,Medical City Las Colinas (FKA Las Colinas Medical Center),Short Term Acute Care Hospital,6800 N MacArthur Blvd,,Irving,TX,75039,Dallas,Texas,48,113,48113,100,80,8,8,6,0.64462328,20,3
+-96.951678,32.912343,Baylor Surgical Hospital at Las Colinas (FKA Irving Coppell Surgical Hospital),Short Term Acute Care Hospital,400 W I-635,Suite 101,Irving,TX,75063,Dallas,Texas,48,113,48113,20,20,4,4,0,0.209726021,0,0
+-96.762197,32.8770374,Texas Institute for Surgery at Texas Health Presbyterian Dallas,Short Term Acute Care Hospital,7115 Greenville Ave,Suite 100,Dallas,TX,75231,Dallas,Texas,48,113,48113,9,9,2,2,0,0.34672755,0,0
+-96.9603078,32.8346954,Baylor Scott & White Medical Center - Irving,Short Term Acute Care Hospital,1901 N Macarthur Blvd,,Irving,TX,75061,Dallas,Texas,48,113,48113,293,204,14,14,10,0.575087309,89,10
+-96.8257788,32.7604246,Methodist Dallas Medical Center,Short Term Acute Care Hospital,1441 N Beckley Ave,,Dallas,TX,75203,Dallas,Texas,48,113,48113,556,378,36,36,50,0.585460603,178,9
+-96.8352033,32.8101577,William P Clements Jr University Hospital (FKA UT Southwestern University Hospital - St Paul),Short Term Acute Care Hospital,6201 Harry Hines Blvd,,Dallas,TX,75390,Dallas,Texas,48,113,48113,459,459,72,72,30,0.801802635,0,13
+-96.7950097,32.8042401,Baylor Scott & White Medical Center - Uptown,Short Term Acute Care Hospital,2727 E Lemmon Ave,,Dallas,TX,75204,Dallas,Texas,48,113,48113,24,24,4,4,0,0.231392696,0,0
+-96.8672668,32.9241691,Dallas Medical Center,Short Term Acute Care Hospital,7 Medical Pkwy,,Dallas,TX,75234,Dallas,Texas,48,113,48113,155,119,12,12,0,0.237181991,36,2
+-96.7632008,32.8794383,Texas Health Presbyterian Hospital Dallas,Short Term Acute Care Hospital,8200 Walnut Hill Ln,,Dallas,TX,75231,Dallas,Texas,48,113,48113,875,567,48,48,91,0.600732148,308,10
+-96.6673055,32.9961453,Methodist Richardson Medical Center,Short Term Acute Care Hospital,2831 E President George Bush Hwy,,Richardson,TX,75082,Collin,Texas,48,85,48085,269,172,25,25,22,0.786444724,97,8
+-96.7805934,32.7899377,Baylor University Medical Center - Dallas,Short Term Acute Care Hospital,3500 Gaston Ave,,Dallas,TX,75246,Dallas,Texas,48,113,48113,914,824,128,128,0,0.735832572,90,33
+-96.8356735,32.8128269,Parkland Health and Hospital System (AKA Parkland Memorial Hospital),Short Term Acute Care Hospital,5200 Harry Hines Blvd,,Dallas,TX,75235,Dallas,Texas,48,113,48113,882,777,61,61,77,0.741326869,105,12
+-96.5692005,32.7789657,Baylor Scott & White Medical Center - Sunnyvale (FKA Texas Regional Medical Center at Sunnyvale),Short Term Acute Care Hospital,231 S Collins Rd,,Sunnyvale,TX,75182,Dallas,Texas,48,113,48113,70,70,8,8,0,0.762105942,0,4
+-96.7712321,32.874795,North Central Surgical Center Hospital,Short Term Acute Care Hospital,9301 N Central Expy,Suite 100,Dallas,TX,75231,Dallas,Texas,48,113,48113,23,24,4,4,0,0.34132421,-1,0
+-101.9653,32.7465,Medical Arts Hospital,Short Term Acute Care Hospital,2200 N Bryan Ave,,Lamesa,TX,79331,Dawson,Texas,48,115,48115,21,22,4,4,0,0.139227897,-1,1
+-102.4138799,34.8395595,Hereford Regional Medical Center (AKA Deaf Smith County Hospital District),Short Term Acute Care Hospital,540 W 15th St,,Hereford,TX,79045,Deaf Smith,Texas,48,117,48117,42,32,5,5,0,0.166523978,10,1
+-97.1748476,32.9884819,Baylor Scott & White Medical Center - Trophy Club,Short Term Acute Care Hospital,2850 E State Hwy 114,,Trophy Club,TX,76262,Tarrant,Texas,48,439,48439,22,22,4,4,0,0.305853039,0,0
+-97.0910274,33.1778414,Medical City Denton (FKA Denton Regional Medical Center),Short Term Acute Care Hospital,3535 S I 35,,Denton,TX,76210,Denton,Texas,48,121,48121,208,185,29,29,0,0.680488706,23,8
+-97.1663996,33.2175508,Texas Health Presbyterian Hospital Denton,Short Term Acute Care Hospital,3000 N I 35,,Denton,TX,76201,Denton,Texas,48,121,48121,255,196,20,20,10,0.587126076,59,3
+-96.8859593,33.0284435,Carrollton Regional Medical Center (FKA Baylor Scott & White Medical Center - Carrollton),Short Term Acute Care Hospital,4343 N Josey Ln,,Carrollton,TX,75010,Denton,Texas,48,121,48121,216,89,16,16,5,0.517223358,127,5
+-97.0046714,33.0455007,Medical City Lewisville (FKA Medical Center of Lewisville),Short Term Acute Care Hospital,500 W Main St,,Lewisville,TX,75057,Denton,Texas,48,121,48121,186,138,12,12,16,0.509926558,48,4
+-97.2833036,29.112434,Cuero Regional Hospital (FKA Cuero Community Hospital),Short Term Acute Care Hospital,2550 N Esplanade St,,Cuero,TX,77954,DeWitt,Texas,48,123,48123,49,44,8,8,0,0.180074722,5,2
+-97.1292917,29.3070688,Yoakum Community Hospital,Critical Access Hospital,1200 Carl Ramert Dr,,Yoakum,TX,77995,Lavaca,Texas,48,285,48285,23,25,3,3,0,0.241095886,-2,1
+-99.8615,28.52,Dimmit Regional Hospital (FKA Dimmit County Memorial Hospital),Short Term Acute Care Hospital,704 Hospital Dr,,Carrizo Springs,TX,78834,Dimmit,Texas,48,127,48127,25,25,4,4,,0.251068503,0,2
+-98.8210299,32.4000272,Eastland Memorial Hospital,Short Term Acute Care Hospital,304 S Daugherty Ave,,Eastland,TX,76448,Eastland,Texas,48,133,48133,52,36,6,6,0,0.247336373,16,2
+-102.3736853,31.8452597,Medical Center Hospital (AKA Medical Center Health System),Short Term Acute Care Hospital,500 W 4th St,,Odessa,TX,79761,Ector,Texas,48,135,48135,402,331,20,20,30,0.570127904,71,7
+-102.3651355,31.8513691,Odessa Regional Medical Center,Short Term Acute Care Hospital,520 E 6th St,,Odessa,TX,79761,Ector,Texas,48,135,48135,211,154,10,10,49,0.32385844,57,3
+-96.6420809,32.3056413,Ennis Regional Medical Center,Short Term Acute Care Hospital,2203 W Lampasas St,,Ennis,TX,75119,Ellis,Texas,48,139,48139,60,60,6,6,0,0.104876712,0,2
+-96.8390019,32.3981879,Baylor Scott & White Medical Center - Waxahachie (FKA Baylor Scott & White Health - North Texas),Short Term Acute Care Hospital,2400 N I-35E,,Waxahachie,TX,75165,Ellis,Texas,48,139,48139,129,106,12,12,0,0.671543062,23,7
+-106.4990287,31.7699621,Las Palmas Medical Center,Short Term Acute Care Hospital,1801 N Oregon St,,El Paso,TX,79902,El Paso,Texas,48,141,48141,316,287,64,64,55,0.641441524,29,12
+-106.5002,31.7708,THOP Memorial Campus (FKA Providence Memorial Hospital),Short Term Acute Care Hospital,2001 N Oregon St,,El Paso,TX,79902,El Paso,Texas,48,141,48141,480,308,20,20,50,0.531949461,172,5
+-106.4344878,31.7714531,University Medical Center of El Paso,Short Term Acute Care Hospital,4815 Alameda Ave,,El Paso,TX,79905,El Paso,Texas,48,141,48141,354,290,50,50,0,0.699451208,64,6
+-106.3004867,31.7349832,Legent Hospital (FKA Foundation Surgical Hospital of El Paso),Short Term Acute Care Hospital,1416 George Dieter Dr,,El Paso,TX,79936,El Paso,Texas,48,141,48141,40,40,7,7,0,0.089178085,0,1
+-106.4808963,31.7776439,THOP Sierra Campus (FKA Sierra Medical Center),Short Term Acute Care Hospital,1625 Medical Center Dr,,El Paso,TX,79902,El Paso,Texas,48,141,48141,283,234,23,23,1,0.408547014,49,6
+-106.2645126,31.7904799,THOP East Campus (FKA Sierra Providence East Medical Center),Short Term Acute Care Hospital,3280 Joe Battle Blvd,,El Paso,TX,79938,El Paso,Texas,48,141,48141,182,182,24,24,12,0.831838012,0,6
+-98.2041019,32.2225376,Texas Health Harris Methodist Hospital Stephenville,Short Term Acute Care Hospital,411 N Belknap St,,Stephenville,TX,76401,Erath,Texas,48,143,48143,98,50,5,5,0,0.193753421,48,2
+-96.8943361,31.307036,Falls Community Hospital and Clinic,Short Term Acute Care Hospital,322 Coleman St,,Marlin,TX,76661,Falls,Texas,48,145,48145,36,36,6,6,0,0.033105023,0,1
+-96.1667017,33.5782195,TMC Bonham Hospital (FKA Red River Regional Hospital),Critical Access Hospital,504 Lipscomb St,,Bonham,TX,75418,Fannin,Texas,48,147,48147,19,25,2,2,0,0.496876717,-6,2
+-96.8762482,29.9353329,St Marks Medical Center,Short Term Acute Care Hospital,1 Saint Marks Pl,,La Grange,TX,78945,Fayette,Texas,48,149,48149,65,38,7,7,0,0.265753418,27,2
+-100.4574,32.8462,Fisher County Hospital District,Critical Access Hospital,774 State Highway 70 N,,Rotan,TX,79546,Fisher,Texas,48,151,48151,14,14,2,2,0,0.113307238,0,0
+-101.443068,34.121346,W J Mangold Memorial Hospital,Critical Access Hospital,320 N Main St,PO Box 37,Lockney,TX,79241,Floyd,Texas,48,153,48153,25,25,4,4,0,0.128547952,0,1
+-95.6899231,29.5648769,Memorial Hermann Sugar Land Hospital,Short Term Acute Care Hospital,17500 W Grand Pkwy S,,Sugar Land,TX,77479,Fort Bend,Texas,48,157,48157,179,145,14,14,12,0.525951803,34,4
+-95.6364776,29.5899928,Memorial Hermann Surgical Hospital First Colony (FKA Sugar Land Surgical Hospital),Short Term Acute Care Hospital,16906 Southwest Fwy,,Sugar Land,TX,77479,Fort Bend,Texas,48,157,48157,6,6,1,1,0,0.389041096,0,0
+-95.6311215,29.5890748,Houston Methodist Sugar Land Hospital (FKA Methodist Sugar Land Hospital),Short Term Acute Care Hospital,16655 Southwest Fwy,,Sugar Land,TX,77479,Fort Bend,Texas,48,157,48157,340,347,48,48,0,0.587248802,-7,11
+-95.770572,29.576525,OakBend Medical Center - Jackson Street Hospital Campus,Short Term Acute Care Hospital,1705 Jackson St,,Richmond,TX,77469,Fort Bend,Texas,48,157,48157,168,128,18,18,0,0.417701423,40,3
+-95.62025,29.604719,CHI St Lukes Health - Sugar Land Hospital,Short Term Acute Care Hospital,1317 Lake Pointe Pkwy,,Sugar Land,TX,77478,Fort Bend,Texas,48,157,48157,100,100,16,16,5,0.506958902,0,3
+-96.1708793,31.7256143,Freestone Medical Center (FKA East Texas Medical Center - Fairfield),Short Term Acute Care Hospital,125 Newman St,,Fairfield,TX,75840,Freestone,Texas,48,161,48161,37,37,6,6,0,0.074717753,0,1
+-99.1097327,28.8881303,Frio Regional Hospital,Short Term Acute Care Hospital,200 S Ih 35,,Pearsall,TX,78061,Frio,Texas,48,163,48163,22,24,4,4,,0.194520548,-2,1
+-94.805532,29.305359,John Sealy Hospital,Short Term Acute Care Hospital,301 8th St,,Galveston,TX,77550,Galveston,Texas,48,167,48167,653,653,26,26,64,0.66084379,0,14
+-98.880174,30.262904,Hill Country Memorial Hospital,Short Term Acute Care Hospital,1020 S State Highway 16,,Fredericksburg,TX,78624,Gillespie,Texas,48,171,48171,84,57,10,10,0,0.331891358,27,2
+-97.4313152,29.5174288,Gonzales Memorial Hospital,Short Term Acute Care Hospital,1110 N Sarah Dewitt Dr,,Gonzales,TX,78629,Gonzales,Texas,48,177,48177,33,34,6,6,0,0.164464146,-1,2
+-100.972236,35.592456,Pampa Regional Medical Center,Short Term Acute Care Hospital,1 Medical Plaza,,Pampa,TX,79065,Gray,Texas,48,179,48179,109,97,8,8,0,0.130377069,12,2
+-96.5851864,33.7099314,Texoma Medical Center,Short Term Acute Care Hospital,5016 S Us Highway 75,,Denison,TX,75020,Grayson,Texas,48,181,48181,333,329,52,52,12,0.758554935,4,19
+-96.6239419,33.6372856,Wilson N Jones Regional Medical Center (FKA Texas Health Presbyterian Hospital - WNJ),Short Term Acute Care Hospital,500 N Highland Ave,,Sherman,TX,75092,Grayson,Texas,48,181,48181,214,214,10,10,0,0.279895246,0,4
+-94.7304434,32.5008276,CHRISTUS Good Shepherd Medical Center - Longview,Short Term Acute Care Hospital,700 E Marshall Ave,,Longview,TX,75601,Gregg,Texas,48,183,48183,425,328,33,33,31,0.449856102,97,9
+-94.730216,32.533119,Longview Regional Medical Center,Short Term Acute Care Hospital,2901 4th St,,Longview,TX,75605,Gregg,Texas,48,183,48183,224,224,24,24,21,0.584735811,0,7
+-96.0776415,30.3925839,CHI St Joseph Health Grimes Hospital,Critical Access Hospital,210 S Judson St,,Navasota,TX,77868,Grimes,Texas,48,185,48185,25,18,3,3,0,0.325875193,7,1
+-97.9465307,29.5680547,Guadalupe Regional Medical Center,Short Term Acute Care Hospital,1215 E Court St,,Seguin,TX,78155,Guadalupe,Texas,48,187,48187,153,117,9,9,0,0.255988747,36,5
+-101.7326554,34.2065762,Covenant Health Plainview,Short Term Acute Care Hospital,2601 Dimmitt Rd,,Plainview,TX,79072,Hale,Texas,48,189,48189,68,49,5,5,0,0.307632089,19,2
+-98.1134194,31.7031177,Hamilton General Hospital,Critical Access Hospital,400 N Brown St,,Hamilton,TX,76531,Hamilton,Texas,48,193,48193,25,25,7,7,0,0.301569611,0,1
+-101.1990806,36.1903532,Hansford County Hospital District,Critical Access Hospital,707 Roland St,,Spearman,TX,79081,Hansford,Texas,48,195,48195,14,14,2,2,0,0.189823881,0,2
+-95.4433438,30.0186157,TOPS Surgical Specialty Hospital,Short Term Acute Care Hospital,17080 Red Oak Dr,,Houston,TX,77090,Harris,Texas,48,201,48201,15,16,3,3,0,0.217465758,-1,0
+-95.2550828,30.0512461,HCA Houston Healthcare Kingwood (FKA Kingwood Medical Center),Short Term Acute Care Hospital,22999 Highway 59 N,,Kingwood,TX,77339,Montgomery,Texas,48,339,48339,419,528,42,42,24,0.70522517,-109,17
+-95.3889802,29.7000202,Michael E DeBakey VA Medical Center,VA Hospital,2002 Holcombe Blvd,,Houston,TX,77030,Harris,Texas,48,201,48201,,,2,2,,,0,2
+-95.0862526,29.5501345,Houston Methodist Clear Lake Hospital (FKA Houston Methodist St John Hospital),Short Term Acute Care Hospital,18300 Saint John Dr,,Houston,TX,77058,Harris,Texas,48,201,48201,178,178,14,14,0,0.376820058,0,4
+-95.2759661,29.9953988,Memorial Hermann Northeast Hospital,Short Term Acute Care Hospital,18951 N Memorial Dr,,Humble,TX,77338,Harris,Texas,48,201,48201,242,255,24,24,6,0.575181305,-13,9
+-95.4020644,29.692992,The Womans Hospital of Texas,Short Term Acute Care Hospital,7600 Fannin St,,Houston,TX,77054,Harris,Texas,48,201,48201,419,257,4,4,0,0.500634313,162,4
+-95.5458967,29.7811322,Memorial Hermann Memorial City Medical Center,Short Term Acute Care Hospital,921 Gessner Rd,,Houston,TX,77024,Harris,Texas,48,201,48201,444,444,60,60,24,0.513587534,0,11
+-95.1277956,29.5410993,HCA Houston Healthcare Clear Lake (FKA Clear Lake Regional Medical Center),Short Term Acute Care Hospital,500 Medical Center Blvd,,Webster,TX,77598,Harris,Texas,48,201,48201,532,532,86,86,0,0.721922934,0,23
+-95.3875429,29.72272,HCA Houston Healthcare Medical Center (FKA Park Plaza Hospital),Short Term Acute Care Hospital,1313 Hermann Dr,,Houston,TX,77004,Harris,Texas,48,201,48201,444,133,14,14,0,0.372685134,311,3
+-95.6236173,30.0874048,HCA Houston Healthcare Tomball (FKA Tomball Regional Medical Center),Short Term Acute Care Hospital,605 Holderrieth Blvd,,Tomball,TX,77375,Harris,Texas,48,201,48201,350,194,20,20,7,0.551673472,156,7
+-95.442608,30.0205897,HCA Houston Healthcare Northwest (FKA Houston Northwest Medical Center),Short Term Acute Care Hospital,710 Cypress Creek Pkwy,,Houston,TX,77090,Harris,Texas,48,201,48201,417,288,38,38,10,0.587800741,129,12
+-95.5947219,29.7294486,HCA Houston Healthcare West (FKA West Houston Medical Center),Short Term Acute Care Hospital,12141 Richmond Ave,,Houston,TX,77082,Harris,Texas,48,201,48201,302,230,28,28,0,0.63945204,72,8
+-95.4080651,29.8473774,United Memorial Medical Center (FKA Doctors Hospital),Short Term Acute Care Hospital,510 W Tidwell Rd,,Houston,TX,77091,Harris,Texas,48,201,48201,117,97,17,17,0,0.204418629,20,2
+-95.409091,29.7001865,Texas Orthopedic Hospital,Short Term Acute Care Hospital,7401 Main St,,Houston,TX,77030,Harris,Texas,48,201,48201,49,49,9,9,0,0.415767401,0,2
+-95.4882679,30.2404085,CHI St Lukes Health - The Woodlands Hospital,Short Term Acute Care Hospital,17200 St Lukes Way,,The Woodlands,TX,77384,Montgomery,Texas,48,339,48339,241,216,43,43,10,0.581938088,25,7
+-95.7863342,29.7874335,Memorial Hermann Katy Hospital,Short Term Acute Care Hospital,23900 Katy Fwy,,Katy,TX,77494,Harris,Texas,48,201,48201,208,208,32,32,24,0.499354571,0,7
+-95.5510079,29.9665575,Houston Methodist Willowbrook Hospital (FKA Methodist Willowbrook Hospital),Short Term Acute Care Hospital,18220 State Highway 249,,Houston,TX,77070,Harris,Texas,48,201,48201,313,313,32,32,0,0.635065019,0,15
+-95.1773425,29.6594189,Surgery Specialty Hospitals of America,Short Term Acute Care Hospital,4301 Vista Rd,,Pasadena,TX,77504,Harris,Texas,48,201,48201,37,37,6,6,0,0.029692706,0,1
+-95.7169845,29.7768354,Houston Methodist Continuing Care Hospital (AKA Houston Methodist West Hospital - St Catherine Campus),Long Term Acute Care Hospital,701 S Fry Rd,,Katy,TX,77450,Harris,Texas,48,201,48201,102,58,9,9,0,0.724185169,44,3
+-95.3997225,29.7099079,Houston Methodist Hospital (FKA the Methodist Hospital),Short Term Acute Care Hospital,6565 Fannin St,,Houston,TX,77030,Harris,Texas,48,201,48201,1403,956,37,37,0,0.681283295,447,34
+-94.9796029,29.7691568,Houston Methodist Baytown Hospital (FKA Houston Methodist San Jacinto Hospital),Short Term Acute Care Hospital,4401 Garth Rd,,Baytown,TX,77521,Harris,Texas,48,201,48201,230,190,24,24,0,0.757688284,40,12
+-95.1837808,29.6612444,HCA Houston Healthcare Southeast (FKA Bayshore Medical Center),Short Term Acute Care Hospital,4000 Spencer Hwy,,Pasadena,TX,77504,Harris,Texas,48,201,48201,341,236,24,24,0,0.73149544,105,11
+-95.3969819,29.707177,University of Texas MD Anderson Cancer Center,Short Term Acute Care Hospital,1515 Holcombe Blvd,,Houston,TX,77030,Harris,Texas,48,201,48201,670,670,56,56,0,0.890873015,0,9
+-95.3963819,29.7138126,Memorial Hermann - Texas Medical Center,Short Term Acute Care Hospital,6411 Fannin St,,Houston,TX,77030,Harris,Texas,48,201,48201,1182,994,38,38,148,0.699800253,188,34
+-95.3662309,29.748483,St Joseph Medical Center,Short Term Acute Care Hospital,1401 St Joseph Pkwy,,Houston,TX,77002,Harris,Texas,48,201,48201,744,248,24,24,35,0.458451182,496,8
+-95.4006224,29.7077057,CHI St Lukes Health - Baylor St Lukes Medical Center,Short Term Acute Care Hospital,6720 Bertner Ave,,Houston,TX,77030,Harris,Texas,48,201,48201,879,637,144,144,0,0.638833582,242,17
+-95.4626688,29.7099483,First Surgical Hospital,Short Term Acute Care Hospital,4801 Bissonnet St,,Bellaire,TX,77401,Harris,Texas,48,201,48201,19,19,3,3,0,0.148219809,0,0
+-95.1622681,29.6411341,CHI St Lukes Health - Patients Medical Center,Short Term Acute Care Hospital,4600 E Sam Houston Pkwy S,,Pasadena,TX,77505,Harris,Texas,48,201,48201,61,61,8,8,0,0.833146214,0,2
+-95.2586217,30.0477861,Memorial Hermann Surgical Hospital Kingwood,Short Term Acute Care Hospital,300 Kingwood Medical Dr,,Kingwood,TX,77339,Montgomery,Texas,48,339,48339,10,10,2,2,0,0.209863007,0,0
+-95.1260246,29.5340429,Houston Physicians Hospital,Short Term Acute Care Hospital,333 N Texas Ave,Suite 1000,Webster,TX,77598,Harris,Texas,48,201,48201,21,21,4,4,0,0.203783438,0,0
+-94.3691998,32.5370749,CHRISTUS Good Shepherd Medical Center - Marshall,Short Term Acute Care Hospital,811 S Washington Ave,,Marshall,TX,75670,Harrison,Texas,48,203,48203,149,149,42,42,31,0.53956157,0,7
+-97.945751,29.8521439,CHRISTUS Health Santa Rosa Hospital - San Marcos (FKA Central Texas Medical Center),Short Term Acute Care Hospital,1301 Wonder World Dr,,San Marcos,TX,78666,Hays,Texas,48,209,48209,170,157,10,10,0,0.198254958,13,2
+-97.8531164,30.0084891,Ascension Seton Hays (FKA Seton Medical Center Hays),Short Term Acute Care Hospital,6001 Kyle Pkwy,,Kyle,TX,78640,Hays,Texas,48,209,48209,154,142,32,32,4,0.632239997,12,6
+-100.3874202,35.9028502,Hemphill County Hospital,Short Term Acute Care Hospital,1020 S 4th St,,Canadian,TX,79014,Hemphill,Texas,48,211,48211,26,15,3,3,0,0.194155246,11,0
+-95.844688,32.16988,UT Health Athens (FKA East Texas Medical Center - Athens),Short Term Acute Care Hospital,2000 S Palestine St,,Athens,TX,75751,Henderson,Texas,48,213,48213,127,127,10,10,0,0.35739401,0,3
+-98.3140935,26.196656,Mission Regional Medical Center,Short Term Acute Care Hospital,900 S Bryan Rd,,Mission,TX,78572,Hidalgo,Texas,48,215,48215,297,270,20,20,20,0.371709794,27,6
+-97.9775078,26.1534698,Knapp Medical Center,Short Term Acute Care Hospital,1401 E 8th St,,Weslaco,TX,78596,Hidalgo,Texas,48,215,48215,227,186,16,16,0,0.480866104,41,7
+-98.1818253,26.2613094,South Texas Health System Edinburg (FKA Edinburg Regional Medical Center),Short Term Acute Care Hospital,1102 W Trenton Rd,,Edinburg,TX,78539,Hidalgo,Texas,48,215,48215,235,76,81,81,46,0.448480904,159,11
+-98.2222115,26.1863368,Rio Grande Regional Hospital,Short Term Acute Care Hospital,101 E Ridge Rd,,McAllen,TX,78503,Hidalgo,Texas,48,215,48215,320,320,40,40,32,0.564640403,0,7
+-98.1983248,26.262707,Cornerstone Regional Hospital,Short Term Acute Care Hospital,2302 Cornerstone Blvd,,Edinburg,TX,78539,Hidalgo,Texas,48,215,48215,14,14,2,2,0,0.191193745,0,0
+-98.2053376,26.2526609,Doctors Hospital at Renaissance Health (AKA DHR Health),Short Term Acute Care Hospital,5501 S Mccoll Rd,,Edinburg,TX,78539,Hidalgo,Texas,48,215,48215,235,235,58,58,49,0.761915028,0,9
+-97.099183,32.0130504,Hill Regional Hospital,Critical Access Hospital,101 Circle Dr,,Hillsboro,TX,76645,Hill,Texas,48,217,48217,25,25,4,4,0,0.101831272,0,2
+-102.3688507,33.5727585,Covenant Health Levelland (FKA Cook Memorial Hospital),Short Term Acute Care Hospital,1900 College Ave,,Levelland,TX,79336,Hockley,Texas,48,219,48219,48,48,8,8,0,0.120605022,0,2
+-97.8039118,32.4324848,Lake Granbury Medical Center,Short Term Acute Care Hospital,1310 Paluxy Rd,,Granbury,TX,76048,Hood,Texas,48,221,48221,73,48,12,12,0,0.625342488,25,3
+-95.599683,33.156223,CHRISTUS Mother Frances Hospital - Sulphur Springs (FKA Hopkins County Memorial Hospital),Short Term Acute Care Hospital,115 Airport Rd,,Sulphur Springs,TX,75482,Hopkins,Texas,48,223,48223,96,56,14,14,0,0.433953047,40,4
+-101.490994,32.2368766,Scenic Mountain Medical Center,Short Term Acute Care Hospital,1601 W 11th Pl,,Big Spring,TX,79720,Howard,Texas,48,227,48227,146,75,8,8,0,0.230065361,71,2
+-96.123585,33.1223767,Hunt Regional Medical Center,Short Term Acute Care Hospital,4215 Joe Ramsey Blvd E,,Greenville,TX,75401,Hunt,Texas,48,231,48231,167,122,16,16,0,0.570244789,45,9
+-101.4093117,35.655432,Golden Plains Community Hospital,Critical Access Hospital,100 Medical Dr,,Borger,TX,79007,Hutchinson,Texas,48,233,48233,25,25,4,4,0,0.241643831,0,2
+-98.1668764,33.2308754,Faith Community Hospital,Short Term Acute Care Hospital,215 Chisholm Trl,,Jacksboro,TX,76458,Jack,Texas,48,237,48237,17,17,3,3,0,0.200161159,0,1
+-94.0085,30.9078,CHRISTUS Southeast Texas Jasper Memorial,Short Term Acute Care Hospital,1275 Marvin Hancock Dr,,Jasper,TX,75951,Jasper,Texas,48,241,48241,59,40,6,6,0,0.119178079,19,2
+-94.1197861,30.0707723,Baptist Hospitals of Southeast Texas - Beaumont,Short Term Acute Care Hospital,3080 College St,,Beaumont,TX,77701,Jefferson,Texas,48,245,48245,363,370,25,25,20,0.461873382,-7,8
+-93.988752,29.9354166,The Medical Center of Southeast Texas,Short Term Acute Care Hospital,2555 Jimmy Johnson Blvd,,Port Arthur,TX,77640,Jefferson,Texas,48,245,48245,204,185,24,24,10,0.451121807,19,7
+-94.1321453,30.086975,CHRISTUS Southeast Texas - St Elizabeth,Short Term Acute Care Hospital,2830 Calder St,,Beaumont,TX,77702,Jefferson,Texas,48,245,48245,425,431,39,39,25,0.494039237,-6,9
+-98.041818,27.7647683,CHRISTUS Spohn Hospital Alice,Short Term Acute Care Hospital,2500 E Main St,,Alice,TX,78332,Jim Wells,Texas,48,249,48249,135,72,8,8,0,0.287442923,63,2
+-97.4385567,32.3320701,Texas Health Harris Methodist Hospital Cleburne,Short Term Acute Care Hospital,201 Walls Dr,,Cleburne,TX,76033,Johnson,Texas,48,251,48251,137,92,7,7,0,0.256491959,45,2
+-99.8955,32.7674,Anson General Hospital,Short Term Acute Care Hospital,101 Avenue J,,Anson,TX,79501,Jones,Texas,48,253,48253,45,7,1,1,0,0.718590975,38,0
+-97.7826524,28.8372989,Otto Kaiser Memorial Hospital,Critical Access Hospital,3349 S Highway 181,,Kenedy,TX,78119,Karnes,Texas,48,255,48255,25,25,4,4,0,0.159671232,0,2
+-96.3182415,32.5921005,Texas Health Presbyterian Hospital Kaufman,Short Term Acute Care Hospital,850 Ed Hall Dr,,Kaufman,TX,75142,Kaufman,Texas,48,257,48257,91,63,8,8,0,0.158512726,28,2
+-99.1524297,30.0439245,Peterson Regional Medical Center,Short Term Acute Care Hospital,551 Hill Country Dr,,Kerrville,TX,78028,Kerr,Texas,48,265,48265,124,84,12,12,0,0.346477509,40,3
+-97.8508992,27.490568,CHRISTUS Spohn Hospital Kleberg,Short Term Acute Care Hospital,1311 General Cavazos Blvd,,Kingsville,TX,78363,Kleberg,Texas,48,273,48273,96,50,10,10,0,0.535452068,46,2
+-99.811273,33.4137684,Knox County Hospital,Short Term Acute Care Hospital,701 S 5th St,,Knox City,TX,79529,Knox,Texas,48,275,48275,25,28,5,5,0,0.039999999,-3,2
+-95.5477831,33.6877273,Paris Regional Medical Center,Short Term Acute Care Hospital,865 Deshong Dr,,Paris,TX,75460,Lamar,Texas,48,277,48277,154,154,20,20,0,0.239142343,0,9
+-102.3443018,33.911939,Lamb Healthcare Center,Short Term Acute Care Hospital,1500 S Sunset Ave,,Littlefield,TX,79339,Lamb,Texas,48,279,48279,75,42,7,7,0,0.052511416,33,0
+-98.1863598,31.0724144,AdventHealth Rollins Brook (FKA Rollins Brook Community Hospital),Critical Access Hospital,608 N Key Ave,,Lampasas,TX,76550,Lampasas,Texas,48,281,48281,25,25,4,4,0,0.349808216,0,2
+-96.9395,29.4608,Lavaca Medical Center,Critical Access Hospital,1400 N Texana St,,Hallettsville,TX,77964,Lavaca,Texas,48,285,48285,25,25,4,4,0,0.247232869,0,2
+-96.4799,31.675,Parkview Regional Hospital,Short Term Acute Care Hospital,600 S Bonham St,,Mexia,TX,76667,Limestone,Texas,48,293,48293,58,49,6,6,0,0.096785016,9,1
+-96.5298803,31.5310201,Limestone Medical Center,Critical Access Hospital,701 Mcclintic Dr,,Groesbeck,TX,76642,Limestone,Texas,48,293,48293,20,20,3,3,0,0.231095895,0,2
+-98.6775504,30.7427697,Baylor Scott & White Medical Center - Llano,Short Term Acute Care Hospital,200 W Ollie St,,Llano,TX,78643,Llano,Texas,48,299,48299,27,25,4,4,0,0.05731507,2,2
+-101.8693078,33.5496234,Grace Medical Center (AKA Grace Health System),Short Term Acute Care Hospital,2412 50th St,,Lubbock,TX,79412,Lubbock,Texas,48,303,48303,123,92,7,7,0,0.083502084,31,2
+-101.8925584,33.5771065,Covenant Medical Center,Short Term Acute Care Hospital,3615 19th St,,Lubbock,TX,79410,Lubbock,Texas,48,303,48303,381,380,48,48,0,0.718973517,1,12
+-101.9160179,33.6030007,Lubbock Heart & Surgical Hospital,Short Term Acute Care Hospital,4810 N Loop 289,,Lubbock,TX,79416,Lubbock,Texas,48,303,48303,73,73,15,15,0,0.330305874,0,2
+-101.8909869,33.5893439,University Medical Center (AKA UMC),Short Term Acute Care Hospital,602 Indiana Ave,,Lubbock,TX,79415,Lubbock,Texas,48,303,48303,494,476,138,138,45,0.68004024,18,15
+-101.9032526,33.6170957,TrustPoint Rehabilitation Hospital of Lubbock,Rehabilitation Hospital,4302 Princeton St,,Lubbock,TX,79415,Lubbock,Texas,48,303,48303,93,93,5,5,0,0.696862578,0,2
+-97.1995404,31.5144451,Ascension Providence,Short Term Acute Care Hospital,6901 Medical Pkwy,,Waco,TX,76712,McLennan,Texas,48,309,48309,237,225,30,30,0,0.717357695,12,10
+-97.1572588,31.4891895,Baylor Scott & White Medical Center - Hillcrest (FKA Hillcrest Baptist Medical Center),Short Term Acute Care Hospital,100 Hillcrest Medical Blvd,,Waco,TX,76712,McLennan,Texas,48,309,48309,236,212,12,12,30,0.679503739,24,14
+-95.910442,30.9422912,CHI St Joseph Health Madison Hospital,Critical Access Hospital,100 W Cross St,,Madisonville,TX,77864,Madison,Texas,48,313,48313,25,15,3,3,0,0.593789935,10,1
+-95.9916937,28.980217,Matagorda Regional Medical Center,Short Term Acute Care Hospital,104 7th St,,Bay City,TX,77414,Matagorda,Texas,48,321,48321,58,46,6,6,0,0.325134009,12,2
+-100.455679,28.713229,Fort Duncan Regional Medical Center,Short Term Acute Care Hospital,3333 N Foster Maldonado Blvd,,Eagle Pass,TX,78852,Maverick,Texas,48,323,48323,101,86,10,10,0,0.448136359,15,3
+-99.1344601,29.3344958,Medina Regional Hospital,Critical Access Hospital,3100 Avenue E,,Hondo,TX,78861,Medina,Texas,48,325,48325,25,25,4,4,0,0.289095879,0,2
+-102.0995032,31.9961626,Midland Memorial Hospital,Short Term Acute Care Hospital,400 Rosalind Redfern Grover Pkwy,,Midland,TX,79701,Midland,Texas,48,329,48329,474,226,40,40,0,0.570126712,248,5
+-102.2224569,31.9229958,Oceans Behavioral Hospital Permian Basin (FKA Allegiance Hospital of Midland),Psychiatric Hospital,3300 S Fm 1788,,Midland,TX,79706,Midland,Texas,48,329,48329,62,62,0,0,0,0.705921352,0,0
+-100.8557428,32.3882937,Mitchell County Hospital,Critical Access Hospital,997 W I-20,,Colorado City,TX,79512,Mitchell,Texas,48,335,48335,25,25,4,4,0,0.262684941,0,2
+-97.7325,33.7776,Nocona General Hospital,Short Term Acute Care Hospital,100 Park Rd,,Nocona,TX,76255,Montague,Texas,48,337,48337,22,18,3,3,0,0.217656016,4,1
+-97.8345366,33.5623529,Central Hospital of Bowie,Short Term Acute Care Hospital,705 E Greenwood Ave,,Bowie,TX,76230,Montague,Texas,48,337,48337,49,37,6,6,0,0.246427253,12,0
+-95.4674008,30.2847619,HCA Houston Healthcare Conroe (FKA Conroe Regional Medical Center),Short Term Acute Care Hospital,504 Medical Center Blvd,,Conroe,TX,77304,Montgomery,Texas,48,339,48339,328,276,38,38,16,0.606204093,52,12
+-95.4882679,30.2404085,CHI St Lukes Health - Lakeside Hospital,Short Term Acute Care Hospital,17400 St Lukes Way,,The Woodlands,TX,77384,Montgomery,Texas,48,339,48339,30,30,5,5,0,0.148675799,0,1
+-101.9714,35.8642,Moore County Hospital District,Critical Access Hospital,224 E 2nd St,,Dumas,TX,79029,Moore,Texas,48,341,48341,25,19,3,3,0,0.453929335,6,2
+-94.6488289,31.6126678,Nacogdoches Memorial Hospital,Short Term Acute Care Hospital,1204 N Mound St,,Nacogdoches,TX,75961,Nacogdoches,Texas,48,347,48347,210,121,16,16,8,0.299241483,89,3
+-94.6556101,31.6529742,Nacogdoches Medical Center (AKA NMC Health Network),Short Term Acute Care Hospital,4920 Ne Stallings Dr,,Nacogdoches,TX,75965,Nacogdoches,Texas,48,347,48347,161,155,11,11,8,0.265735745,6,4
+-96.5035023,32.0836377,Navarro Regional Hospital,Short Term Acute Care Hospital,3201 W Highway 22,,Corsicana,TX,75110,Navarro,Texas,48,349,48349,162,49,9,9,0,0.32239306,113,2
+-100.3982409,32.453745,Rolling Plains Memorial Hospital,Short Term Acute Care Hospital,200 E Arizona Ave,,Sweetwater,TX,79556,Nolan,Texas,48,353,48353,86,39,5,5,0,0.270530373,47,2
+-97.3948435,27.778251,CHRISTUS Spohn Hospital Corpus Christi - Shoreline,Short Term Acute Care Hospital,600 Elizabeth St,,Corpus Christi,TX,78404,Nueces,Texas,48,355,48355,787,484,52,52,24,0.761796653,303,13
+-97.3892661,27.7527506,Corpus Christi Medical Center - Doctors Regional,Short Term Acute Care Hospital,3315 S Alameda St,,Corpus Christi,TX,78411,Nueces,Texas,48,355,48355,250,250,33,33,16,0.679597735,0,10
+-97.3864217,27.7487801,Driscoll Childrens Hospital,Childrens Hospital,3533 S Alameda St,P.O. Box 6530,Corpus Christi,TX,78411,Nueces,Texas,48,355,48355,189,162,20,20,0,0.46751225,27,3
+-97.3753236,27.6863586,South Texas Surgical Hospital,Short Term Acute Care Hospital,6130 Parkway,,Corpus Christi,TX,78414,Nueces,Texas,48,355,48355,33,33,6,6,0,0.164881691,0,1
+-98.1450007,32.7996209,Palo Pinto General Hospital,Short Term Acute Care Hospital,400 Sw 25th Ave,,Mineral Wells,TX,76067,Palo Pinto,Texas,48,363,48363,74,48,8,8,0,0.337442935,26,2
+-94.3468765,32.1673525,UT Health Carthage (FKA East Texas Medical Center - Carthage),Short Term Acute Care Hospital,409 Cottage Rd,,Carthage,TX,75633,Panola,Texas,48,365,48365,42,42,7,7,0,0.13881278,0,2
+-97.7856497,32.7481906,Medical City Weatherford (FKA Weatherford Regional Medical Center),Short Term Acute Care Hospital,713 E Anderson St,,Weatherford,TX,76086,Parker,Texas,48,367,48367,103,82,20,20,0,0.585833609,21,3
+-102.8823014,30.8938068,Pecos County Memorial Hospital (AKA Pecos County Memorial Hospital Health System),Critical Access Hospital,387 W IH-10,,Fort Stockton,TX,79735,Pecos,Texas,48,371,48371,25,25,4,4,0,0.201643839,0,2
+-94.9396152,30.7302881,CHI St Lukes Health-Memorial Livingston (FKA Memorial Medical Center Livingston),Short Term Acute Care Hospital,1717 Highway 59 Loop N,,Livingston,TX,77351,Polk,Texas,48,373,48373,66,52,8,8,0,0.323393047,14,2
+-101.920871,35.195873,BSA Hospital,Short Term Acute Care Hospital,1600 Wallace Blvd,,Amarillo,TX,79106,Potter,Texas,48,375,48375,445,354,62,62,0,0.630322754,91,11
+-101.9201874,35.1997117,Northwest Texas Hospital,Short Term Acute Care Hospital,1501 S Coulter St,,Amarillo,TX,79106,Potter,Texas,48,375,48375,385,347,51,51,56,0.536962628,38,12
+-101.910502,35.21255,Quail Creek Surgical Hospital,Short Term Acute Care Hospital,6819 Plum Creek Dr,,Amarillo,TX,79124,Potter,Texas,48,375,48375,19,1,0,0,0,0.348544508,18,0
+-101.9065502,35.2040297,Amarillo VA Health Care System (AKA Thomas E Creek VA Medical Center),VA Hospital,6010 W Amarillo Blvd,,Amarillo,TX,79106,Potter,Texas,48,375,48375,,,1,1,,,0,2
+-101.463792,31.388178,Reagan Memorial Hospital,Critical Access Hospital,1300 N Main Ave,,Big Lake,TX,76932,Reagan,Texas,48,383,48383,7,7,1,1,0,0.088454008,0,0
+-103.5139602,31.4014987,Reeves County Hospital District,Critical Access Hospital,2323 Texas St,,Pecos,TX,79772,Reeves,Texas,48,389,48389,25,25,4,4,0,0.322410971,0,2
+-96.4661621,32.8843562,Texas Health Presbyterian Hospital Rockwall,Short Term Acute Care Hospital,3150 Horizon Rd,,Rockwall,TX,75032,Rockwall,Texas,48,397,48397,61,53,6,6,0,0.574515402,8,2
+-99.9592132,31.9492626,North Runnels Hospital,Critical Access Hospital,7821 State Highway 153,,Winters,TX,79567,Runnels,Texas,48,399,48399,25,15,3,3,0,0.09497717,10,0
+-94.7955386,32.1611314,UT Health Henderson (FKA East Texas Medical Center - Henderson),Short Term Acute Care Hospital,300 Wilson St,,Henderson,TX,75652,Rusk,Texas,48,401,48401,96,41,7,7,0,0.210090205,55,2
+-100.9170474,32.6876941,Cogdell Memorial Hospital,Critical Access Hospital,1700 Cogdell Blvd,,Snyder,TX,79549,Scurry,Texas,48,415,48415,25,25,4,4,0,0.262027383,0,2
+-95.2986526,32.3295556,Baylor Scott & White Texas Spine & Joint Hospital,Short Term Acute Care Hospital,1814 Roseland Blvd,,Tyler,TX,75701,Smith,Texas,48,423,48423,20,20,4,4,0,0.706986308,0,1
+-95.2134455,32.4257364,UT Health North Campus Tyler (AKA University of Texas Health Science Center at Tyler),Short Term Acute Care Hospital,11937 Us Highway 271,,Tyler,TX,75708,Smith,Texas,48,423,48423,104,104,14,14,0,0.069388829,0,2
+-95.292117,32.342884,CHRISTUS Mother Frances Hospital - Tyler,Short Term Acute Care Hospital,800 E Dawson St,,Tyler,TX,75701,Smith,Texas,48,423,48423,481,433,138,138,0,0.64670819,48,14
+-95.2911397,32.3387009,UT Health Tyler (FKA East Texas Medical Center - Tyler),Short Term Acute Care Hospital,1000 S Beckham Ave,,Tyler,TX,75701,Smith,Texas,48,423,48423,424,339,59,59,0,0.903991342,85,13
+-97.7468697,32.2420509,Glen Rose Medical Center,Short Term Acute Care Hospital,1021 Holden St,,Glen Rose,TX,76043,Somervell,Texas,48,425,48425,16,16,3,3,0,0.127739727,0,2
+-98.8145,26.3821,Starr County Memorial Hospital,Short Term Acute Care Hospital,128 N Fm 3167,,Rio Grande City,TX,78582,Starr,Texas,48,427,48427,48,48,8,8,0,0.170719177,0,2
+-98.8875769,32.7546999,Stephens Memorial Hospital,Short Term Acute Care Hospital,200 S Geneva St,,Breckenridge,TX,76424,Stephens,Texas,48,429,48429,40,14,2,2,0,0.207827792,26,2
+-101.7556783,34.5359752,Swisher Memorial Hospital,Critical Access Hospital,539 Se 2nd St,,Tulia,TX,79088,Swisher,Texas,48,437,48437,20,20,3,3,0,0.218356162,0,0
+-97.3413636,32.7370544,Cook Childrens Medical Center,Childrens Hospital,801 7th Ave,,Fort Worth,TX,76104,Tarrant,Texas,48,439,48439,444,392,137,137,137,0.601474702,52,3
+-97.1233363,32.8348411,Texas Health Harris Methodist Hospital HEB (AKA Texas Health HEB),Short Term Acute Care Hospital,1600 Hospital Pkwy,,Bedford,TX,76022,Tarrant,Texas,48,439,48439,252,201,18,18,16,0.560389817,51,4
+-97.3454149,32.7358538,Medical City Fort Worth (FKA Plaza Medical Center of Fort Worth),Short Term Acute Care Hospital,900 8th Ave,,Fort Worth,TX,76104,Tarrant,Texas,48,439,48439,348,200,44,44,0,0.771765649,148,9
+-97.0938167,32.9336553,Baylor Scott & White Medical Center - Grapevine,Short Term Acute Care Hospital,1650 W College St,,Grapevine,TX,76051,Tarrant,Texas,48,439,48439,302,275,20,20,22,0.526047349,27,8
+-97.1130553,32.6931143,Medical City Arlington (FKA Medical Center of Arlington),Short Term Acute Care Hospital,3301 Matlock Rd,,Arlington,TX,76015,Tarrant,Texas,48,439,48439,433,335,45,45,36,0.805306554,98,10
+-97.3168944,32.586731,Texas Health Huguley Hospital Fort Worth South (FKA Huguley Memorial Medical Center),Short Term Acute Care Hospital,11801 South Fwy,,Burleson,TX,76028,Tarrant,Texas,48,439,48439,356,213,28,28,0,0.590417385,143,3
+-97.4209578,32.6579704,Texas Health Harris Methodist Hospital Southwest Fort Worth,Short Term Acute Care Hospital,6100 Harris Pkwy,,Fort Worth,TX,76132,Tarrant,Texas,48,439,48439,209,245,18,18,8,0.447179198,-36,3
+-97.1175,32.6801,USMD Hospital at Arlington,Short Term Acute Care Hospital,801 W Interstate 20,,Arlington,TX,76017,Tarrant,Texas,48,439,48439,34,34,4,4,0,0.358823538,0,2
+-97.3469853,32.7271588,Baylor Scott & White Surgical Hospital - Fort Worth,Short Term Acute Care Hospital,1800 Park Place Ave,,Fort Worth,TX,76110,Tarrant,Texas,48,439,48439,30,30,4,4,0,0.336529672,0,1
+-97.1280558,32.9395247,Texas Health Harris Methodist Hospital Southlake,Short Term Acute Care Hospital,1545 E Southlake Blvd,,Southlake,TX,76092,Tarrant,Texas,48,439,48439,17,17,3,3,0,0.219178081,0,1
+-97.5329888,32.880858,Texas Health Harris Methodist Hospital Azle,Short Term Acute Care Hospital,108 Denver Trl,,Azle,TX,76020,Tarrant,Texas,48,439,48439,36,31,6,6,0,0.420680523,5,2
+-97.2135241,32.8292376,Medical City North Hills (FKA North Hills Hospital),Short Term Acute Care Hospital,4401 Booth Calloway Rd,,North Richland Hills,TX,76180,Tarrant,Texas,48,439,48439,164,137,20,20,0,0.575642407,27,4
+-97.1158198,32.7488878,Texas Health Arlington Memorial,Short Term Acute Care Hospital,800 W Randol Mill Rd,,Arlington,TX,76012,Tarrant,Texas,48,439,48439,369,194,18,18,13,0.764256477,175,5
+-97.3276062,32.7268053,John Peter Smith Hospital (AKA JPS Health Network),Short Term Acute Care Hospital,1500 S Main St,,Fort Worth,TX,76104,Tarrant,Texas,48,439,48439,542,422,71,71,0,0.930857599,120,14
+-97.3391024,32.7372508,Texas Health Harris Methodist Hospital Fort Worth,Short Term Acute Care Hospital,1301 Pennsylvania Ave,,Fort Worth,TX,76104,Tarrant,Texas,48,439,48439,707,651,42,42,61,0.786974788,56,18
+-97.3455466,32.7295479,Baylor Scott & White All Saints Medical Center - Fort Worth,Short Term Acute Care Hospital,1400 8th Ave,,Fort Worth,TX,76104,Tarrant,Texas,48,439,48439,538,377,39,39,63,0.670934916,161,10
+-97.0957088,32.5676479,Methodist Mansfield Medical Center,Short Term Acute Care Hospital,2700 E Broad St,,Mansfield,TX,76063,Tarrant,Texas,48,439,48439,254,254,22,22,8,0.56959337,0,4
+-99.837928,32.38389,Abilene Regional Medical Center,Short Term Acute Care Hospital,6250 US-83,,Abilene,TX,79606,Taylor,Texas,48,441,48441,231,196,20,20,16,0.300922573,35,3
+-99.7306,32.4709,Hendrick Medical Center,Short Term Acute Care Hospital,1900 Pine St,,Abilene,TX,79601,Taylor,Texas,48,441,48441,540,335,46,46,25,0.675093055,205,17
+-102.2676561,33.1885645,Brownfield Regional Medical Center,Short Term Acute Care Hospital,705 E Felt St,,Brownfield,TX,79316,Terry,Texas,48,445,48445,45,26,5,5,0,0.156902,19,1
+-94.9715384,33.1756887,Titus Regional Medical Center,Short Term Acute Care Hospital,2001 N Jefferson Ave,,Mount Pleasant,TX,75455,Titus,Texas,48,449,48449,174,49,8,8,0,0.541794777,125,3
+-100.4343751,31.4644775,Shannon Medical Center,Short Term Acute Care Hospital,120 E Harris Ave,,San Angelo,TX,76903,Tom Green,Texas,48,451,48451,333,352,17,17,4,0.518197358,-19,4
+-100.4695883,31.4187136,San Angelo Community Medical Center,Short Term Acute Care Hospital,3501 Knickerbocker Rd,,San Angelo,TX,76904,Tom Green,Texas,48,451,48451,171,131,12,12,6,0.303356677,40,3
+-97.7264791,30.2903708,St Davids Medical Center,Short Term Acute Care Hospital,919 E 32nd St,,Austin,TX,78705,Travis,Texas,48,453,48453,371,350,70,70,65,0.655575752,21,13
+-97.74532,30.305555,Ascension Seton Medical Center Austin,Short Term Acute Care Hospital,1201 W 38th St,,Austin,TX,78705,Travis,Texas,48,453,48453,524,430,83,83,43,0.608424723,94,7
+-97.795855,30.270872,Arise Austin Medical Center (FKA Austin Surgical Hospital),Short Term Acute Care Hospital,3003 Bee Caves Rd,,Austin,TX,78746,Travis,Texas,48,453,48453,19,21,5,5,0,0.129028052,-2,2
+-97.9317222,30.1731768,Ascension Seton Southwest (FKA Seton Southwest Hospital),Short Term Acute Care Hospital,7900 Fm 1826,,Austin,TX,78737,Hays,Texas,48,209,48209,28,28,5,5,0,0.056514237,0,1
+-97.7438081,30.4053779,Ascension Seton Northwest (FKA Seton Northwest Hospital),Short Term Acute Care Hospital,11113 Research Blvd,,Austin,TX,78759,Travis,Texas,48,453,48453,117,106,16,16,13,0.407392085,11,2
+-97.7517712,30.3504761,Northwest Hills Surgical Hospital,Short Term Acute Care Hospital,6818 Austin Center Blvd,Suite 100,Austin,TX,78731,Travis,Texas,48,453,48453,8,8,1,1,0,0.214383557,0,1
+-97.706,30.4113,St Davids North Austin Medical Center,Short Term Acute Care Hospital,12221 N Mopac Expy N,,Austin,TX,78758,Travis,Texas,48,453,48453,379,350,24,24,63,0.742003679,29,8
+-97.7745674,30.2261149,St Davids South Austin Medical Center,Short Term Acute Care Hospital,901 W Ben White Blvd,,Austin,TX,78704,Travis,Texas,48,453,48453,334,299,30,30,9,0.850048125,35,13
+-97.8389658,30.3004629,The Hospital at Westlake Medical Center,Short Term Acute Care Hospital,5656 Bee Caves Rd,Suite M302,Austin,TX,78746,Travis,Texas,48,453,48453,23,23,4,4,0,0.233353183,0,2
+-94.4276141,30.7760822,Tyler County Hospital,Short Term Acute Care Hospital,1100 W Bluff St,,Woodville,TX,75979,Tyler,Texas,48,457,48457,49,25,4,4,0,0.094356164,24,2
+-102.2149,31.1181,McCamey Hospital,Critical Access Hospital,2500 Hwy 305 N,,McCamey,TX,79752,Upton,Texas,48,461,48461,14,11,2,2,0,0.09016189,3,0
+-99.7681283,29.2143201,Uvalde Memorial Hospital,Critical Access Hospital,1025 Garner Field Rd,,Uvalde,TX,78801,Uvalde,Texas,48,463,48463,25,21,6,6,0,0.569732547,4,2
+-100.8924154,29.3741291,Val Verde Regional Medical Center,Short Term Acute Care Hospital,801 N Bedell Ave,,Del Rio,TX,78840,Val Verde,Texas,48,465,48465,93,47,7,7,0,0.371611774,46,2
+-96.9986111,28.8081385,DeTar Hospital Navarro,Short Term Acute Care Hospital,506 E San Antonio St,,Victoria,TX,77901,Victoria,Texas,48,469,48469,219,206,21,21,8,0.450752884,13,4
+-96.9777932,28.8135643,Citizens Medical Center,Short Term Acute Care Hospital,2701 Hospital Dr,,Victoria,TX,77901,Victoria,Texas,48,469,48469,317,307,22,22,0,0.231047258,10,4
+-95.5590363,30.6986202,Huntsville Memorial Hospital,Short Term Acute Care Hospital,110 Memorial Hospital Dr,,Huntsville,TX,77340,Walker,Texas,48,471,48471,123,90,6,6,0,0.610865533,33,2
+-102.8834843,31.5938303,Ward Memorial Hospital,Critical Access Hospital,406 S Gary Ave,,Monahans,TX,79756,Ward,Texas,48,475,48475,25,21,4,4,0,0.272146106,4,0
+-96.399251,30.145807,Baylor Scott & White Medical Center - Brenham,Short Term Acute Care Hospital,700 Medical Pkwy,,Brenham,TX,77833,Washington,Texas,48,477,48477,60,50,5,5,0,0.2219726,10,2
+-99.4779812,27.5324877,Laredo Medical Center,Short Term Acute Care Hospital,1700 E Saunders St,,Laredo,TX,78041,Webb,Texas,48,479,48479,326,294,32,32,17,0.646193266,32,9
+-99.4785553,27.6069732,Doctors Hospital of Laredo,Short Term Acute Care Hospital,10700 Mcpherson Rd,,Laredo,TX,78045,Webb,Texas,48,479,48479,171,171,24,24,12,0.591460407,0,5
+-96.290957,29.2190647,El Campo Memorial Hospital,Short Term Acute Care Hospital,303 Sandy Corner Rd,,El Campo,TX,77437,Wharton,Texas,48,481,48481,49,26,4,4,0,0.28883034,23,2
+-100.2703236,35.4394884,Parkview Hospital,Critical Access Hospital,901 S Sweetwater,,Wheeler,TX,79096,Wheeler,Texas,48,483,48483,16,16,3,3,0,0.097089045,0,0
+-98.924405,34.0190559,Electra Memorial Hospital,Critical Access Hospital,1207 S Bailey St,,Electra,TX,76360,Wichita,Texas,48,485,48485,19,19,3,3,0,0.31045422,0,0
+-98.58019,33.873002,Kell West Regional Hospital,Short Term Acute Care Hospital,5420 Kell Blvd,,Wichita Falls,TX,76310,Wichita,Texas,48,485,48485,41,41,7,7,0,0.225258932,0,2
+-98.5016055,33.9028141,United Regional Health Care System (FKA United Regional Medical Center),Short Term Acute Care Hospital,1600 11th St,,Wichita Falls,TX,76301,Wichita,Texas,48,485,48485,278,250,12,12,0,0.648438334,28,10
+-99.3131,34.159,Wilbarger General Hospital,Short Term Acute Care Hospital,920 Hillcrest Dr,,Vernon,TX,76384,Wilbarger,Texas,48,487,48487,28,28,8,8,0,0.272994131,0,1
+-97.7143455,30.5111373,St Davids Round Rock Medical Center,Short Term Acute Care Hospital,2400 Round Rock Ave,,Round Rock,TX,78681,Williamson,Texas,48,491,48491,171,157,18,18,12,0.70887357,14,6
+-97.4152804,30.5910617,Baylor Scott & White Medical Center - Taylor (FKA Johns Community Hospital),Critical Access Hospital,305 Mallard Ln,,Taylor,TX,76574,Williamson,Texas,48,491,48491,25,25,4,4,0,0.247780815,0,2
+-97.6846195,30.5634437,Baylor Scott & White Medical Center - Round Rock,Short Term Acute Care Hospital,300 University Blvd,,Round Rock,TX,78665,Williamson,Texas,48,491,48491,101,101,44,44,0,0.598474264,0,10
+-97.6512507,30.5670699,Ascension Seton Williamson (FKA Seton Medical Center Williamson),Short Term Acute Care Hospital,201 Seton Pkwy,,Round Rock,TX,78665,Williamson,Texas,48,491,48491,149,119,26,26,0,0.780798912,30,5
+-97.811711,30.5321721,Cedar Park Regional Medical Center,Short Term Acute Care Hospital,1401 Medical Pkwy,,Cedar Park,TX,78613,Williamson,Texas,48,491,48491,108,93,12,12,8,0.513949037,15,2
+-98.1741909,29.1588452,Connally Memorial Medical Center,Short Term Acute Care Hospital,499 10th St,,Floresville,TX,78114,Wilson,Texas,48,493,48493,44,44,4,4,0,0.178206727,0,2
+-97.5944007,33.2171729,Wise Health System - East Campus,Short Term Acute Care Hospital,609 Medical Center Dr,,Decatur,TX,76234,Wise,Texas,48,497,48497,99,49,21,21,0,0.653610706,50,4
+-95.307328,32.9451199,CHRISTUS Mother Frances Hospital - Winnsboro,Critical Access Hospital,719 W Coke Rd,,Winnsboro,TX,75494,Wood,Texas,48,499,48499,25,23,4,4,0,0.273138762,2,1
+-95.4454786,32.7959827,UT Health Quitman (FKA East Texas Medical Center - Quitman),Critical Access Hospital,117 N Winnsboro St,,Quitman,TX,75783,Wood,Texas,48,499,48499,25,25,4,4,0,0.363287657,0,2
+-98.5844,33.0898,Graham Regional Medical Center,Short Term Acute Care Hospital,1301 Montgomery Rd,,Graham,TX,76450,Young,Texas,48,503,48503,25,25,4,4,0,0.260712326,0,2
+-97.779125,31.434971,Coryell Memorial Healthcare System,Critical Access Hospital,1507 W Main St,,Gatesville,TX,76528,Coryell,Texas,48,99,48099,25,25,4,4,0,0.278027385,0,2
+-97.0866238,33.175862,Mayhill Hospital,Short Term Acute Care Hospital,2809 S Mayhill Rd,,Denton,TX,76208,Denton,Texas,48,121,48121,59,4,1,1,0,,55,0
+-98.590389,29.5907703,Legent Orthopedic and Spine (FKA Cumberland Surgical Hospital),Short Term Acute Care Hospital,5330 N Loop 1604 W,,San Antonio,TX,78249,Bexar,Texas,48,29,48029,25,26,5,5,0,0.131190732,-1,1
+-97.086342,33.174024,Horizon Medical Center (FKA Atrium Medical Center),Long Term Acute Care Hospital,2813 S Mayhill Rd,2nd Fl,Denton,TX,76208,Denton,Texas,48,121,48121,22,60,9,9,0,0.420700163,-38,2
+-95.5882322,29.6463836,Atrium Medical Center,Long Term Acute Care Hospital,11929 W Airport Blvd,,Stafford,TX,77477,Fort Bend,Texas,48,157,48157,68,68,11,11,0,0.247945204,0,2
+-96.6762699,33.1130013,PAM Rehabilitation Hospital of Allen (FKA Twin Creeks Hospital),Rehabilitation Hospital,1001 Raintree Cir,,Allen,TX,75013,Collin,Texas,48,85,48085,40,40,0,0,0,0.841575325,0,0
+-99.3465,31.1163,Heart of Texas Healthcare System (AKA Heart of Texas Memorial Hospital),Critical Access Hospital,2008 Nine Rd,,Brady,TX,76825,McCulloch,Texas,48,307,48307,25,14,6,6,0,0.221330717,11,2
+-97.0976695,32.8896532,Sagecrest Hospital - Grapevine (FKA Ethicus Hospital - Grapevine),Long Term Acute Care Hospital,4201 William D Tate Ave,,Grapevine,TX,76051,Tarrant,Texas,48,439,48439,33,60,15,15,0,0.226894975,-27,2
+-97.7355308,30.3070086,Austin State Hospital,Psychiatric Hospital,4110 Guadalupe St,,Austin,TX,78751,Travis,Texas,48,453,48453,263,263,0,0,0,0.925402343,0,0
+-96.7673837,32.8869279,Kindred Hospital Dallas Central,Long Term Acute Care Hospital,8050 Meadow Rd,,Dallas,TX,75231,Dallas,Texas,48,113,48113,60,60,9,9,0,0.729452074,0,2
+-94.1321453,30.086975,Kate Dishman Rehabilitation Hospital,Rehabilitation Hospital,2830 Calder St,5th Floor,Beaumont,TX,77702,Jefferson,Texas,48,245,48245,27,27,0,0,0,0.553221703,0,0
+-101.9270551,35.194182,Vibra Hospital of Amarillo (FKA Kindred Hospital Amarillo),Long Term Acute Care Hospital,7501 Wallace Blvd,,Amarillo,TX,79124,Potter,Texas,48,375,48375,37,72,11,11,0,0.578957379,-35,3
+-104.8152,31.0833,Culberson Hospital,Critical Access Hospital,Eisenhower & FM 2185,,Van Horn,TX,79855,Culberson,Texas,48,109,48109,14,14,2,2,0,0.204305291,0,0
+-95.399,29.7129,Kindred Hospital Houston Medical Center,Long Term Acute Care Hospital,6441 Main St,,Houston,TX,77030,Harris,Texas,48,201,48201,110,110,9,9,0,0.645703614,0,4
+-98.5565222,29.5225164,Kindred Hospital - San Antonio,Long Term Acute Care Hospital,3636 Medical Dr,,San Antonio,TX,78229,Bexar,Texas,48,29,48029,59,59,6,6,0,0.439377755,0,2
+-101.8483669,33.5913874,Sunrise Canyon Hospital,Psychiatric Hospital,1950 Aspen Ave,,Lubbock,TX,79408,Lubbock,Texas,48,303,48303,30,30,0,0,0,0.780730605,0,0
+-95.3744077,29.7120634,UTHealth Harris County Psychiatric Center,Psychiatric Hospital,2800 S Macgregor Way,,Houston,TX,77021,Harris,Texas,48,201,48201,251,251,0,0,0,0.878709793,0,0
+-97.7081332,26.1593686,Rio Grande State Center,Psychiatric Hospital,1401 S Rangerville Rd,,Harlingen,TX,78552,Cameron,Texas,48,61,48061,55,55,0,0,0,0.927920282,0,0
+-98.225911,26.186591,Solara Specialty Hospitals McAllen,Long Term Acute Care Hospital,301 W Expy 83,8th Floor,McAllen,TX,78503,Hidalgo,Texas,48,215,48215,53,52,8,8,0,0.922374427,1,3
+-102.7216817,34.6443676,Parmer Medical Center,Critical Access Hospital,1307 Cleveland Ave,,Friona,TX,79035,Parmer,Texas,48,369,48369,25,25,4,4,0,0.121643834,0,0
+-102.8361945,32.9681923,Yoakum County Hospital,Critical Access Hospital,412 Mustang Dr,,Denver City,TX,79323,Yoakum,Texas,48,501,48501,24,24,4,4,0,0.133675799,0,1
+-99.1764708,33.1898928,Throckmorton County Hospital,Critical Access Hospital,802 N Minter Ave,Suite 729,Throckmorton,TX,76483,Throckmorton,Texas,48,447,48447,14,14,2,2,0,0.077299416,0,0
+-97.156434,33.231,University Behavioral Health of Denton,Psychiatric Hospital,2026 W University Dr,,Denton,TX,76201,Denton,Texas,48,121,48121,104,104,0,0,0,0.698551118,0,0
+-101.896978,33.5765545,Covenant Specialty Hospital,Long Term Acute Care Hospital,3815 20th St,,Lubbock,TX,79410,Lubbock,Texas,48,303,48303,56,56,9,9,0,0.522211373,0,3
+-99.8501,31.2208,Concho County Hospital,Critical Access Hospital,614 Eaker,,Eden,TX,76837,Concho,Texas,48,95,48095,16,16,3,3,0,0.054280821,0,0
+-95.4657401,30.282055,Cornerstone Specialty Hospitals Conroe,Long Term Acute Care Hospital,1500 Grand Lake Dr,,Conroe,TX,77304,Montgomery,Texas,48,339,48339,41,41,6,6,0,0.627530932,0,3
+-97.3391024,32.7372508,Texas Health Specialty Hospital Fort Worth,Long Term Acute Care Hospital,1301 Pennsylvania Ave,4th Fl,Fort Worth,TX,76104,Tarrant,Texas,48,439,48439,15,15,2,2,0,0.554520547,0,2
+-97.7239758,30.2888618,Austin Lakes Hospital,Psychiatric Hospital,1025 E 32nd St,2nd & 3rd Floors,Austin,TX,78705,Travis,Texas,48,453,48453,58,58,0,0,0,0.828153074,0,0
+-100.5917768,30.8702147,Schleicher County Medical Center,Critical Access Hospital,102 N Us Highway 277,,Eldorado,TX,76936,Schleicher,Texas,48,413,48413,14,14,2,2,0,0.06771037,0,0
+-94.0477279,33.4303728,Encompass Health Rehabilitation Hospital of Texarkana (FKA Healthsouth Rehab of Texarkana),Rehabilitation Hospital,515 W 12th St,,Texarkana,TX,75501,Bowie,Texas,48,37,48037,60,60,0,0,0,0.71109587,0,0
+-97.11769,32.693608,Encompass Health Rehabilitation Hospital of Arlington (FKA Healthsouth Rehab of Arlington),Rehabilitation Hospital,3200 Matlock Rd,,Arlington,TX,76015,Tarrant,Texas,48,439,48439,85,85,2,2,0,0.666462541,0,2
+-100.5099279,31.4475243,River Crest Hospital,Psychiatric Hospital,1636 Hunters Glen Rd,,San Angelo,TX,76901,Tom Green,Texas,48,451,48451,80,80,0,0,0,0.602328777,0,0
+-96.7804763,32.791682,Baylor Scott & White Institute for Rehabilitation - Dallas,Rehabilitation Hospital,909 N Washington Ave,,Dallas,TX,75246,Dallas,Texas,48,113,48113,92,92,0,0,0,0.831625938,0,0
+-97.5105955,25.9808047,South Texas Rehabilitation Hospital,Rehabilitation Hospital,425 E Alton Gloor Blvd,,Brownsville,TX,78526,Cameron,Texas,48,61,48061,40,40,2,2,0,0.752671242,0,2
+-100.2277,33.1357,Stonewall Memorial Hospital,Critical Access Hospital,821 N Broadway St,PO BOX C,Aspermont,TX,79502,Stonewall,Texas,48,433,48433,20,20,3,3,0,0.10232877,0,1
+-94.1377823,30.0776148,PAM Rehabilitation Hospital of Beaumont (FKA Healthsouth Southeast Texas Rehabilitation Hospital),Rehabilitation Hospital,3340 Plaza 10 Dr,,Beaumont,TX,77707,Jefferson,Texas,48,245,48245,61,61,0,0,0,0.345250398,0,0
+-97.1124275,32.7509201,Millwood Hospital,Psychiatric Hospital,1011 N Cooper St,,Arlington,TX,76011,Tarrant,Texas,48,439,48439,134,134,0,0,0,0.823042333,0,0
+-94.070983,33.464425,CHRISTUS St Michael Rehabilitation Hospital,Rehabilitation Hospital,2400 Saint Michael Dr,,Texarkana,TX,75503,Bowie,Texas,48,37,48037,50,50,0,0,0,0.561808228,0,1
+-97.7483758,30.3060903,Ascension Seton Shoal Creek (FKA Seton Shoal Creek Hospital),Psychiatric Hospital,3501 Mills Ave,,Austin,TX,78731,Travis,Texas,48,453,48453,94,94,0,0,0,0.399183899,0,0
+-99.7390754,32.3999273,Oceans Behavioral Hospital Abilene,Psychiatric Hospital,4225 Woods Pl,,Abilene,TX,79602,Taylor,Texas,48,441,48441,92,92,0,0,0,0.538269937,0,0
+-98.4384242,29.6031738,Laurel Ridge Treatment Center,Psychiatric Hospital,17720 Corporate Woods Dr,,San Antonio,TX,78259,Bexar,Texas,48,29,48029,208,208,1,1,0,0.889791906,0,2
+-98.4992965,33.9027275,Promise Hospital of Wichita Falls (FKA Texas Specialty Hospital - Wichita Falls),Long Term Acute Care Hospital,1103 Grace St,,Wichita Falls,TX,76301,Wichita,Texas,48,485,48485,31,31,6,6,0,0.729739308,0,2
+-96.848794,32.8172049,LifeCare Hospitals of Dallas,Long Term Acute Care Hospital,1950 Record Crossing Rd,,Dallas,TX,75235,Dallas,Texas,48,113,48113,60,60,11,11,0,0.507221699,0,7
+-94.799064,30.068494,Liberty - Dayton Community Hospital (AKA Liberty Dayton Regional Medical Center),Critical Access Hospital,1353 N Travis St,,Liberty,TX,77575,Liberty,Texas,48,291,48291,25,25,4,4,0,0.038575344,0,2
+-97.3948435,27.778251,PAM Specialty Hospital of Corpus Christi North,Long Term Acute Care Hospital,600 Elizabeth St,3rd Floor,Corpus Christi,TX,78404,Nueces,Texas,48,355,48355,22,41,6,6,0,0.829535604,-19,2
+-96.337002,29.5971488,Rice Medical Center,Critical Access Hospital,600 S Austin Rd,,Eagle Lake,TX,77434,Colorado,Texas,48,89,48089,25,21,4,4,0,0.089889109,4,1
+-95.2911397,32.3387009,UT Health East Texas Specialty Hospital (AKA UT Health East Texas Long-Term Acute Care),Long Term Acute Care Hospital,1000 S Beckham Ave,5th Floor,Tyler,TX,75701,Smith,Texas,48,423,48423,36,36,6,6,0,0.692389667,0,2
+-97.2798699,28.3066874,Refugio County Memorial Hospital,Critical Access Hospital,107 Swift St,,Refugio,TX,78377,Refugio,Texas,48,391,48391,20,20,3,3,0,0.082602739,0,2
+-95.4401857,30.0238076,IntraCare Behavioral Health North (AKA IntraCare North Hospital),Psychiatric Hospital,1120 Cypress Station Dr,,Houston,TX,77090,Harris,Texas,48,201,48201,90,90,0,0,0,0.622191787,0,0
+-97.9769277,26.1510261,Weslaco Regional Rehabilitation Hospital,Rehabilitation Hospital,906 James St,,Weslaco,TX,78596,Hidalgo,Texas,48,215,48215,32,32,3,3,0,0.672859609,0,2
+-98.5915739,29.590221,PAM Specialty Hospital of San Antonio (FKA Promise Specialty Hospital - San Antonio),Long Term Acute Care Hospital,5418 N Loop 1604 W,3rd Floor,San Antonio,TX,78249,Bexar,Texas,48,29,48029,26,26,6,6,0,0.883666992,0,3
+-97.7346683,30.3123197,Central Texas Rehabilitation Hospital,Rehabilitation Hospital,700 W 45th St,,Austin,TX,78751,Travis,Texas,48,453,48453,50,50,0,0,0,0.669205487,0,0
+-94.3365407,30.0526124,Riceland Healthcare (FKA Winnie Community Hospital),Critical Access Hospital,538 Broadway,,Winnie,TX,77665,Jefferson,Texas,48,245,48245,25,25,4,4,0,0.115945205,0,0
+-98.5899167,29.5267426,PAM Specialty Hospital of San Antonio Medical Center (FKA LifeCare Hospitals of San Antonio),Long Term Acute Care Hospital,8902 Floyd Curl Dr,,San Antonio,TX,78240,Bexar,Texas,48,29,48029,62,62,10,10,0,0.662436545,0,4
+-98.4563983,29.3522242,Texas Center for Infectious Disease (FKA San Antonio State Chest Hospital),Short Term Acute Care Hospital,2303 Se Military Dr,,San Antonio,TX,78223,Bexar,Texas,48,29,48029,50,50,7,7,0,0.688273966,0,0
+-96.8376124,32.8095255,Childrens Medical Center Dallas,Childrens Hospital,1935 Medical District Dr,,Dallas,TX,75235,Dallas,Texas,48,113,48113,490,398,22,22,115,0.605662644,92,9
+-95.1061719,29.5068819,Devereux Advanced Behavioral Health - Texas League City,Psychiatric Hospital,1150 Devereux Dr,,League City,TX,77573,Galveston,Texas,48,167,48167,132,132,0,0,,0.762640119,0,0
+-95.2298355,30.0445621,Kingwood Pines Hospital,Psychiatric Hospital,2001 Ladbrook Dr,,Kingwood,TX,77339,Harris,Texas,48,201,48201,116,116,2,2,0,0.775980175,0,2
+-106.4772147,31.7788237,Kindred Hospital El Paso,Long Term Acute Care Hospital,1740 Curie Dr,,El Paso,TX,79902,El Paso,Texas,48,141,48141,72,72,8,8,0,0.531088293,0,2
+-95.2922088,32.3376171,UT Health Rehabilitation Hospital,Rehabilitation Hospital,701 Olympic Plaza Cir,,Tyler,TX,75701,Smith,Texas,48,423,48423,49,49,3,3,0,0.688845396,0,2
+-94.070983,33.464425,PAM Specialty Hospital of Texarkana (FKA Dubuis Hospital of Texarkana - North),Long Term Acute Care Hospital,2400 Saint Michael Dr,2nd Floor,Texarkana,TX,75503,Bowie,Texas,48,37,48037,30,30,5,5,0,0.697808206,0,2
+-95.2777496,32.3148859,CHRISTUS Trinity Mother Frances Rehabilitation Hospital,Rehabilitation Hospital,3131 Troup Hwy,,Tyler,TX,75701,Smith,Texas,48,423,48423,94,94,0,0,0,0.778410435,0,0
+-97.7433254,30.3118071,Cornerstone Specialty Hospitals Austin,Long Term Acute Care Hospital,4207 Burnet Rd,,Austin,TX,78756,Travis,Texas,48,453,48453,103,89,18,18,0,0.540095448,14,4
+-94.7235939,31.3374423,PAM Specialty Hospital of Lufkin (FKA Health Memorial Specialty Hospital at CHI St Lukes Health),Long Term Acute Care Hospital,1201 W Frank Ave,5th Floor,Lufkin,TX,75902,Angelina,Texas,48,5,48005,26,26,4,4,0,0.683456242,0,2
+-106.3030615,31.7322208,Highlands Rehabilitation Hospital,Rehabilitation Hospital,1395 George Dieter Dr,,El Paso,TX,79936,El Paso,Texas,48,141,48141,41,41,0,0,0,0.600267291,0,0
+-95.7460274,29.77621,Memorial Hermann Rehabilitation Hospital - Katy,Rehabilitation Hospital,21720 Kingsland Blvd,Suite 102,Katy,TX,77450,Harris,Texas,48,201,48201,35,35,0,0,0,0.806497037,0,0
+-98.4486755,29.3592545,San Antonio State Hospital,Psychiatric Hospital,6711 S New Braunfels Ave,Suite 100,San Antonio,TX,78223,Bexar,Texas,48,29,48029,302,302,0,0,0,0.776893795,0,0
+-93.9856636,29.95524,Mid Jefferson Extended Care Hospital,Long Term Acute Care Hospital,2600 Highway 365,,Nederland,TX,77627,Jefferson,Texas,48,245,48245,48,78,7,7,0,0.70145148,-30,2
+-97.4128108,32.6619355,Encompass Health Rehabilitation Hospital of City View (FKA Healthsouth Rehab of Cityview),Rehabilitation Hospital,6701 Oakmont Blvd,,Fort Worth,TX,76132,Tarrant,Texas,48,439,48439,62,62,0,0,0,0.70565623,0,1
+-97.3804273,33.6541045,Muenster Memorial Hospital,Critical Access Hospital,605 N Maple St,,Muenster,TX,76252,Cooke,Texas,48,97,48097,18,18,3,3,0,0.513089776,0,0
+-101.7875,32.14,Martin County Hospital,Critical Access Hospital,600 E Interstate 20,,Stanton,TX,79782,Martin,Texas,48,317,48317,18,18,3,3,0,0.246270925,0,0
+-102.7283,34.2212,Muleshoe Area Medical Center,Critical Access Hospital,708 S 1st St,,Muleshoe,TX,79347,Bailey,Texas,48,17,48017,25,25,4,4,0,0.155178085,0,1
+-100.6344976,30.5633659,Lillian M Hudspeth Memorial Hospital,Critical Access Hospital,308 Hudspeth St,,Sonora,TX,76950,Sutton,Texas,48,435,48435,12,12,2,2,0,0.10022831,0,0
+-97.6550653,29.6740438,PAM Specialty Hospital of Luling,Long Term Acute Care Hospital,200 Memorial Dr,,Luling,TX,78648,Caldwell,Texas,48,55,48055,34,34,6,6,0,0.821069777,0,2
+-99.741075,34.2969689,Hardeman County Memorial Hospital,Critical Access Hospital,402 Mercer St,Suite 90,Quanah,TX,79252,Hardeman,Texas,48,197,48197,24,24,4,4,0,0.113356166,0,0
+-106.476105,31.781353,El Paso Behavioral Health System (FKA University Behavioral Health of El Paso),Psychiatric Hospital,1900 Denver Ave,,El Paso,TX,79902,El Paso,Texas,48,141,48141,166,166,0,0,0,0.853705227,0,0
+-95.6917378,29.0478738,Sweeny Community Hospital,Critical Access Hospital,305 N Mckinney St,,Sweeny,TX,77480,Brazoria,Texas,48,39,48039,20,14,2,2,0,0.201956943,6,0
+-101.936178,31.233548,Rankin County Hospital District (AKA Rankin Hospital),Critical Access Hospital,1611 Spur 576,,Rankin,TX,79778,Upton,Texas,48,461,48461,15,15,3,3,0,0.056986302,0,0
+-102.3493,31.3905,Crane County Hospital District,Critical Access Hospital,1310 S Alford St,,Crane,TX,79731,Crane,Texas,48,103,48103,25,25,4,4,0,0.071561642,0,0
+-101.8162149,33.1672287,Lynn County Hospital,Critical Access Hospital,2600 Lockwood St,,Tahoka,TX,79373,Lynn,Texas,48,305,48305,24,24,4,4,0,0.232990861,0,2
+-96.635781,28.969106,Jackson County Hospital,Critical Access Hospital,1013 S Wells St,,Edna,TX,77957,Jackson,Texas,48,239,48239,25,25,4,4,0,0.149150684,0,0
+-98.5013548,33.9063056,Red River Hospital,Psychiatric Hospital,1505 8th St,,Wichita Falls,TX,76301,Wichita,Texas,48,485,48485,96,96,0,0,0,0.695719182,0,0
+-94.7304434,32.5008276,Select Specialty Hospital - Longview,Long Term Acute Care Hospital,700 E Marshall Ave,Ground and First Floors West Wing,Longview,TX,75601,Gregg,Texas,48,183,48183,32,32,5,5,0,0.668664396,0,2
+-98.1975,33.8139,Clay County Memorial Hospital,Critical Access Hospital,310 W South St,,Henrietta,TX,76365,Clay,Texas,48,77,48077,25,25,4,4,0,0.055671234,0,0
+-95.4736033,29.7083699,Behavioral Hospital of Bellaire,Psychiatric Hospital,5314 Dashwood Dr,Ste 300,Houston,TX,77081,Harris,Texas,48,201,48201,122,122,0,0,0,0.773882747,0,0
+-97.6935196,30.4836198,Encompass Health Rehabilitation Hospital of Round Rock (FKA HealthSouth Rehabilitation Hospital of Round Rock),Rehabilitation Hospital,1400 Hesters Crossing Rd,,Round Rock,TX,78681,Williamson,Texas,48,491,48491,75,50,0,0,0,0.948493123,25,0
+-97.6727423,26.1597253,Solara Specialty Hospitals Harlingen,Long Term Acute Care Hospital,508 Victoria Ln,,Harlingen,TX,78550,Cameron,Texas,48,61,48061,41,41,7,7,0,0.681590378,0,5
+-95.4606623,30.1724283,Nexus Specialty Hospital - The Woodlands Campus,Long Term Acute Care Hospital,9182 Six Pines Dr,,The Woodlands,TX,77380,Montgomery,Texas,48,339,48339,21,85,16,16,0,0.444319099,-64,2
+-106.4362332,31.7720265,El Paso Psychiatric Center,Psychiatric Hospital,4615 Alameda Ave,,El Paso,TX,79905,El Paso,Texas,48,141,48141,74,74,0,0,0,0.870603502,0,0
+-95.2765614,29.9937741,Encompass Health Rehabilitation Hospital of Humble (FKA Healthsouth Rehabilitation Hospital of Humble),Rehabilitation Hospital,19002 McKay Dr,,Humble,TX,77338,Harris,Texas,48,201,48201,90,90,0,0,0,0.420791477,0,0
+-96.760895,32.941169,The Leaves,Religious Non-Medical Health Care Institution,1230 W Spring Valley Rd,,Richardson,TX,75080,Dallas,Texas,48,113,48113,20,20,0,0,0,0.341095895,0,0
+-98.4927788,29.4337636,Kindred Hospital - San Antonio Central (FKA Select Specialty Hospital - San Antonio),Long Term Acute Care Hospital,111 Dallas St,Fl 4 Bldg C,San Antonio,TX,78205,Bexar,Texas,48,29,48029,44,44,7,7,0,0.64825654,0,2
+-95.3866962,29.723999,Plaza Specialty Hospital (AKA HCA Houston Healthcare Specialty Hospital Medical Center),Long Term Acute Care Hospital,1300 Binz St,,Houston,TX,77004,Harris,Texas,48,201,48201,65,65,12,12,0,0.355785042,0,2
+-95.4588803,30.2356087,Encompass Health Rehabilitation Hospital of the Woodlands (FKA Healthsouth Rehab of Woodlands),Rehabilitation Hospital,18550 I-45 S,,Conroe,TX,77384,Montgomery,Texas,48,339,48339,84,84,0,0,0,0.254957587,0,0
+-95.3940422,29.7093621,TIRR Memorial Hermann,Rehabilitation Hospital,1333 Moursund St,,Houston,TX,77030,Harris,Texas,48,201,48201,134,134,2,2,0,0.775874078,0,2
+-95.3827493,29.7184023,Cornerstone Specialty Hospitals Houston,Long Term Acute Care Hospital,2001 Hermann Dr,,Houston,TX,77004,Harris,Texas,48,201,48201,35,35,16,16,0,0.778160453,0,2
+-96.8699062,32.8260484,Our Childrens House Dallas,Childrens Hospital,1340 Empire Central Dr,,Dallas,TX,75247,Dallas,Texas,48,113,48113,39,39,15,15,0,0.668774128,0,2
+-96.9986111,28.8081385,PAM Specialty Hospital of Victoria South,Long Term Acute Care Hospital,506 E San Antonio St,3rd Floor,Victoria,TX,77901,Victoria,Texas,48,469,48469,23,23,4,4,0,0.953543782,0,2
+-95.117639,29.5478299,PAM Rehabilitation Hospital of Clear Lake North Campus (FKA Kindred Rehabilitation Hospital Clear Lake),Rehabilitation Hospital,655 E Medical Center Blvd,,Webster,TX,77598,Harris,Texas,48,201,48201,60,60,0,0,0,0.485534579,0,0
+-97.7073463,30.3034562,Dell Childrens Medical Center of Central Texas,Childrens Hospital,4900 Mueller Blvd,,Austin,TX,78723,Travis,Texas,48,453,48453,240,203,76,76,76,0.616357386,37,2
+-97.1140876,32.7505698,Kindred Hospital - Tarrant County Arlington,Long Term Acute Care Hospital,1000 N Cooper St,,Arlington,TX,76011,Tarrant,Texas,48,439,48439,68,68,16,16,0,0.50114727,0,3
+-94.1321453,30.086975,CHRISTUS DUBUIS Hospital of Beaumont,Long Term Acute Care Hospital,2830 Calder St,4th Floor,Beaumont,TX,77702,Jefferson,Texas,48,245,48245,33,33,6,6,0,0.769198835,0,3
+-97.1457,32.5993,Kindred Hospital - Mansfield,Long Term Acute Care Hospital,1802 Highway 157 N,,Mansfield,TX,76063,Tarrant,Texas,48,439,48439,55,55,5,5,0,0.455292642,0,2
+-95.6379908,29.6002331,Kindred Hospital Sugar Land,Long Term Acute Care Hospital,1550 First Colony Blvd,,Sugar Land,TX,77479,Fort Bend,Texas,48,157,48157,105,105,18,18,0,0.609367251,0,3
+-96.082102,33.123115,Glen Oaks Hospital,Psychiatric Hospital,301 Division St,,Greenville,TX,75401,Hunt,Texas,48,231,48231,54,54,0,0,0,0.766971052,0,0
+-95.6332,29.6044,Encompass Health Rehabilitation Hospital of Sugar Land (FKA Healthsouth Rehabilitation Hospital - Sugarland),Rehabilitation Hospital,1325 Highway 6,,Sugar Land,TX,77478,Fort Bend,Texas,48,157,48157,50,50,0,0,0,0.908767104,0,1
+-95.588074,29.924462,Kindred Hospital Houston Northwest,Long Term Acute Care Hospital,11297 Fallbrook Dr,,Houston,TX,77065,Harris,Texas,48,201,48201,84,84,24,24,0,0.557274163,0,3
+-101.7326554,34.2065762,Allegiance Behavioral Health Center of Plainview,Psychiatric Hospital,2601 Dimmitt Rd,Suite 400,Plainview,TX,79072,Hale,Texas,48,189,48189,20,20,0,0,0,,0,0
+-98.5868358,29.5140811,Warm Springs Rehabilitation Hospital of San Antonio,Rehabilitation Hospital,5101 Medical Dr,,San Antonio,TX,78229,Bexar,Texas,48,29,48029,65,65,1,1,0,0.784432411,0,1
+-96.6346681,33.669802,Carrus Specialty Hospital,Long Term Acute Care Hospital,1810 W Us Highway 82,,Sherman,TX,75092,Grayson,Texas,48,181,48181,33,24,9,9,0,0.792122304,9,2
+-101.896489,33.570569,Covenant Childrens,Childrens Hospital,4002 24th St,,Lubbock,TX,79410,Lubbock,Texas,48,303,48303,275,204,20,20,46,0.387228042,71,2
+-96.7548359,32.9978436,Encompass Health Rehabilitation Hospital of Richardson (FKA HealthSouth Rehabilitation Hospital of Richardson),Rehabilitation Hospital,3351 Waterview Pkwy,,Richardson,TX,75080,Collin,Texas,48,85,48085,50,50,0,0,0,0.876986325,0,0
+-100.2482398,35.1986478,Shamrock General Hospital,Critical Access Hospital,1000 S Main St,Suite 511,Shamrock,TX,79079,Wheeler,Texas,48,483,48483,25,25,4,4,0,0.056438357,0,0
+-106.4742236,31.783763,El Paso LTAC Hospital,Short Term Acute Care Hospital,1221 N Cotton St,3rd Floor,El Paso,TX,79902,El Paso,Texas,48,141,48141,33,33,6,6,0,0.153922796,0,2
+-95.4449403,30.0246838,Cypress Creek Hospital,Psychiatric Hospital,17750 Cali Dr,,Houston,TX,77090,Harris,Texas,48,201,48201,128,128,0,0,0,0.772334814,0,1
+-102.6549052,32.7218479,Memorial Hospital - Seminole,Critical Access Hospital,209 Nw 8th St,,Seminole,TX,79360,Gaines,Texas,48,165,48165,33,25,4,4,0,0.385753423,8,1
+-99.4736059,27.5336399,Laredo Specialty Hospital,Long Term Acute Care Hospital,2005 E Bustamante St,,Laredo,TX,78041,Webb,Texas,48,479,48479,40,40,7,7,0,0.608561635,0,3
+-95.1299403,29.5371528,Cornerstone Specialty Hospitals Clear Lake,Long Term Acute Care Hospital,709 W Medical Center Blvd,,Webster,TX,77598,Harris,Texas,48,201,48201,74,74,23,23,0,0.439263225,0,3
+-97.39944,31.117809,Baylor Scott & White Continuing Care Hospital - Temple,Long Term Acute Care Hospital,546 N Kegley Rd,,Temple,TX,76502,Bell,Texas,48,27,48027,48,25,4,4,0,0.782136977,23,2
+-96.5986116,32.7783744,Mesquite Specialty Hospital,Long Term Acute Care Hospital,1024 N Galloway Ave,,Mesquite,TX,75149,Dallas,Texas,48,113,48113,40,40,6,6,0,0.505753398,0,3
+-98.764196,33.369302,Olney Hamilton Hospital,Critical Access Hospital,901 W Hamilton St,,Olney,TX,76374,Young,Texas,48,503,48503,25,25,4,4,0,0.307616442,0,1
+-101.907382,30.9148778,Iraan General Hospital District,Critical Access Hospital,600 Hwy 349 N,,Iraan,TX,79744,Pecos,Texas,48,371,48371,14,14,2,2,0,0.132289633,0,0
+-99.7306,32.4709,ContinueCARE Hospital at Hendrick Medical Center (FKA Hendrick Center for Extended Care),Long Term Acute Care Hospital,1900 Pine St,7th Floor,Abilene,TX,79601,Taylor,Texas,48,441,48441,23,19,5,5,0,0.762220621,4,2
+-101.9208336,35.2070753,Vibra Rehabilitation Hospital of Amarillo (FKA Kindred Rehabilitation Hospital Amarillo),Rehabilitation Hospital,7200 W 9th Ave,,Amarillo,TX,79106,Potter,Texas,48,375,48375,44,44,0,0,0,0.469925284,0,1
+-99.7446581,33.1572901,Haskell Memorial Hospital,Critical Access Hospital,1 Avenue N,Suite 1117,Haskell,TX,79521,Haskell,Texas,48,207,48207,25,25,4,4,0,0.093150683,0,0
+-103.0904312,31.8495205,Winkler County Memorial Hospital,Critical Access Hospital,821 Jeffee Dr,,Kermit,TX,79745,Winkler,Texas,48,495,48495,19,19,3,3,0,0.120980531,0,1
+-100.798767,36.369483,Ochiltree General Hospital,Critical Access Hospital,3101 Garrett Dr,,Perryton,TX,79070,Ochiltree,Texas,48,357,48357,25,25,4,4,0,0.221150681,0,1
+-96.2638992,32.7413272,Terrell State Hospital,Psychiatric Hospital,1200 E Brin St,,Terrell,TX,75160,Kaufman,Texas,48,257,48257,288,288,0,0,0,0.936073065,0,0
+-95.292117,32.342884,Tyler ContinueCARE Hospital,Long Term Acute Care Hospital,800 E Dawson St,4th Floor,Tyler,TX,75701,Smith,Texas,48,423,48423,51,51,8,8,0,0.755627155,0,3
+-101.4960889,32.2701805,Big Spring State Hospital,Psychiatric Hospital,1901 N Us Highway 87,,Big Spring,TX,79720,Howard,Texas,48,227,48227,144,144,0,0,0,1,0,0
+-97.8058052,30.1889586,Texas NeuroRehab Center,Long Term Acute Care Hospital,1106 W Dittmar Rd,,Austin,TX,78745,Travis,Texas,48,453,48453,47,47,7,7,0,0.860682011,0,2
+-96.8649627,32.6280627,Hickory Trail Hospital,Psychiatric Hospital,2000 Old Hickory Trl,,Desoto,TX,75115,Dallas,Texas,48,113,48113,86,86,0,0,0,0.750971675,0,0
+-96.8710374,32.6464046,Methodist Rehabilitation Hospital,Rehabilitation Hospital,3020 W Wheatland Rd,,Dallas,TX,75237,Dallas,Texas,48,113,48113,50,50,0,0,0,0.7845487,0,0
+-102.1560022,31.9997102,Encompass Health Rehabilitation Hospital of Midland Odessa (FKA HealthSouth Rehabilitation Hospital of Midland/Odessa),Rehabilitation Hospital,1800 Heritage Blvd,,Midland,TX,79707,Midland,Texas,48,329,48329,80,80,0,0,0,0.751780808,0,0
+-96.2142652,28.716864,Palacios Community Medical Center,Critical Access Hospital,311 Green Ave,,Palacios,TX,77465,Matagorda,Texas,48,321,48321,17,17,3,3,0,0.07622885,0,2
+-102.757584,33.719266,Cochran Memorial Hospital,Critical Access Hospital,201 E Grant Ave,,Morton,TX,79346,Cochran,Texas,48,79,48079,18,18,3,3,0,0.002739726,0,0
+-99.962615,31.749386,Ballinger Memorial Hospital,Critical Access Hospital,608 Avenue B,,Ballinger,TX,76821,Runnels,Texas,48,399,48399,25,16,3,3,0,0.248801365,9,0
+-99.7783,30.4988,Kimble Hospital,Critical Access Hospital,349 Reid Rd,,Junction,TX,76849,Kimble,Texas,48,267,48267,15,15,3,3,0,0.100639269,0,0
+-95.498019,29.7093455,West Oaks Hospital,Psychiatric Hospital,6500 Hornwood Dr,,Houston,TX,77074,Harris,Texas,48,201,48201,144,144,0,0,0,0.862404883,0,0
+-98.5840784,29.5273305,Encompass Health Rehabilitation Hospital of San Antonio (FKA HealthSouth Rehabilitation Institute of San Antonio),Rehabilitation Hospital,9119 Cinnamon Hl,,San Antonio,TX,78240,Bexar,Texas,48,29,48029,108,108,0,0,0,0.364916295,0,2
+-98.4846753,33.8740985,Encompass Health Rehabilitation Hospital of Wichita Falls (FKA HealthSouth Rehabilitation Hospital of Wichita Falls),Rehabilitation Hospital,3901 Armory Rd,,Wichita Falls,TX,76302,Wichita,Texas,48,485,48485,63,63,0,0,0,0.847010195,0,0
+-98.1027498,29.7292629,PAM Specialty Hospital of New Braunfels,Long Term Acute Care Hospital,1445 Hanz Dr,,New Braunfels,TX,78130,Comal,Texas,48,91,48091,40,40,6,6,0,0.690274,0,2
+-97.0220391,28.8550166,PAM Specialty Hospital of Victoria North,Long Term Acute Care Hospital,102 Medical Dr,,Victoria,TX,77904,Victoria,Texas,48,469,48469,22,26,4,4,0,0.946996868,-4,2
+-95.157752,31.8071923,Rusk State Hospital,Psychiatric Hospital,805 N Dickinson Dr,,Rusk,TX,75785,Cherokee,Texas,48,73,48073,288,288,0,0,0,0.959883928,0,0
+-106.5020218,31.7739414,Premier Specialty Hospital of El Paso (FKA Mesa Hills Specialty Hospital),Long Term Acute Care Hospital,2311 N Oregon St,,El Paso,TX,79902,El Paso,Texas,48,141,48141,32,32,5,5,0,0.316523969,0,2
+-101.2462688,33.6607887,Crosbyton Clinic Hospital,Critical Access Hospital,710 W Main St,,Crosbyton,TX,79322,Crosby,Texas,48,107,48107,25,25,4,4,0,0.072986305,0,0
+-96.8842362,32.6453739,Vibra Specialty Hospital at DeSoto (FKA Vibra Specialty Hospital Dallas),Long Term Acute Care Hospital,2700 Walker Way,,Desoto,TX,75115,Dallas,Texas,48,113,48113,40,60,6,6,0,0.756712317,-20,3
+-93.720498,31.330566,Sabine County Hospital,Critical Access Hospital,2301 Worth St,,Hemphill,TX,75948,Sabine,Texas,48,403,48403,25,25,4,4,0,0.143999994,0,1
+-94.105114,31.5315321,CHI St Lukes Health-Memorial San Augustine (FKA Memorial Medical Center - San Augustine),Critical Access Hospital,511 E Hospital St,,San Augustine,TX,75972,San Augustine,Texas,48,405,48405,18,9,2,2,0,0.19878234,9,2
+-96.8647087,33.0456497,Select Specialty Hospital - Dallas,Long Term Acute Care Hospital,2329 Parker Rd,,Carrollton,TX,75010,Denton,Texas,48,121,48121,60,90,14,14,0,0.580593824,-30,3
+-99.1592114,30.0454358,Kerrville State Hospital,Psychiatric Hospital,721 Thompson Dr,,Kerrville,TX,78028,Kerr,Texas,48,265,48265,218,218,0,0,0,0.987796903,0,0
+-95.4016041,29.7078462,Texas Childrens Hospital,Childrens Hospital,6621 Fannin St,,Houston,TX,77030,Harris,Texas,48,201,48201,809,813,252,252,252,0.761454105,-4,19
+-96.7715146,32.9128472,Medical City Green Oaks Hospital (FKA Green Oaks Hospital),Psychiatric Hospital,7808 Clodus Fields Dr,,Dallas,TX,75251,Dallas,Texas,48,113,48113,124,124,0,0,0,0.914228916,0,0
+-98.5266172,33.8418279,North Texas State Hospital - Witchita Falls Campus,Psychiatric Hospital,6515 Kemp Blvd,,Wichita Falls,TX,76308,Wichita,Texas,48,485,48485,312,312,0,0,0,0.820258677,0,0
+-96.7481447,33.0183471,Encompass Health Rehabilitation Hospital of Plano (FKA Healthsouth Rehab of Plano),Rehabilitation Hospital,2800 W 15th St,,Plano,TX,75075,Collin,Texas,48,85,48085,83,83,0,0,0,0.586466432,0,0
+-95.5674709,29.9893519,CHI St Lukes Health - The Vintage Hospital,Short Term Acute Care Hospital,20171 Chasewood Park Dr,,Houston,TX,77070,Harris,Texas,48,201,48201,106,86,12,12,4,0.471424013,20,3
+-95.5223629,29.6930168,Memorial Hermann Southwest Hospital,Short Term Acute Care Hospital,7600 Beechnut St,,Houston,TX,77074,Harris,Texas,48,201,48201,543,547,157,157,85,0.653064966,-4,41
+-97.1639125,31.5129761,Central Texas Veterans Health Care System - Doris Miller Department of Veterans Affairs Medical Center (AKA Waco VA Medical Center),VA Hospital,4800 Memorial Dr,,Waco,TX,76711,McLennan,Texas,48,309,48309,,,0,0,,,0,0
+-95.3937915,29.7106453,Ben Taub Hospital,Short Term Acute Care Hospital,1504 Taub Loop,,Houston,TX,77030,Harris,Texas,48,201,48201,402,444,30,30,40,0.683048666,-42,13
+-95.6977245,29.7872447,Houston Methodist West Hospital (FKA Methodist West Houston Hospital),Short Term Acute Care Hospital,18500 Katy Fwy,,Houston,TX,77094,Harris,Texas,48,201,48201,239,193,25,25,0,0.575527012,46,8
+-97.4756699,31.020936,Cedar Crest Hospital & Residential Treatment Center,Psychiatric Hospital,3500 S Ih-35 Frontage Rd,,Belton,TX,76513,Bell,Texas,48,27,48027,86,86,0,0,0,0.625708818,0,0
+-97.0675146,33.0456562,Texas Health Presbyterian Hospital Flower Mound,Short Term Acute Care Hospital,4400 Long Prairie Rd,,Flower Mound,TX,75028,Denton,Texas,48,121,48121,99,101,8,8,0,0.525658906,-2,2
+-96.5980986,32.7784605,Mesquite Rehabilitation Institute,Rehabilitation Hospital,1023 N Belt Line Rd,,Mesquite,TX,75149,Dallas,Texas,48,113,48113,30,30,2,2,0,0.828858435,0,2
+-98.0952063,29.7350675,New Braunfels Regional Rehabilitation Hospital,Rehabilitation Hospital,2041 Sundance Pkwy,,New Braunfels,TX,78130,Comal,Texas,48,91,48091,40,40,2,2,0,0.792397261,0,2
+-94.7769525,29.3092251,Shriners Hospitals for Children - Galveston,Childrens Hospital,815 Market St,,Galveston,TX,77550,Galveston,Texas,48,167,48167,30,30,12,12,,,0,2
+-95.4057673,29.7044572,Shriners Hospitals for Children - Houston,Childrens Hospital,6977 Main St,,Houston,TX,77030,Harris,Texas,48,201,48201,40,40,15,15,,,0,0
+-99.1163103,30.0136003,South Texas Veterans Health Care System - Kerrville VA Hospital,VA Hospital,3600 Memorial Blvd,,Kerrville,TX,78028,Kerr,Texas,48,265,48265,,,0,0,,,0,0
+-95.1274902,29.5435654,Kindred Hospital Clear Lake,Long Term Acute Care Hospital,350 Blossom St,,Webster,TX,77598,Harris,Texas,48,201,48201,110,110,14,14,0,0.486849308,0,3
+-95.6141198,29.920191,Encompass Health Rehabilitation Hospital of Cypress (FKA Healthsouth Rehabilitation Hospital of Cypress),Rehabilitation Hospital,13031 Wortham Center Dr,,Houston,TX,77065,Harris,Texas,48,201,48201,60,60,0,0,0,0.819269419,0,0
+-106.4339462,31.7713503,El Paso Childrens Hospital,Childrens Hospital,4845 Alameda Ave,,El Paso,TX,79905,El Paso,Texas,48,141,48141,122,122,24,24,22,0.509364486,0,2
+-97.1170439,32.7477094,Texas Health Heart and Vascular Hospital,Short Term Acute Care Hospital,811 Wright St,,Arlington,TX,76012,Tarrant,Texas,48,439,48439,47,47,8,8,0,0.279452056,0,2
+-99.7437357,32.3712955,Encompass Health Rehabilitation Hospital of Abilene (FKA HealthSouth Rehabilitation Hospital of Abilene),Rehabilitation Hospital,6401 Directors Pkwy,,Abilene,TX,79606,Taylor,Texas,48,441,48441,60,60,0,0,0,0.705296814,0,0
+-97.6831302,31.0729022,Seton Medical Center Harker Heights,Short Term Acute Care Hospital,850 W Central Texas Expy,,Harker Heights,TX,76548,Bell,Texas,48,27,48027,83,66,10,10,0,0.394728094,17,5
+-96.8138735,32.8022649,Texas Scottish Rite Hospital for Children,Childrens Hospital,2222 Welborn St,,Dallas,TX,75219,Dallas,Texas,48,113,48113,100,52,20,20,,,48,2
+-96.279247,30.5823146,Baylor Scott & White Medical Center - College Station,Short Term Acute Care Hospital,700 Scott And White Dr,,College Station,TX,77845,Brazos,Texas,48,41,48041,135,119,16,16,16,0.5745278,16,6
+-96.994716,33.273712,Baylor Scott & White Emergency Hospital - Aubrey (FKA Emerus Hospital East Denton County),Short Term Acute Care Hospital,26791 Us Highway 380 E,,Aubrey,TX,76227,Denton,Texas,48,121,48121,8,40,6,6,0,0.089492753,-32,0
+-98.4982673,29.4281027,The Childrens Hospital of San Antonio,Childrens Hospital,333 N Santa Rosa St,,San Antonio,TX,78207,Bexar,Texas,48,29,48029,652,194,26,26,60,0.455924302,458,2
+-98.5900455,29.5131098,CHRISTUS Santa Rosa Hospital - Medical Center,Short Term Acute Care Hospital,2827 Babcock Rd,,San Antonio,TX,78229,Bexar,Texas,48,29,48029,172,377,49,49,5,0.608008444,-205,11
+-98.4448994,29.5763909,Warm Springs Rehabilitation Hospital of Thousand Oaks,Rehabilitation Hospital,14747 Jones Maltsberger Rd,,San Antonio,TX,78247,Bexar,Texas,48,29,48029,34,34,0,0,,,0,0
+-97.8197399,30.5233238,Baylor Scott & White Emergency Medical Center - Cedar Park,Short Term Acute Care Hospital,900 E Whitestone Blvd,,Cedar Park,TX,78613,Williamson,Texas,48,491,48491,8,8,1,1,0,0.002762431,0,0
+-106.4441215,31.8136904,William Beaumont Army Medical Center,Department of Defense Hospital,5005 N Piedras St,,El Paso,TX,79920,El Paso,Texas,48,141,48141,209,209,2,2,,,0,2
+-98.4430997,29.4542542,San Antonio Military Medical Center (FKA Brooke Army Medical Center),Department of Defense Hospital,3551 Roger Brooke Dr,,Fort Sam Houston,TX,78234,Bexar,Texas,48,29,48029,483,483,2,2,,,0,2
+-97.7955,31.1266,Carl R Darnall Army Medical Center,Department of Defense Hospital,36065 Santa Fe Ave,,Fort Hood,TX,76544,Bell,Texas,48,27,48027,128,128,0,0,,,0,0
+-97.4182024,32.6541764,Baylor Scott & White Institute for Rehabilitation - Fort Worth (FKA Globalrehab - Fort Worth),Rehabilitation Hospital,6601 Harris Pkwy,,Fort Worth,TX,76132,Tarrant,Texas,48,439,48439,42,42,0,0,0,0.474624932,0,0
+-98.4924357,29.6282341,Select Rehabilitation Hospital of San Antonio (FKA Globalrehab - San Antonio),Rehabilitation Hospital,19126 Stonehue,,San Antonio,TX,78258,Bexar,Texas,48,29,48029,42,42,0,0,0,0.658838868,0,0
+-95.5798611,29.7324501,Nexus Childrens Hospital - Houston (FKA Healthbridge Childrens Hospital - West Houston),Childrens Hospital,2929 Woodland Park Dr,,Houston,TX,77082,Harris,Texas,48,201,48201,40,40,15,15,0,0.415273964,0,2
+-95.458533,30.1899603,Encompass Health Rehabilitation Hospital Vision Park (FKA Reliant Hospital North Houston),Rehabilitation Hospital,117 Vision Park Blvd,,Shenandoah,TX,77384,Montgomery,Texas,48,339,48339,60,60,0,0,0,0.761461198,0,0
+-96.7704903,32.9010971,Encompass Health Rehabilitation Hospital of Dallas (FKA HealthSouth Rehabilitation Hospital of Dallas),Rehabilitation Hospital,7930 Northaven Rd,,Dallas,TX,75230,Dallas,Texas,48,113,48113,60,40,0,0,0,0.835890412,20,0
+-97.1131424,32.8451239,Encompass Health Rehabilitation Hospital of the Mid-Cities (FKA HealthSouth Rehabilitation Hospital of the Mid-Cities),Rehabilitation Hospital,2304 State Hwy 121,,Bedford,TX,76021,Tarrant,Texas,48,439,48439,60,60,0,0,0,0.727077603,0,0
+-97.7662514,30.2258631,Encompass Health Rehabilitation Hospital of Austin (FKA HealthSouth Rehabilitation Hospital of South Austin),Rehabilitation Hospital,330 W Ben White Blvd,,Austin,TX,78704,Travis,Texas,48,453,48453,60,60,0,0,0,0.785114169,0,0
+-95.5711438,29.9901193,Encompass Health Rehabilitation Hospital the Vintage (FKA HealthSouth Rehabilitation Hospital of Vintage Park),Rehabilitation Hospital,20180 Chasewood Park Dr,,Houston,TX,77070,Harris,Texas,48,201,48201,60,60,0,0,0,0.629417181,0,0
+-95.480264,30.2845547,Aspire Behavioral Health of Conroe (AKA Aspire Hospital Behavioral Health),Short Term Acute Care Hospital,2006 S Loop 336 W,Suite 500,Conroe,TX,77304,Montgomery,Texas,48,339,48339,30,6,1,1,0,0.088584475,24,0
+-97.1168429,32.6829476,Baylor Scott & White Orthopedic and Spine Hospital - Arlington,Short Term Acute Care Hospital,707 Highlander Blvd,,Arlington,TX,76015,Tarrant,Texas,48,439,48439,20,24,4,4,0,0.444634706,-4,1
+-96.8403762,33.1029444,Baylor Scott & White Institute for Rehabilitation - Frisco,Rehabilitation Hospital,2990 Legacy Dr,,Frisco,TX,75034,Collin,Texas,48,85,48085,44,44,0,0,0,0.679701149,0,0
+-96.772903,32.793339,Baylor T Boone Pickens Cancer Hospital,Short Term Acute Care Hospital,3232 Worth St,Suite C-1025,Dallas,TX,75246,Dallas,Texas,48,113,48113,96,96,17,17,,,0,1
+-96.6824261,33.2211103,Baylor Scott & White Medical Center - McKinney,Short Term Acute Care Hospital,5252 W University Dr,,McKinney,TX,75071,Collin,Texas,48,85,48085,143,143,16,16,13,0.622013628,0,7
+-98.304654,30.5115117,Baylor Scott & White Medical Center - Marble Falls,Short Term Acute Care Hospital,810 W Highway 71,,Marble Falls,TX,78654,Burnet,Texas,48,53,48053,46,46,8,8,0,0.43436569,0,3
+-96.6017824,33.6767819,Baylor Scott & White Surgical Hospital - Sherman (FKA Heritage Park Surgical Hospital),Short Term Acute Care Hospital,3601 N Calais St,,Sherman,TX,75090,Grayson,Texas,48,181,48181,12,12,2,2,0,0.260502279,0,0
+-96.8294191,32.984782,Methodist Hospital for Surgery,Short Term Acute Care Hospital,17101 Dallas Pkwy,,Addison,TX,75001,Dallas,Texas,48,113,48113,32,32,4,4,0,0.644434929,0,1
+-96.7224738,33.1766132,Methodist McKinney Hospital,Short Term Acute Care Hospital,8000 Eldorado Pkwy,,McKinney,TX,75070,Collin,Texas,48,85,48085,23,23,4,4,0,0.323883265,0,2
+-98.4734862,29.5878278,Baptist Emergency Hospital - Thousand Oaks,Short Term Acute Care Hospital,16088 San Pedro Ave,,San Antonio,TX,78232,Bexar,Texas,48,29,48029,10,50,3,3,0,0.140712336,-40,0
+-96.8008884,33.0789252,Childrens Medical Center Plano,Childrens Hospital,7601 Preston Rd,,Plano,TX,75024,Collin,Texas,48,85,48085,72,72,12,12,12,0.310502291,0,2
+-97.3413041,32.7407869,Texas Rehabilitation Hospital of Fort Worth,Rehabilitation Hospital,425 Alabama Ave,,Fort Worth,TX,76104,Tarrant,Texas,48,439,48439,66,66,0,0,0,0.701452911,0,0
+-97.1779317,32.6280004,Perimeter Behavioral Hospital of Arlington,Psychiatric Hospital,7000 US 287 Frontage Rd,,Arlington,TX,76001,Tarrant,Texas,48,439,48439,232,232,0,0,0,0.662718475,0,0
+-97.1678305,33.2198264,Select Rehabilitation Hospital of Denton,Rehabilitation Hospital,2620 Scripture St,,Denton,TX,76201,Denton,Texas,48,121,48121,44,44,0,0,0,0.510211706,0,0
+-96.6346681,33.669802,Carrus Rehabilitation Hospital,Rehabilitation Hospital,1810 W Us Highway 82,,Sherman,TX,75092,Grayson,Texas,48,181,48181,24,24,0,0,0,0.947488606,0,0
+-94.7435,31.3074,Oceans Behavioral Hospital Lufkin (FKA Audubon Behavioral Healthcare Lufkin),Psychiatric Hospital,302 Gobblers Knob Rd,,Lufkin,TX,75904,Angelina,Texas,48,5,48005,24,24,0,0,0,0.815525115,0,0
+-94.7346246,32.5372019,Oceans Behavioral Hospital Longview (FKA Audubon Behavioral Healthcare Longview),Psychiatric Hospital,615 Clinic Dr,,Longview,TX,75605,Gregg,Texas,48,183,48183,24,24,0,0,0,0.88310504,0,0
+-96.812489,32.6030305,Crescent Medical Center Lancaster,Short Term Acute Care Hospital,2600 W Pleasant Run Rd,,Lancaster,TX,75146,Dallas,Texas,48,113,48113,84,84,8,8,0,0.071363337,0,2
+-94.1698541,30.1121903,The Medical Center of Southeast Texas Beaumont Campus,Short Term Acute Care Hospital,6025 Metropolitan Dr,,Beaumont,TX,77706,Jefferson,Texas,48,245,48245,12,,38,38,,,12,0
+-96.8539458,33.0314924,Plano Surgical Hospital (FKA Victory Medical Center Plano),Short Term Acute Care Hospital,2301 Marsh Ln,,Plano,TX,75093,Denton,Texas,48,121,48121,26,,32,32,,,26,0
+-95.2003654,29.7706117,Advanced Diagnostics Hospital East (FKA Victory Surgical Hospital East Houston),Short Term Acute Care Hospital,12950 East Fwy,Suite 100,Houston,TX,77015,Harris,Texas,48,201,48201,4,4,1,1,0,0.85958904,0,1
+-98.6846005,29.4517725,Warm Springs Rehabilitation Hospital of Westover Hills,Rehabilitation Hospital,10323 State Highway 151,,San Antonio,TX,78251,Bexar,Texas,48,29,48029,40,40,0,0,,,0,0
+-97.31,32.9315,Texas Health Harris Methodist Hospital Alliance,Short Term Acute Care Hospital,10864 Texas Health Trl,,Fort Worth,TX,76244,Tarrant,Texas,48,439,48439,101,101,12,12,8,0.598833561,0,2
+-95.4603347,30.1888066,Nexus Specialty Hospital - Shenandoah Campus,Short Term Acute Care Hospital,123 Vision Park Blvd,,Shenandoah,TX,77384,Montgomery,Texas,48,339,48339,54,54,9,9,,,0,0
+-97.0771568,33.0353088,iCare Rehabilitation Hospital & Physical Medicine Center (FKA Continuum Rehabilitation Hospital of North Texas),Rehabilitation Hospital,3100 Peters Colony Rd,,Flower Mound,TX,75022,Denton,Texas,48,121,48121,41,41,0,0,0,0.236017376,0,0
+-97.3779799,27.6884137,Corpus Christi Rehabilitation Hospital (FKA Esplanade Rehabilitation Hospital),Rehabilitation Hospital,5726 Esplanade Dr,,Corpus Christi,TX,78414,Nueces,Texas,48,355,48355,35,35,4,4,0,0.760156572,0,2
+-97.1459228,32.956785,Methodist Southlake Hospital (FKA Forest Park Medical Center Southlake),Short Term Acute Care Hospital,421 E State Highway 114,,Southlake,TX,76092,Tarrant,Texas,48,439,48439,54,54,9,9,,,0,1
+-95.3993705,29.7079262,Texas Heart Institute at Baylor St Lukes Medical Center,Short Term Acute Care Hospital,6770 Bertner Ave,,Houston,TX,77030,Harris,Texas,48,201,48201,850,850,149,149,,,0,0
+-95.4574,29.647,The Menninger Clinic Psychiatric Hospital,Psychiatric Hospital,12301 Main St,,Houston,TX,77035,Harris,Texas,48,201,48201,120,120,0,0,,,0,0
+-101.7793662,33.5184611,Western Regional Medical Facility - John Montford Unit,Short Term Acute Care Hospital,8602 Peach Ave,,Lubbock,TX,79404,Lubbock,Texas,48,303,48303,550,550,96,96,,,0,0
+-98.57623,29.519966,Clarity Child Guidance Center,Psychiatric Hospital,8535 Tom Slick,,San Antonio,TX,78229,Bexar,Texas,48,29,48029,66,66,0,0,,,0,0
+-96.8539458,33.0314924,Accel Rehabilitation Hospital of Plano,Rehabilitation Hospital,2301 Marsh Ln,Suite 200,Plano,TX,75093,Denton,Texas,48,121,48121,42,48,0,0,0,0.110177435,-6,0
+-98.0695914,29.7206131,Resolute Health Hospital,Short Term Acute Care Hospital,555 Creekside Xing,,New Braunfels,TX,78130,Comal,Texas,48,91,48091,128,112,16,16,16,0.387989223,16,4
+-97.6576085,30.5666064,Cornerstone Specialty Hospitals Round Rock,Short Term Acute Care Hospital,4681 College Park,,Round Rock,TX,78665,Williamson,Texas,48,491,48491,54,54,9,9,,,0,0
+-97.6737435,30.6061184,Rock Springs Hospital,Psychiatric Hospital,700 Se Inner Loop,,Georgetown,TX,78626,Williamson,Texas,48,491,48491,72,72,3,3,0,0.781468809,0,2
+-97.8562608,30.0085174,Warm Springs Rehabilitation Hospital of Kyle (AKA PAM Rehabilitation Hospital of Kyle),Rehabilitation Hospital,5980 Kyle Pkwy,,Kyle,TX,78640,Hays,Texas,48,209,48209,40,40,0,0,0,0.774315059,0,0
+-95.6627626,30.0243164,Lone Star Behavioral Health,Psychiatric Hospital,16303 Grant Rd,,Cypress,TX,77429,Harris,Texas,48,201,48201,24,24,0,0,0,0.488812774,0,0
+-96.8684817,33.0458798,Carrollton Springs Hospital,Psychiatric Hospital,2225 Parker Rd,,Carrollton,TX,75010,Denton,Texas,48,121,48121,78,78,0,0,0,0.789462566,0,0
+-95.279015,29.9920682,PAM Rehabilitation Hospital of Humble (FKA Kindred Rehabilitation Hospital Northeast Houston),Rehabilitation Hospital,18839 Mckay Dr,,Humble,TX,77338,Harris,Texas,48,201,48201,46,46,0,0,0,0.598133743,0,0
+-95.390408,29.5772333,HCA Houston Healthcare Pearland (FKA Pearland Medical Center),Short Term Acute Care Hospital,11100 Shadow Creek Pkwy,,Pearland,TX,77584,Brazoria,Texas,48,39,48039,53,49,8,8,0,0.777127326,4,3
+-97.3129275,32.8968694,Wise Health Surgical Hospital at Parkway,Short Term Acute Care Hospital,3200 N Tarrant Pkwy,,Fort Worth,TX,76177,Tarrant,Texas,48,439,48439,24,36,6,6,0,0.079071537,-12,1
+-97.3836,32.7008,Texas Health Hospital Clearfork,Short Term Acute Care Hospital,5400 Clearfork Main St,,Fort Worth,TX,76109,Tarrant,Texas,48,439,48439,54,54,9,9,,,0,0
+-97.022543,28.855896,PAM Rehabilitation Hospital of Victoria,Rehabilitation Hospital,101 James Coleman Dr,,Victoria,TX,77904,Victoria,Texas,48,469,48469,26,26,0,0,0,0.913803995,0,0
+-97.6904238,30.4769607,St Davids Surgical Hospital (FKA Forest Park Medical Center - Austin),Short Term Acute Care Hospital,1201 W Louis Henna Blvd,,Austin,TX,78681,Williamson,Texas,48,491,48491,46,46,8,8,,,0,0
+-97.7340318,30.276579,Dell Seton Medical Center at the University of Texas,Short Term Acute Care Hospital,1500 Red River St,,Austin,TX,78701,Travis,Texas,48,453,48453,210,211,60,60,0,0.849621475,-1,5
+-95.6361437,29.6051324,OakBend Health System - Hospital for Surgical Excellence,Short Term Acute Care Hospital,1211 Highway 6,Suite 70,Sugar Land,TX,77478,Fort Bend,Texas,48,157,48157,6,,1,1,,,6,0
+-97.7926913,30.2113495,Austin Oaks Hospital,Psychiatric Hospital,1407 W Stassney Ln,,Austin,TX,78745,Travis,Texas,48,453,48453,80,80,0,0,0,0.683801353,0,0
+-96.444734,32.9141452,Baylor Scott & White Emergency Hospital - Rockwall,Short Term Acute Care Hospital,1975 Alpha Dr,Suite 100,Rockwall,TX,75087,Rockwall,Texas,48,397,48397,8,8,1,1,0,0.170000002,0,0
+-96.6244233,33.0122224,Baylor Emergency Medical Center at Murphy,Short Term Acute Care Hospital,511 Fm 544,Ste 100,Murphy,TX,75094,Collin,Texas,48,85,48085,8,7,1,1,,,1,0
+-97.3212193,32.5754521,Baylor Scott & White Emergency Hospital - Burleson,Short Term Acute Care Hospital,12500 South Fwy,Suite 100,Burleson,TX,76028,Tarrant,Texas,48,439,48439,8,24,3,3,0,0.084589042,-16,0
+-97.151038,32.888981,Baylor Scott & White Emergency Hospital - Colleyville,Short Term Acute Care Hospital,5500 Colleyville Blvd,,Colleyville,TX,76034,Tarrant,Texas,48,439,48439,8,,1,1,,,8,1
+-97.1449402,32.596846,Baylor Scott & White Emergency Hospital - Mansfield,Short Term Acute Care Hospital,1776 N US 287,Suite 100,Mansfield,TX,76063,Tarrant,Texas,48,439,48439,8,25,4,4,,,-17,0
+-97.087234,33.1767031,The Heart Hospital Baylor - Denton,Short Term Acute Care Hospital,2801 S Mayhill Rd,,Denton,TX,76208,Denton,Texas,48,121,48121,22,22,4,4,0,0.347322553,0,2
+-96.7769216,33.0057546,WellBridge Healthcare Greater Dallas (FKA Oceans Behavioral Hospital Plano),Psychiatric Hospital,4301 Mapleshade Ln,,Plano,TX,75075,Collin,Texas,48,85,48085,48,48,0,0,0,0.635502279,0,0
+-97.4191242,32.6801752,WellBridge Healthcare Fort Worth (FKA Oceans Behavioral Hospital Fort Worth),Psychiatric Hospital,6200 Overton Ridge Blvd,,Fort Worth,TX,76132,Tarrant,Texas,48,439,48439,48,48,0,0,0,0.567009151,0,0
+-95.2893644,32.3424783,CHRISTUS Trinity Mother Frances - Louis and Peaches Owen Heart Hospital,Short Term Acute Care Hospital,703 S Fleishel Ave,,Tyler,TX,75701,Smith,Texas,48,423,48423,402,402,70,70,,,0,0
+-97.9700762,30.3450313,Baylor Scott & White Institute for Rehabilitation - Lakeway (FKA Vibra Rehabilitation Hospital of Lake Travis),Rehabilitation Hospital,2000 Medical Dr,,Lakeway,TX,78734,Travis,Texas,48,453,48453,36,36,0,0,0,0.425266355,0,0
+-95.440783,30.117698,Houston Methodist the Woodlands Hospital,Short Term Acute Care Hospital,17201 Interstate 45 S,,The Woodlands,TX,77385,Montgomery,Texas,48,339,48339,187,146,16,16,0,0.408613235,41,7
+-96.7720688,33.0014641,Legent Hospital for Special Surgery (FKA Star Medical Center),Short Term Acute Care Hospital,4100 Mapleshade Ln,,Plano,TX,75075,Collin,Texas,48,85,48085,7,8,1,1,,,-1,0
+-102.3736853,31.8452597,ContinueCARE Hospital at Medical Center,Short Term Acute Care Hospital,500 W 4th St,4th Floor,Odessa,TX,79761,Ector,Texas,48,135,48135,25,25,4,4,,0.672109604,0,2
+-95.247853,32.311472,UT Health Behavioral Hospital (FKA East Texas Medical Center Behavioral Health Center Tyler),Psychiatric Hospital,4101 University Blvd,,Tyler,TX,75701,Smith,Texas,48,423,48423,75,80,0,0,,,-5,0
+-95.4450695,30.3358719,Montgomery County Mental Health Treatment Facility,Psychiatric Hospital,700 Hilbig Rd,,Conroe,TX,77301,Montgomery,Texas,48,339,48339,100,100,0,0,,,0,0
+-106.56197,31.881094,THOP Transmountain Campus,Short Term Acute Care Hospital,2000 Woodrow Bean Transmountain Dr,,El Paso,TX,79911,El Paso,Texas,48,141,48141,106,106,12,12,0,0.436029971,0,4
+-96.8751641,32.6424142,Dallas Behavioral Healthcare Hospital,Psychiatric Hospital,800 Kirnwood Dr,,Desoto,TX,75115,Dallas,Texas,48,113,48113,116,116,0,0,0,0.843906462,0,0
+-95.7610277,29.6943361,Westpark Springs Hospital,Psychiatric Hospital,6902 S Peek Rd,,Richmond,TX,77407,Fort Bend,Texas,48,157,48157,72,72,2,2,0,0.831697106,0,2
+-97.6806285,30.6148893,Georgetown Behavioral Health Institute,Psychiatric Hospital,3101 S Austin Ave,,Georgetown,TX,78626,Williamson,Texas,48,491,48491,118,118,0,0,0,0.543696284,0,0
+-97.4129573,32.6398937,Mesa Springs Hospital,Psychiatric Hospital,5560 Mesa Springs Dr,,Fort Worth,TX,76123,Tarrant,Texas,48,439,48439,72,72,2,2,0,0.901065469,0,2
+-96.292201,30.5805688,Rock Prairie Behavioral Health,Psychiatric Hospital,3550 Normand Dr,,College Station,TX,77845,Brazos,Texas,48,41,48041,72,72,0,0,0,0.634322703,0,0
+-94.9816893,29.7712805,Altus Baytown Hospital,Short Term Acute Care Hospital,1626 W Baker Rd,,Baytown,TX,77521,Harris,Texas,48,201,48201,14,14,2,2,0,0.153816044,0,0
+-95.546716,29.823899,Houston Behavioral Healthcare Hospital,Psychiatric Hospital,2801 Gessner Rd,,Houston,TX,77080,Harris,Texas,48,201,48201,88,88,0,0,0,0.815224171,0,0
+-97.3132649,32.9001783,Medical City Alliance,Short Term Acute Care Hospital,3101 N Tarrant Pkwy,,Fort Worth,TX,76177,Tarrant,Texas,48,439,48439,75,75,8,8,8,0.570374429,0,3
+-98.6051725,29.5162178,San Antonio Behavioral Healthcare Hospital,Psychiatric Hospital,8550 Huebner Rd,,San Antonio,TX,78238,Bexar,Texas,48,29,48029,108,108,0,0,0,0.799340427,0,0
+-96.837477,33.1506554,Haven Behavioral Hospital of Frisco,Psychiatric Hospital,5680 Frisco Square Blvd,1st Fl,Frisco,TX,75034,Collin,Texas,48,85,48085,52,52,0,0,0,0.503161252,0,0
+-96.7805934,32.7899377,Select Specialty Hospital - Dallas Downtown,Long Term Acute Care Hospital,3500 Gaston Ave,3rd And 4th Floors,Dallas,TX,75246,Dallas,Texas,48,113,48113,26,44,7,7,0,0.426179469,-18,2
+-95.7486608,29.7778988,Oceans Behavioral Hospital Katy,Psychiatric Hospital,455 Park Grove Ln,,Katy,TX,77450,Harris,Texas,48,201,48201,48,48,0,0,0,0.791152954,0,0
+-97.424714,32.774584,FMC Carswell,Short Term Acute Care Hospital,3000 I St,,Fort Worth,TX,76127,Tarrant,Texas,48,439,48439,338,338,59,59,,,0,0
+-99.4736059,27.5336399,Laredo Rehabilitation Hospital,Rehabilitation Hospital,2005a E Bustamante St,,Laredo,TX,78041,Webb,Texas,48,479,48479,20,20,2,2,0,0.884794533,0,2
+-97.6773213,30.3379973,Cross Creek Hospital,Psychiatric Hospital,8402 Cross Park Dr,,Austin,TX,78754,Travis,Texas,48,453,48453,90,90,0,0,0,0.629619479,0,0
+-97.1193661,32.6821019,Texas Rehabilitation Hospital of Arlington,Rehabilitation Hospital,900 W Arbrook Blvd,,Arlington,TX,76015,Tarrant,Texas,48,439,48439,40,40,0,0,0,0.825890422,0,0
+-95.1220222,29.5432513,PAM Rehabilitation Hospital of Clear Lake (FKA Bay Area Rehabilitation Hospital of Webster),Rehabilitation Hospital,110 E Medical Center Blvd,,Webster,TX,77598,Harris,Texas,48,201,48201,45,45,0,0,0,0.759756446,0,0
+-95.7249306,29.9820874,Memorial Hermann Cypress Hospital,Short Term Acute Care Hospital,27800 Highway 290,,Cypress,TX,77433,Harris,Texas,48,201,48201,105,81,14,14,,,24,0
+-96.8351029,33.0434544,Texas Health Seay Behavioral Health Plano,Psychiatric Hospital,6110 W Parker Rd,,Plano,TX,75093,Collin,Texas,48,85,48085,,,0,0,,,0,0
+-97.9217,29.8839,WellBridge Healthcare San Marcos (FKA Oceans Behavioral Hospital San Marcos),Psychiatric Hospital,1106 N Interstate 35,,San Marcos,TX,78666,Hays,Texas,48,209,48209,24,24,0,0,0,0.379680365,0,0
+-94.646609,31.6119923,Cecil Bomar Rehabilitation Center,Rehabilitation Hospital,707 Woods St,,Nacogdoches,TX,75961,Nacogdoches,Texas,48,347,48347,21,21,0,0,,,0,0
+-97.1223862,32.8345737,Texas Health Springwood Behavioral Health Hospital HEB,Psychiatric Hospital,2717 Tibbets Dr,,Bedford,TX,76022,Tarrant,Texas,48,439,48439,70,70,0,0,,,0,0
+-96.6132988,33.6634654,TMC Behavioral Health Center,Psychiatric Hospital,2601 N Cornerstone Dr,,Sherman,TX,75092,Grayson,Texas,48,181,48181,60,60,0,0,,,0,0
+-96.3508996,30.6602581,CHI St Joseph Health Rehabilitation Hospital,Rehabilitation Hospital,1600 Joseph Dr,Ste 2000,Bryan,TX,77802,Brazos,Texas,48,41,48041,49,49,2,2,0,0.947553813,0,2
+-97.787773,32.7506007,Weatherford Rehabilitation Hospital,Rehabilitation Hospital,703 Eureka St,,Weatherford,TX,76086,Parker,Texas,48,367,48367,26,26,0,0,0,0.588198125,0,0
+-95.3086985,32.2580212,CHRISTUS Mother Frances Hospital - South Tyler,Short Term Acute Care Hospital,8389 S Broadway Ave,,Tyler,TX,75703,Smith,Texas,48,423,48423,8,24,4,4,,,-16,0
+-95.3901441,29.5730853,Encompass Health Rehabilitation Hospital of Pearland (FKA HealthSouth Pearland Rehabilitation Hospital),Rehabilitation Hospital,2121 Business Center Dr,,Pearland,TX,77584,Brazoria,Texas,48,39,48039,40,40,1,1,0,0.953698635,0,1
+-99.7355477,32.4714787,Hendrick Center for Rehabilitation,Rehabilitation Hospital,1934 Hickory St,,Abilene,TX,79601,Taylor,Texas,48,441,48441,31,31,0,0,,,0,1
+-96.7558396,32.9991905,Eminent Medical Center,Short Term Acute Care Hospital,1351 W President George Bush Hwy,,Richardson,TX,75080,Collin,Texas,48,85,48085,5,5,1,1,,,0,0
+-95.4005815,29.6907876,SUN Behavioral Houston,Psychiatric Hospital,7601 Fannin St,,Houston,TX,77054,Harris,Texas,48,201,48201,148,148,0,0,0,0.566512406,0,0
+-96.662668,32.918609,Garland Behavioral Hospital,Psychiatric Hospital,2300 Marie Curie Dr,5th Floor,Garland,TX,75042,Dallas,Texas,48,113,48113,72,72,0,0,0,0.745091319,0,0
+-97.6721488,26.1635179,Palms Behavioral Health,Psychiatric Hospital,613 Victoria Ln,,Harlingen,TX,78550,Cameron,Texas,48,61,48061,94,94,0,0,0,0.532556117,0,0
+-106.2080136,31.6822869,THOP Horizon City Campus,Short Term Acute Care Hospital,13600 Horizon Blvd,,Horizon City,TX,79928,El Paso,Texas,48,141,48141,8,8,1,1,0,0.111582294,0,0
+-95.0937915,30.3282967,Cleveland Emergency Hospital,Short Term Acute Care Hospital,1017 S Travis Ave,,Cleveland,TX,77327,Liberty,Texas,48,291,48291,4,16,3,3,0,0.09442509,-12,1
+-95.5613177,30.0012252,First Texas Hospital (AKA Adeptus Health),Short Term Acute Care Hospital,9922 Louetta Rd,,Houston,TX,77070,Harris,Texas,48,201,48201,50,12,2,2,0,0.149315074,38,2
+-94.711473,32.5340002,Everest Rehabilitation Hospital of Longview,Rehabilitation Hospital,701 E Loop 281,,Longview,TX,75605,Gregg,Texas,48,183,48183,36,36,0,0,,,0,0
+-97.396019,31.137452,Everest Rehabilitation Hospital of Temple,Rehabilitation Hospital,23621 SE H K Dodgen Loop,,Temple,TX,76504,Bell,Texas,48,27,48027,36,36,0,0,,,0,0
+-106.4788492,31.7768269,Cobalt Rehabilitation Hospital in El Paso,Rehabilitation Hospital,1700 E Cliff Dr,,El Paso,TX,77902,El Paso,Texas,48,141,48141,,,0,0,,,0,0
+-96.7666307,32.8884591,First Baptist Medical Center,Short Term Acute Care Hospital,8111 Meadow Rd,,Dallas,TX,75231,Dallas,Texas,48,113,48113,18,,3,3,,,18,0
+-95.4409351,30.014278,Providence Hospital of North Houston,Short Term Acute Care Hospital,16750 Red Oak Dr,,Houston,TX,77090,Harris,Texas,48,201,48201,16,16,3,3,0,0.164212331,0,0
+-97.863259,30.265422,Baylor Scott & White Clinic - Austin Oak Hill,Short Term Acute Care Hospital,5251 US-290,,Austin,TX,78735,Travis,Texas,48,453,48453,,,32,32,,,0,0
+-97.1880244,32.843134,Saint Camillus Medical Center,Short Term Acute Care Hospital,1612 Hurst Town Center Dr,,Hurst,TX,76054,Tarrant,Texas,48,439,48439,23,23,4,4,0,0.034187015,0,1
+-95.5396369,30.2285976,Woodland Springs Hospital,Psychiatric Hospital,15860 Old Conroe Rd,,Conroe,TX,77384,Montgomery,Texas,48,339,48339,96,96,1,1,0,0.443247139,0,2
+-95.5117145,30.0710797,UMMC - Spring (FKA Spring Excellence Surgical Hospital),Short Term Acute Care Hospital,20635 Kuykendahl Rd,,Spring,TX,77379,Harris,Texas,48,201,48201,12,12,2,2,,,0,0
+-95.1406401,29.6246602,Sacred Oak Medical Center,Psychiatric Hospital,11500 Space Center Blvd,,Houston,TX,77059,Harris,Texas,48,201,48201,20,20,0,0,0,0.793333352,0,0
+-95.085492,30.3419162,Texas Emergency Hospital,Short Term Acute Care Hospital,300 E Crockett St,,Cleveland,TX,77327,Liberty,Texas,48,291,48291,12,,1,1,,,12,0
+-96.8398,33.1623,Texas Health Hospital Frisco,Short Term Acute Care Hospital,12400 Dallas Pkwy,,Frisco,TX,75033,Collin,Texas,48,85,48085,63,,32,32,,,63,0
+-96.8853578,33.0661742,The Colony ER Hospital,Short Term Acute Care Hospital,4780 State Highway 121,,The Colony,TX,75056,Denton,Texas,48,121,48121,2,15,3,3,,,-13,0
+-95.5563359,29.711424,Altus Houston Hospital,Short Term Acute Care Hospital,6011 W Sam Houston Pkwy S,,Houston,TX,77072,Harris,Texas,48,201,48201,10,14,2,2,,,-4,0
+-96.098336,29.275296,OakBend Medical Center - Wharton Hospital Campus,Short Term Acute Care Hospital,10141 Hwy 59,,Wharton,TX,77488,Wharton,Texas,48,481,48481,45,,32,32,,,45,0
+-96.7926121,33.0141401,Eating Recovery Center - Dallas,Psychiatric Hospital,4716 Alliance Blvd,Suite 400,Plano,TX,75093,Collin,Texas,48,85,48085,24,24,0,0,,,0,0
+-97.8200058,30.0770826,Baylor Scott & White - Buda Hospital,Short Term Acute Care Hospital,5330 Overpass Rd,Ste 110,Buda,TX,78610,Hays,Texas,48,209,48209,15,,32,32,,,15,0
+-97.395319,27.7894401,PAM Rehabilitation Hospital and LTACH of Corpus Christi,Rehabilitation Hospital,345 S Water St,,Corpus Christi,TX,78401,Nueces,Texas,48,355,48355,40,19,2,2,0,0.575604856,21,2
+-95.826679,29.740414,Encompass Health Rehabilitation Hospital of Katy,Rehabilitation Hospital,23331 Grand Reserve Dr,,Katy,TX,77494,Fort Bend,Texas,48,157,48157,40,,0,0,,,40,0
+-95.405986,30.125584,The Woodlands Specialty Hospital,Short Term Acute Care Hospital,25440 Interstate 45,,The Woodlands,TX,77386,Montgomery,Texas,48,339,48339,6,,1,1,,,6,0
+-97.89161,30.374182,Family Emergency Hospital at Lake Travis,Short Term Acute Care Hospital,5012 Ranch Rd 620 N,,Austin,TX,78732,Travis,Texas,48,453,48453,4,,1,1,,,4,0
+-97.16916,33.075496,Wise Health Surgical Hospital at Argyle,Short Term Acute Care Hospital,7218 Crawford Rd,,Argyle,TX,76226,Denton,Texas,48,121,48121,12,12,2,2,,,0,0
+-101.9658,33.6068,South Plains Rehabilitation Hospital,Rehabilitation Hospital,5406 Colgate Street,,Lubbock,TX,79416,Lubbock,Texas,48,303,48303,40,,0,0,,,40,0
+-95.437824,31.321827,Crockett Medical Center,Critical Access Hospital,1100 E Loop 304,,Crockett,TX,75835,Houston,Texas,48,225,48225,25,25,4,4,0,0.059565216,0,1
+-95.5250683,29.7852486,Trinity Hospital,Short Term Acute Care Hospital,9430 Katy Fwy,Suite 100,Houston,TX,77055,Harris,Texas,48,201,48201,56,,32,32,,,56,0
+-97.6498552,30.563719,PAM Rehabilitation Hospital of Round Rock,Rehabilitation Hospital,351 Seton Pkwy,,Round Rock,TX,78665,Williamson,Texas,48,491,48491,40,,0,0,,,40,0
+-95.254746,30.00419,Townsen Memorial Hospital,Short Term Acute Care Hospital,1475 Fm 1960 Bypass Rd E,,Humble,TX,77338,Harris,Texas,48,201,48201,5,,32,32,,,5,0
+-97.5912617,30.4514651,Baylor Scott & White Medical Center - Pflugerville (AKA Pflugerville Medical Center),Short Term Acute Care Hospital,2600 E Pflugerville Pkwy,Suite 100,Pflugerville,TX,78660,Travis,Texas,48,453,48453,25,25,3,3,,0.131274134,0,2
+-95.1700085,29.6508561,Assurance Health Pasadena,Short Term Acute Care Hospital,4001 Preston Ave,1st Fl,Pasadena,TX,77505,Harris,Texas,48,201,48201,23,23,4,4,,,0,0
+-97.2530616,32.9220837,Everest Rehabilitation Hospital of Keller,Rehabilitation Hospital,955 S Main St,,Keller,TX,76248,Tarrant,Texas,48,439,48439,,,0,0,,,0,0
+-96.1665779,33.5847774,VA North Texas Health Care System - Sam Rayburn Memorial Veterans Center,VA Hospital,1201 E 9th St,,Bonham,TX,75418,Fannin,Texas,48,147,48147,292,292,0,0,,,0,0
+-95.67535,29.566446,Sugarland Rehab Hospital,Rehabilitation Hospital,7622 Branford Pl,,Sugar Land,TX,77479,Fort Bend,Texas,48,157,48157,41,41,0,0,,,0,0
+-96.323978,30.6656055,CapRock Hospital - Bryan (AKA CapRock Health),Short Term Acute Care Hospital,3134 Briarcrest Dr,,Bryan,TX,77802,Brazos,Texas,48,41,48041,10,,32,32,,,10,0
+-95.2499181,30.0545024,Kingwood Emergency Hospital,Short Term Acute Care Hospital,23330 Highway 59 N,,Kingwood,TX,77339,Montgomery,Texas,48,339,48339,3,,32,32,,,3,0
+-106.5733711,31.8726982,Rio Vista Behavioral Health,Psychiatric Hospital,1390 Northwestern Dr,,El Paso,TX,79912,El Paso,Texas,48,141,48141,80,80,0,0,,,0,0
+-96.6701169,32.913402,Perimeter Behavioral Hospital of Dallas,Psychiatric Hospital,2696 W Walnut St,,Garland,TX,75042,Dallas,Texas,48,113,48113,,,0,0,,,0,0
+-95.1700085,29.6508561,Oceans Behavioral Hospital Pasadena,Psychiatric Hospital,4001 Preston Ave,Ste 150,Pasadena,TX,77505,Harris,Texas,48,201,48201,,,0,0,,,0,0
+-96.6833344,33.2213403,Baylor Scott & White the Heart Hospital - McKinney,Short Term Acute Care Hospital,5268 W University Dr,,McKinney,TX,75071,Collin,Texas,48,85,48085,4,,32,32,,,4,0
+-96.9777633,28.8125119,PAM Specialty Hospital of Victoria - Southeast,Short Term Acute Care Hospital,2701 Hospital Dr,,Victoria,TX,77901,Victoria,Texas,48,469,48469,20,,32,32,,,20,0
+-97.7229796,30.4962091,Family Emergency Room Surgical Hospital,Short Term Acute Care Hospital,230 Deer Ridge Dr,,Austin,TX,78681,Williamson,Texas,48,491,48491,,,32,32,,,0,0
+-96.7667178,32.9120385,Medical City Heart Hospital,Short Term Acute Care Hospital,11970 N Central Expy,,Dallas,TX,75243,Dallas,Texas,48,113,48113,87,,32,32,,,87,0
+-96.7671129,32.912919,Medical City Spine Hospital,Short Term Acute Care Hospital,11990 N Central Expy,,Dallas,TX,75243,Dallas,Texas,48,113,48113,,,32,32,,,0,0
+-97.1402284,32.5906107,Trusted Medical Centers - Mansfield,Short Term Acute Care Hospital,1710 Highway 287 N,,Mansfield,TX,76063,Tarrant,Texas,48,439,48439,10,,32,32,,,10,0
+-97.982444,26.140552,Valley Baptist Micro-Hospital - Weslaco,Short Term Acute Care Hospital,1021 W Interstate 2,,Weslaco,TX,78596,Hidalgo,Texas,48,215,48215,8,,32,32,,,8,0
+-98.5483844,29.4028243,Baptist Emergency Hospital - Kelly,Short Term Acute Care Hospital,806 Cupples Rd,,San Antonio,TX,78237,Bexar,Texas,48,29,48029,8,,32,32,,,8,0
+-95.4041813,29.8035807,Cobalt Rehabilitation Hospital Houston Heights,Short Term Acute Care Hospital,1917 Ashland St,4th Floor,Houston,TX,77008,Harris,Texas,48,201,48201,35,,32,32,,,35,0
+-97.7227578,30.4963331,Brushy Creek Family Hospital,Short Term Acute Care Hospital,230 Deer Ridge Dr,,Round Rock,TX,78681,Williamson,Texas,48,491,48491,4,,0,0,,,4,
+-95.4615222,30.2117273,The Woodlands Integrative Care Hospital (AKA the Woodlands Psychiatry & Counseling),Short Term Acute Care Hospital,1006 Windsor Lakes Blvd,,Conroe,TX,77384,Montgomery,Texas,48,339,48339,,,0,0,,,0,
+-97.8650602,30.0074978,Kyle ER & Hospital,Short Term Acute Care Hospital,5615 Kyle Center Dr,,Kyle,TX,78640,Hays,Texas,48,209,48209,4,,0,0,,,4,
+-94.2210815,30.26198,Altus Lumberton ER Hospital,Short Term Acute Care Hospital,137 N Lhs Dr,,Lumberton,TX,77657,Hardin,Texas,48,199,48199,,,0,0,,,0,
+-96.8006052,32.774509,Kay Bailey Hutchison Convention Field Hospital (Temporarily Open due to COVID-19),Short Term Acute Care Hospital,650 S Griffin St,,Dallas,TX,75202,Dallas,Texas,48,113,48113,,,0,0,,,0,
+-95.2761985,29.99871,SE Texas ER & Hospital,Short Term Acute Care Hospital,19211 Mckay Dr,,Humble,TX,77338,Harris,Texas,48,201,48201,,,0,0,,,0,
+-96.724412,33.637372,Carrus Childrens Behavioral Hospital,Childrens Hospital,1724 W Us Highway 82,,Sherman,TX,75092,Grayson,Texas,48,181,48181,,,0,0,,,0,
+-95.4449403,29.7310215,River Oaks Hospital & Clinics,Short Term Acute Care Hospital,4200 Twelve Oaks Dr,,Houston,TX,77027,Harris,Texas,48,201,48201,,,0,0,,,0,
