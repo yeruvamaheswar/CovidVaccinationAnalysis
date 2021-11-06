@@ -1,0 +1,630 @@
+﻿ObjectId,Category,Category_Description,General_Population,At_Least_One_Dose,Fully_Vaccinated,Note,Date
+1,5Cat Age Groups,16+,1506216,928327,647489,VA and DOD data included,2021/05/03 05:00:00+00
+2,5Cat Age Groups,18+,1450476,913489,641399,VA and DOD data included,2021/05/03 05:00:00+00
+3,5Cat Age Groups,18-49,898710,386006,254338,VA and DOD data not included,2021/05/03 05:00:00+00
+4,5Cat Age Groups,50-64,320289,213275,160085,VA and DOD data not included,2021/05/03 05:00:00+00
+5,5Cat Age Groups,65+,231377,188647,152643,VA and DOD data not included,2021/05/03 05:00:00+00
+6,Gender,Female,769303,452554,325668,VA data included; DOD data not included,2021/05/03 05:00:00+00
+7,Gender,Male,736913,385700,245673,VA data included; DOD data not included,2021/05/03 05:00:00+00
+8,Gender,Other,,130,104,VA data included; DOD data not included,2021/05/03 05:00:00+00
+9,Gender,Unknown,,2220,1756,VA data included; DOD data not included,2021/05/03 05:00:00+00
+10,Race/Ethnicity,Hispanic,906742,359102,244211,VA data included; DOD data not included,2021/05/03 05:00:00+00
+11,Race/Ethnicity,NH White,417222,258664,183951,VA data included; DOD data not included,2021/05/03 05:00:00+00
+12,Race/Ethnicity,NH Asian,43680,23299,15997,VA data included; DOD data not included,2021/05/03 05:00:00+00
+13,Race/Ethnicity,NH Black,115979,34713,20030,VA data included; DOD data not included,2021/05/03 05:00:00+00
+14,Race/Ethnicity,NH Other,24099,79926,53914,VA data included; DOD data not included,2021/05/03 05:00:00+00
+15,Race/Ethnicity,Unknown,,84900,55098,VA data included; DOD data not included,2021/05/03 05:00:00+00
+16,5Cat Age Groups,16+,1506216,955976,719767,VA and DOD data included,2021/05/10 05:00:00+00
+17,5Cat Age Groups,18+,1450476,940059,710933,VA and DOD data included,2021/05/10 05:00:00+00
+18,5Cat Age Groups,18-49,898710,407315,294144,VA and DOD data not included,2021/05/10 05:00:00+00
+19,5Cat Age Groups,50-64,320289,228782,174893,VA and DOD data not included,2021/05/10 05:00:00+00
+20,5Cat Age Groups,65+,231377,212210,159720,VA and DOD data not included,2021/05/10 05:00:00+00
+21,Gender,Female,769303,463869,358884,VA data included; DOD data not included,2021/05/10 05:00:00+00
+22,Gender,Male,736913,398246,276825,VA data included; DOD data not included,2021/05/10 05:00:00+00
+23,Gender,Other,,131,104,VA data included; DOD data not included,2021/05/10 05:00:00+00
+24,Gender,Unknown,,2265,1829,VA data included; DOD data not included,2021/05/10 05:00:00+00
+25,Race/Ethnicity,Hispanic,906742,371371,276910,VA data included; DOD data not included,2021/05/10 05:00:00+00
+26,Race/Ethnicity,NH White,417222,265789,202337,VA data included; DOD data not included,2021/05/10 05:00:00+00
+27,Race/Ethnicity,NH Asian,43680,23921,18277,VA data included; DOD data not included,2021/05/10 05:00:00+00
+28,Race/Ethnicity,NH Black,115979,36236,22663,VA data included; DOD data not included,2021/05/10 05:00:00+00
+29,Race/Ethnicity,NH Other,24099,83471,60530,VA data included; DOD data not included,2021/05/10 05:00:00+00
+30,Race/Ethnicity,Unknown,,83723,56925,VA data included; DOD data not included,2021/05/10 05:00:00+00
+31,5Cat Age Groups,12+,1661614,995047,741238,VA and DOD data included,2021/05/17 05:00:00+00
+32,5Cat Age Groups,16+,1506216,989139,741203,VA and DOD data included,2021/05/17 05:00:00+00
+33,5Cat Age Groups,18+,1450476,971794,729889,VA and DOD data included,2021/05/17 05:00:00+00
+34,5Cat Age Groups,18-49,898710,426150,325282,VA and DOD data not included,2021/05/17 05:00:00+00
+35,5Cat Age Groups,50-64,320289,234963,185248,VA and DOD data not included,2021/05/17 05:00:00+00
+36,5Cat Age Groups,65+,231377,215151,164207,VA and DOD data not included,2021/05/17 05:00:00+00
+37,Gender,Female,769303,480806,383211,VA data included; DOD data not included,2021/05/17 05:00:00+00
+38,Gender,Male,736913,416432,300846,VA data included; DOD data not included,2021/05/17 05:00:00+00
+39,Gender,Other,,200,158,VA data included; DOD data not included,2021/05/17 05:00:00+00
+40,Gender,Unknown,,2286,1896,VA data included; DOD data not included,2021/05/17 05:00:00+00
+41,Race/Ethnicity,Hispanic,906742,388220,299974,VA data included; DOD data not included,2021/05/17 05:00:00+00
+42,Race/Ethnicity,NH White,417222,274633,216151,VA data included; DOD data not included,2021/05/17 05:00:00+00
+43,Race/Ethnicity,NH Asian,43680,24804,19771,VA data included; DOD data not included,2021/05/17 05:00:00+00
+44,Race/Ethnicity,NH Black,115979,37969,24790,VA data included; DOD data not included,2021/05/17 05:00:00+00
+45,Race/Ethnicity,NH Other,24099,89012,67182,VA data included; DOD data not included,2021/05/17 05:00:00+00
+46,Race/Ethnicity,Unknown,,85086,58243,VA data included; DOD data not included,2021/05/17 05:00:00+00
+47,5Cat Age Groups,12+,1661614,1035560,804761,VA and DOD data included,2021/05/27 05:00:00+00
+48,5Cat Age Groups,16+,1552823,1019127,804722,VA and DOD data included,2021/05/27 05:00:00+00
+49,5Cat Age Groups,18+,1450476,1000035,792061,VA and DOD data included,2021/05/27 05:00:00+00
+50,5Cat Age Groups,18-49,898710,436355,345215,VA and DOD data not included,2021/05/27 05:00:00+00
+51,Race/Ethnicity,NH White,417222,296019,239271,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+52,Race/Ethnicity,NH Asian,43680,26945,22019,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+53,Race/Ethnicity,NH Black,115979,42318,28628,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+54,Race/Ethnicity,NH Other,24099,106176,80976,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+55,Race/Ethnicity,Unknown,,89409,60733,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+56,MultiCat Age Groups,15-Dec,,25883,5660,VA and DOD data not included,2021/06/08 05:00:00+00
+57,MultiCat Age Groups,16-18,,34331,24137,VA and DOD data not included,2021/06/08 05:00:00+00
+58,MultiCat Age Groups,19-29,,145286,113613,VA and DOD data not included,2021/06/08 05:00:00+00
+59,MultiCat Age Groups,30-39,,150359,122390,VA and DOD data not included,2021/06/08 05:00:00+00
+60,MultiCat Age Groups,40-49,,155864,128461,VA and DOD data not included,2021/06/08 05:00:00+00
+61,MultiCat Age Groups,50-59,,160758,136184,VA and DOD data not included,2021/06/08 05:00:00+00
+62,MultiCat Age Groups,60-64,,76278,65905,VA and DOD data not included,2021/06/08 05:00:00+00
+63,MultiCat Age Groups,65-75,,131122,115091,VA and DOD data not included,2021/06/08 05:00:00+00
+64,MultiCat Age Groups,76-85,,51942,44489,VA and DOD data not included,2021/06/08 05:00:00+00
+65,MultiCat Age Groups,86-95,,15109,12143,VA and DOD data not included,2021/06/08 05:00:00+00
+66,MultiCat Age Groups,96+,,1166,805,VA and DOD data not included,2021/06/08 05:00:00+00
+67,5Cat Age Groups,12+,1661614,1115030,887290,VA and DOD data included,2021/06/16 05:00:00+00
+68,5Cat Age Groups,16+,1552823,1085807,873798,VA and DOD data included,2021/06/16 05:00:00+00
+69,5Cat Age Groups,18+,1450476,1062983,857498,VA and DOD data included,2021/06/16 05:00:00+00
+70,5Cat Age Groups,18-49,898710,474337,386675,VA and DOD data included,2021/06/16 05:00:00+00
+71,5Cat Age Groups,50-64,320289,251374,205979,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+72,5Cat Age Groups,65+,247843,223060,174255,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+73,Gender,Female,769303,534835,438220,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+74,Gender,Male,736913,470835,356317,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+75,Gender,Other,,211,181,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+76,Gender,Unknown,,2656,1997,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+77,Race/Ethnicity,Hispanic,906742,437807,350952,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+78,Race/Ethnicity,NH White,417222,300581,245888,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+79,Race/Ethnicity,NH Asian,43680,27378,22745,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+80,Race/Ethnicity,NH Black,115979,43239,29927,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+81,Race/Ethnicity,NH Other,24099,110133,86191,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+82,Race/Ethnicity,Unknown,,89399,61012,"VA data included, DOD data not included",2021/06/16 05:00:00+00
+83,MultiCat Age Groups,15-Dec,,29223,13492,VA and DOD data not included,2021/06/16 05:00:00+00
+84,MultiCat Age Groups,16-18,,35928,26262,VA and DOD data not included,2021/06/16 05:00:00+00
+85,MultiCat Age Groups,19-29,,148971,118137,VA and DOD data not included,2021/06/16 05:00:00+00
+86,MultiCat Age Groups,30-39,,153562,126420,VA and DOD data not included,2021/06/16 05:00:00+00
+87,MultiCat Age Groups,40-49,,158700,132156,VA and DOD data not included,2021/06/16 05:00:00+00
+88,MultiCat Age Groups,50-59,,162897,139121,VA and DOD data not included,2021/06/16 05:00:00+00
+89,MultiCat Age Groups,60-64,,76974,66858,VA and DOD data not included,2021/06/16 05:00:00+00
+90,MultiCat Age Groups,65-75,,132039,116262,VA and DOD data not included,2021/06/16 05:00:00+00
+91,MultiCat Age Groups,76-85,,52329,44909,VA and DOD data not included,2021/06/16 05:00:00+00
+92,MultiCat Age Groups,86-95,,15264,12265,VA and DOD data not included,2021/06/16 05:00:00+00
+93,MultiCat Age Groups,96+,,1188,819,VA and DOD data not included,2021/06/16 05:00:00+00
+94,5Cat Age Groups,12+,1661614,1207058,959040,VA and DOD data included,2021/06/22 05:00:00+00
+95,5Cat Age Groups,16+,1552823,1172792,938903,VA and DOD data included,2021/06/22 05:00:00+00
+96,5Cat Age Groups,18+,1450476,1147122,919452,VA and DOD data included,2021/06/22 05:00:00+00
+97,5Cat Age Groups,18-49,898710,511638,424257,VA and DOD data included,2021/06/22 05:00:00+00
+98,5Cat Age Groups,50-64,320289,267062,220796,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+99,5Cat Age Groups,65+,247843,234754,182708,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+100,Gender,Female,769303,574652,475824,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+101,MultiCat Age Groups,60-64,,84446,75029,VA and DOD data not included,2021/07/27 05:00:00+00
+102,MultiCat Age Groups,65-75,,142046,127501,VA and DOD data not included,2021/07/27 05:00:00+00
+103,MultiCat Age Groups,76-85,,56872,50502,VA and DOD data not included,2021/07/27 05:00:00+00
+104,MultiCat Age Groups,86-95,,17868,15568,VA and DOD data not included,2021/07/27 05:00:00+00
+105,MultiCat Age Groups,96+,,1603,1302,VA and DOD data not included,2021/07/27 05:00:00+00
+106,5Cat Age Groups,12+,1672349,1307836,1068392,VA and DOD data included,2021/08/03 05:00:00+00
+107,5Cat Age Groups,16+,1552823,1256992,1034326,VA and DOD data included,2021/08/03 05:00:00+00
+108,5Cat Age Groups,18+,1511890,1225147,1010149,VA and DOD data included,2021/08/03 05:00:00+00
+109,5Cat Age Groups,18-49,898710,570368,474208,VA and DOD data included,2021/08/03 05:00:00+00
+110,5Cat Age Groups,50-64,336785,283854,236456,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+111,5Cat Age Groups,65+,264903,244497,195902,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+112,Gender,Female,769303,627803,527138,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+113,Gender,Male,736913,560627,435491,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+114,Gender,Other,,212,186,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+115,Gender,Unknown,,2439,2010,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+116,Race/Ethnicity,Hispanic,906742,513498,422960,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+117,Race/Ethnicity,NH White,417222,341413,282030,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+118,Race/Ethnicity,NH Asian,43680,31903,27629,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+119,Race/Ethnicity,NH Black,115979,52217,37464,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+120,Race/Ethnicity,NH Other,24099,156351,127931,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+121,Race/Ethnicity,Unknown,,95699,66811,"VA data included, DOD data not included",2021/08/03 05:00:00+00
+122,MultiCat Age Groups,15-Dec,,50844,34066,VA and DOD data not included,2021/08/03 05:00:00+00
+123,MultiCat Age Groups,16-18,,48784,37490,VA and DOD data not included,2021/08/03 05:00:00+00
+124,MultiCat Age Groups,19-29,,184270,149538,VA and DOD data not included,2021/08/03 05:00:00+00
+125,MultiCat Age Groups,30-39,,184020,153852,VA and DOD data not included,2021/08/03 05:00:00+00
+126,MultiCat Age Groups,40-49,,185139,157505,VA and DOD data not included,2021/08/03 05:00:00+00
+127,MultiCat Age Groups,50-59,,184971,160839,VA and DOD data not included,2021/08/03 05:00:00+00
+128,MultiCat Age Groups,60-64,,85484,75617,VA and DOD data not included,2021/08/03 05:00:00+00
+129,MultiCat Age Groups,65-75,,143175,128125,VA and DOD data not included,2021/08/03 05:00:00+00
+130,MultiCat Age Groups,76-85,,57257,50785,VA and DOD data not included,2021/08/03 05:00:00+00
+131,MultiCat Age Groups,86-95,,18013,15673,VA and DOD data not included,2021/08/03 05:00:00+00
+132,MultiCat Age Groups,96+,,1622,1319,VA and DOD data not included,2021/08/03 05:00:00+00
+133,5Cat Age Groups,12+,1672349,1332664,1078624,VA and DOD data included,2021/08/10 05:00:00+00
+134,5Cat Age Groups,16+,1552823,1278252,1043122,VA and DOD data included,2021/08/10 05:00:00+00
+135,5Cat Age Groups,18+,1511890,1244978,1018475,VA and DOD data included,2021/08/10 05:00:00+00
+136,5Cat Age Groups,18-49,898710,585002,479476,VA and DOD data included,2021/08/10 05:00:00+00
+137,5Cat Age Groups,50-64,336785,287082,238056,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+138,5Cat Age Groups,65+,264903,246466,197360,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+139,Gender,Female,769303,639707,532237,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+140,Gender,Male,736913,573532,440622,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+141,Gender,Other,,212,186,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+142,Gender,Unknown,,2459,2011,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+143,Race/Ethnicity,Hispanic,906742,525066,427975,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+144,Race/Ethnicity,NH White,417222,346715,284037,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+145,Race/Ethnicity,NH Asian,43680,32149,27818,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+146,Race/Ethnicity,NH Black,115979,53401,37996,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+147,Race/Ethnicity,NH Other,24099,162218,130258,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+148,Race/Ethnicity,Unknown,,96361,66972,"VA data included, DOD data not included",2021/08/10 05:00:00+00
+149,MultiCat Age Groups,15-Dec,,54412,35502,VA and DOD data not included,2021/08/10 05:00:00+00
+150,MultiCat Age Groups,16-18,,50790,38129,VA and DOD data not included,2021/08/10 05:00:00+00
+151,Gender,Male,736913,503861,389354,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+152,5Cat Age Groups,18-49,898710,529326,447496,VA and DOD data included,2021/07/06 05:00:00+00
+153,Gender,Other,,208,182,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+154,Gender,Unknown,,2633,2007,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+155,Race/Ethnicity,Hispanic,906742,472062,386454,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+156,Race/Ethnicity,NH White,417222,315561,261966,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+157,Race/Ethnicity,NH Asian,43680,30150,25642,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+158,Race/Ethnicity,NH Black,115979,46415,33219,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+159,Race/Ethnicity,NH Other,24099,127011,97795,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+160,Race/Ethnicity,Unknown,,90154,62291,"VA data included, DOD data not included",2021/06/22 05:00:00+00
+161,MultiCat Age Groups,15-Dec,,34266,20137,VA and DOD data not included,2021/06/22 05:00:00+00
+162,MultiCat Age Groups,16-18,,40019,30732,VA and DOD data not included,2021/06/22 05:00:00+00
+163,MultiCat Age Groups,19-29,,161584,130823,VA and DOD data not included,2021/06/22 05:00:00+00
+164,MultiCat Age Groups,30-39,,165473,138303,VA and DOD data not included,2021/06/22 05:00:00+00
+165,MultiCat Age Groups,40-49,,170232,143850,VA and DOD data not included,2021/06/22 05:00:00+00
+166,MultiCat Age Groups,50-59,,173789,149738,VA and DOD data not included,2021/06/22 05:00:00+00
+167,MultiCat Age Groups,60-64,,81495,71058,VA and DOD data not included,2021/06/22 05:00:00+00
+168,MultiCat Age Groups,65-75,,138216,121621,VA and DOD data not included,2021/06/22 05:00:00+00
+169,MultiCat Age Groups,76-85,,55294,46998,VA and DOD data not included,2021/06/22 05:00:00+00
+170,MultiCat Age Groups,86-95,,17183,13182,VA and DOD data not included,2021/06/22 05:00:00+00
+171,MultiCat Age Groups,96+,,1501,907,VA and DOD data not included,2021/06/22 05:00:00+00
+172,5Cat Age Groups,12+,1661614,1224955,993844,VA and DOD data included,2021/06/29 05:00:00+00
+173,5Cat Age Groups,16+,1552823,1188414,970154,VA and DOD data included,2021/06/29 05:00:00+00
+174,5Cat Age Groups,18+,1450476,1161836,949511,VA and DOD data included,2021/06/29 05:00:00+00
+175,5Cat Age Groups,18-49,898710,520700,439651,VA and DOD data included,2021/06/29 05:00:00+00
+176,5Cat Age Groups,50-64,320289,270061,226579,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+177,5Cat Age Groups,65+,247843,237001,190310,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+178,Gender,Female,769303,583610,494615,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+179,Gender,Male,736913,512980,404085,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+180,Gender,Other,,206,182,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+181,Gender,Unknown,,2444,2009,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+182,Race/Ethnicity,Hispanic,906742,479042,397558,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+183,Race/Ethnicity,NH White,417222,319932,267838,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+184,Race/Ethnicity,NH Asian,43680,30469,26264,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+185,Race/Ethnicity,NH Black,115979,47401,34421,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+186,Race/Ethnicity,NH Other,24099,131823,109441,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+187,Race/Ethnicity,Unknown,,90573,65369,"VA data included, DOD data not included",2021/06/29 05:00:00+00
+188,MultiCat Age Groups,15-Dec,,36541,23690,VA and DOD data not included,2021/06/29 05:00:00+00
+189,MultiCat Age Groups,16-18,,41270,32356,VA and DOD data not included,2021/06/29 05:00:00+00
+190,MultiCat Age Groups,19-29,,165001,136294,VA and DOD data not included,2021/06/29 05:00:00+00
+191,MultiCat Age Groups,30-39,,168439,143282,VA and DOD data not included,2021/06/29 05:00:00+00
+192,MultiCat Age Groups,40-49,,172568,148362,VA and DOD data not included,2021/06/29 05:00:00+00
+193,MultiCat Age Groups,50-59,,175747,153727,VA and DOD data not included,2021/06/29 05:00:00+00
+194,MultiCat Age Groups,60-64,,82143,72852,VA and DOD data not included,2021/06/29 05:00:00+00
+195,MultiCat Age Groups,65-75,,139182,124604,VA and DOD data not included,2021/06/29 05:00:00+00
+196,MultiCat Age Groups,76-85,,55799,49324,VA and DOD data not included,2021/06/29 05:00:00+00
+197,MultiCat Age Groups,86-95,,17484,15137,VA and DOD data not included,2021/06/29 05:00:00+00
+198,MultiCat Age Groups,96+,,1543,1245,VA and DOD data not included,2021/06/29 05:00:00+00
+199,5Cat Age Groups,12+,1661614,1225427,1012789,VA and DOD data included,2021/07/06 05:00:00+00
+200,5Cat Age Groups,16+,1552823,1186365,985867,VA and DOD data included,2021/07/06 05:00:00+00
+201,5Cat Age Groups,18+,1450476,1158889,964228,VA and DOD data included,2021/07/06 05:00:00+00
+202,5Cat Age Groups,50-64,320289,272167,228694,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+203,5Cat Age Groups,65+,247843,238064,191505,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+204,Gender,Female,769303,591197,502409,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+205,Gender,Male,736913,520596,411672,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+206,Gender,Other,,208,183,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+207,Gender,Unknown,,2451,2009,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+208,Race/Ethnicity,Hispanic,906742,485748,404241,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+209,Race/Ethnicity,NH White,417222,323608,271582,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+210,Race/Ethnicity,NH Asian,43680,30770,26641,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+211,Race/Ethnicity,NH Black,115979,48216,35166,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+212,Race/Ethnicity,NH Other,24099,135154,113052,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+213,Race/Ethnicity,Unknown,,90956,65591,"VA data included, DOD data not included",2021/07/06 05:00:00+00
+214,MultiCat Age Groups,15-Dec,,39062,26922,VA and DOD data not included,2021/07/06 05:00:00+00
+215,MultiCat Age Groups,16-18,,42597,33705,VA and DOD data not included,2021/07/06 05:00:00+00
+216,MultiCat Age Groups,19-29,,168550,139270,VA and DOD data not included,2021/07/06 05:00:00+00
+217,MultiCat Age Groups,30-39,,170997,145758,VA and DOD data not included,2021/07/06 05:00:00+00
+218,MultiCat Age Groups,40-49,,174658,150402,VA and DOD data not included,2021/07/06 05:00:00+00
+219,MultiCat Age Groups,50-59,,177265,155257,VA and DOD data not included,2021/07/06 05:00:00+00
+220,MultiCat Age Groups,60-64,,82731,73437,VA and DOD data not included,2021/07/06 05:00:00+00
+221,MultiCat Age Groups,65-75,,139869,125392,VA and DOD data not included,2021/07/06 05:00:00+00
+222,MultiCat Age Groups,76-85,,56066,49617,VA and DOD data not included,2021/07/06 05:00:00+00
+223,MultiCat Age Groups,86-95,,17576,15234,VA and DOD data not included,2021/07/06 05:00:00+00
+224,MultiCat Age Groups,96+,,1560,1262,VA and DOD data not included,2021/07/06 05:00:00+00
+225,5Cat Age Groups,12+,1661614,1241765,1028077,VA and DOD data included,2021/07/13 05:00:00+00
+226,5Cat Age Groups,16+,1552823,1200725,999208,VA and DOD data included,2021/07/13 05:00:00+00
+227,5Cat Age Groups,18+,1450476,1172493,976931,VA and DOD data included,2021/07/13 05:00:00+00
+228,5Cat Age Groups,18-49,898710,536986,454587,VA and DOD data included,2021/07/13 05:00:00+00
+229,5Cat Age Groups,50-64,320289,274645,230748,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+230,5Cat Age Groups,65+,247843,246116,192578,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+231,Gender,Female,769303,598057,508993,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+232,Gender,Male,736913,528550,417888,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+233,Gender,Other,,207,182,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+234,Gender,Unknown,,2447,2012,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+235,Race/Ethnicity,Hispanic,906742,491055,409177,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+236,Race/Ethnicity,NH White,417222,327084,274480,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+237,Race/Ethnicity,NH Asian,43680,31027,26956,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+238,Race/Ethnicity,NH Black,115979,49066,35738,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+239,Race/Ethnicity,NH Other,24099,139179,116796,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+240,Race/Ethnicity,Unknown,,91850,65928,"VA data included, DOD data not included",2021/07/13 05:00:00+00
+241,MultiCat Age Groups,15-Dec,,41040,28869,VA and DOD data not included,2021/07/13 05:00:00+00
+242,MultiCat Age Groups,16-18,,43651,34614,VA and DOD data not included,2021/07/13 05:00:00+00
+243,MultiCat Age Groups,19-29,,171444,141948,VA and DOD data not included,2021/07/13 05:00:00+00
+244,MultiCat Age Groups,30-39,,173445,147927,VA and DOD data not included,2021/07/13 05:00:00+00
+245,MultiCat Age Groups,40-49,,176678,152375,VA and DOD data not included,2021/07/13 05:00:00+00
+246,MultiCat Age Groups,50-59,,178784,156747,VA and DOD data not included,2021/07/13 05:00:00+00
+247,MultiCat Age Groups,60-64,,83208,74001,VA and DOD data not included,2021/07/13 05:00:00+00
+248,MultiCat Age Groups,65-75,,140455,126043,VA and DOD data not included,2021/07/13 05:00:00+00
+249,MultiCat Age Groups,76-85,,56308,49914,VA and DOD data not included,2021/07/13 05:00:00+00
+250,MultiCat Age Groups,86-95,,17654,15351,VA and DOD data not included,2021/07/13 05:00:00+00
+251,MultiCat Age Groups,96+,,1572,1270,VA and DOD data not included,2021/07/13 05:00:00+00
+252,5Cat Age Groups,12+,1661614,1254379,1039246,VA and DOD data included,2021/07/20 05:00:00+00
+253,5Cat Age Groups,16+,1552823,1211227,1008759,VA and DOD data included,2021/07/20 05:00:00+00
+254,5Cat Age Groups,18+,1450476,1182262,985901,VA and DOD data included,2021/07/20 05:00:00+00
+255,5Cat Age Groups,18-49,898710,543610,460278,VA and DOD data included,2021/07/20 05:00:00+00
+256,5Cat Age Groups,50-64,320289,276414,232318,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+257,5Cat Age Groups,65+,247843,247441,193603,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+258,Gender,Female,769303,604228,514422,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+259,Gender,Male,736913,534992,422941,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+260,Gender,Other,,208,184,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+261,Gender,Unknown,,2439,2014,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+262,Race/Ethnicity,Hispanic,906742,496211,413700,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+263,Race/Ethnicity,NH White,417222,329158,276159,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+264,Race/Ethnicity,NH Asian,43680,31208,27149,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+265,Race/Ethnicity,NH Black,115979,49709,36271,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+266,Race/Ethnicity,NH Other,24099,142779,120001,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+267,Race/Ethnicity,Unknown,,92802,66281,"VA data included, DOD data not included",2021/07/20 05:00:00+00
+268,MultiCat Age Groups,15-Dec,,43152,30487,VA and DOD data not included,2021/07/20 05:00:00+00
+269,MultiCat Age Groups,16-18,,44714,35505,VA and DOD data not included,2021/07/20 05:00:00+00
+270,MultiCat Age Groups,19-29,,174202,144249,VA and DOD data not included,2021/07/20 05:00:00+00
+271,MultiCat Age Groups,30-39,,175380,149558,VA and DOD data not included,2021/07/20 05:00:00+00
+272,MultiCat Age Groups,40-49,,178279,153824,VA and DOD data not included,2021/07/20 05:00:00+00
+273,MultiCat Age Groups,50-59,,179901,157868,VA and DOD data not included,2021/07/20 05:00:00+00
+274,MultiCat Age Groups,60-64,,83656,74450,VA and DOD data not included,2021/07/20 05:00:00+00
+275,MultiCat Age Groups,65-75,,141022,126693,VA and DOD data not included,2021/07/20 05:00:00+00
+276,MultiCat Age Groups,76-85,,56520,50179,VA and DOD data not included,2021/07/20 05:00:00+00
+277,MultiCat Age Groups,86-95,,17743,15446,VA and DOD data not included,2021/07/20 05:00:00+00
+278,MultiCat Age Groups,96+,,1586,1285,VA and DOD data not included,2021/07/20 05:00:00+00
+279,5Cat Age Groups,12+,1661614,1276058,1052806,VA and DOD data included,2021/07/27 05:00:00+00
+280,5Cat Age Groups,16+,1552823,1229259,1020388,VA and DOD data included,2021/07/27 05:00:00+00
+281,5Cat Age Groups,18+,1450476,1199005,996819,VA and DOD data included,2021/07/27 05:00:00+00
+282,5Cat Age Groups,18-49,898710,555684,467750,VA and DOD data included,2021/07/27 05:00:00+00
+283,5Cat Age Groups,50-64,320289,279565,234494,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+284,5Cat Age Groups,65+,247843,248959,194873,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+285,Gender,Female,769303,614839,521346,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+286,Gender,Male,736913,546077,429581,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+287,Gender,Other,,207,184,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+288,Gender,Unknown,,2433,2010,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+289,Race/Ethnicity,Hispanic,906742,503715,418535,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+290,Race/Ethnicity,NH White,417222,334110,279138,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+291,Race/Ethnicity,NH Asian,43680,31543,27421,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+292,Race/Ethnicity,NH Black,115979,50642,36885,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+293,Race/Ethnicity,NH Other,24099,149374,124580,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+294,Race/Ethnicity,Unknown,,94172,66562,"VA data included, DOD data not included",2021/07/27 05:00:00+00
+295,MultiCat Age Groups,15-Dec,,46799,32418,VA and DOD data not included,2021/07/27 05:00:00+00
+296,MultiCat Age Groups,16-18,,46617,36599,VA and DOD data not included,2021/07/27 05:00:00+00
+297,MultiCat Age Groups,19-29,,178710,147140,VA and DOD data not included,2021/07/27 05:00:00+00
+298,MultiCat Age Groups,30-39,,179313,151867,VA and DOD data not included,2021/07/27 05:00:00+00
+299,MultiCat Age Groups,40-49,,181298,155713,VA and DOD data not included,2021/07/27 05:00:00+00
+300,MultiCat Age Groups,50-59,,182262,159465,VA and DOD data not included,2021/07/27 05:00:00+00
+301,MultiCat Age Groups,19-29,,190011,151558,VA and DOD data not included,2021/08/10 05:00:00+00
+302,MultiCat Age Groups,30-39,,188810,155555,VA and DOD data not included,2021/08/10 05:00:00+00
+303,MultiCat Age Groups,40-49,,188665,158881,VA and DOD data not included,2021/08/10 05:00:00+00
+304,MultiCat Age Groups,50-59,,187341,161975,VA and DOD data not included,2021/08/10 05:00:00+00
+305,MultiCat Age Groups,60-64,,86342,76081,VA and DOD data not included,2021/08/10 05:00:00+00
+306,MultiCat Age Groups,65-75,,144436,129028,VA and DOD data not included,2021/08/10 05:00:00+00
+307,MultiCat Age Groups,76-85,,57699,51120,VA and DOD data not included,2021/08/10 05:00:00+00
+308,MultiCat Age Groups,86-95,,18251,15869,VA and DOD data not included,2021/08/10 05:00:00+00
+309,MultiCat Age Groups,96+,,1650,1343,VA and DOD data not included,2021/08/10 05:00:00+00
+310,5Cat Age Groups,12+,1672349,1367288,1102506,VA and DOD data included,2021/08/17 05:00:00+00
+311,5Cat Age Groups,16+,1552823,1308272,1064128,VA and DOD data included,2021/08/17 05:00:00+00
+312,5Cat Age Groups,18+,1511890,1273190,1038291,VA and DOD data included,2021/08/17 05:00:00+00
+313,5Cat Age Groups,18-49,898710,603130,491866,VA and DOD data included,2021/08/17 05:00:00+00
+314,5Cat Age Groups,50-64,336785,291848,242296,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+315,5Cat Age Groups,65+,264903,248047,198935,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+316,Gender,Female,769303,655162,543514,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+317,Gender,Male,736913,588973,451620,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+318,Gender,Other,,212,186,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+319,Gender,Unknown,,2462,2011,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+320,Race/Ethnicity,Hispanic,906742,541695,440872,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+321,Race/Ethnicity,NH White,417222,352622,288006,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+322,Race/Ethnicity,NH Asian,43680,32606,28290,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+323,Race/Ethnicity,NH Black,115979,54782,38994,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+324,Race/Ethnicity,NH Other,24099,168646,134033,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+325,Race/Ethnicity,Unknown,,96458,67136,"VA data included, DOD data not included",2021/08/17 05:00:00+00
+326,MultiCat Age Groups,15-Dec,109159,59016,38378,VA and DOD data not included,2021/08/17 05:00:00+00
+327,MultiCat Age Groups,16-18,80937,53315,39846,VA and DOD data not included,2021/08/17 05:00:00+00
+328,MultiCat Age Groups,19-29,,196816,155870,VA and DOD data not included,2021/08/17 05:00:00+00
+329,MultiCat Age Groups,30-39,,194814,159569,VA and DOD data not included,2021/08/17 05:00:00+00
+330,MultiCat Age Groups,40-49,,193267,162418,VA and DOD data not included,2021/08/17 05:00:00+00
+331,MultiCat Age Groups,50-59,,190928,165101,VA and DOD data not included,2021/08/17 05:00:00+00
+332,MultiCat Age Groups,60-64,,87521,77195,VA and DOD data not included,2021/08/17 05:00:00+00
+333,MultiCat Age Groups,65-75,,145568,130141,VA and DOD data not included,2021/08/17 05:00:00+00
+334,MultiCat Age Groups,76-85,,58070,51495,VA and DOD data not included,2021/08/17 05:00:00+00
+335,MultiCat Age Groups,86-95,,18320,15946,VA and DOD data not included,2021/08/17 05:00:00+00
+336,MultiCat Age Groups,96+,,1659,1353,VA and DOD data not included,2021/08/17 05:00:00+00
+337,5Cat Age Groups,12+,1672349,1391530,1121458,VA and DOD data included,2021/08/24 05:00:00+00
+338,5Cat Age Groups,16+,1552823,1328845,1079892,VA and DOD data included,2021/08/24 05:00:00+00
+339,5Cat Age Groups,18+,1511890,1292502,1052990,VA and DOD data included,2021/08/24 05:00:00+00
+340,5Cat Age Groups,18-49,898710,616243,501460,VA and DOD data included,2021/08/24 05:00:00+00
+341,5Cat Age Groups,50-64,336785,294907,245134,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+342,5Cat Age Groups,65+,264903,249754,200532,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+343,Gender,Female,769303,666304,552630,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+344,Gender,Male,736913,600649,460789,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+345,Gender,Other,,211,187,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+346,Gender,Unknown,,2457,2006,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+347,Race/Ethnicity,Hispanic,906742,549962,448775,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+348,Race/Ethnicity,NH White,417222,358550,291887,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+349,Race/Ethnicity,NH Asian,43680,32857,28497,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+350,Race/Ethnicity,NH Black,115979,55833,39801,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+351,5Cat Age Groups,50-64,320289,240346,192538,VA and DOD data not included,2021/05/27 05:00:00+00
+352,5Cat Age Groups,65+,247843,217473,167856,VA and DOD data not included,2021/05/27 05:00:00+00
+353,Gender,Female,769303,499306,399090,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+354,Gender,Male,736913,435214,317118,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+355,Gender,Other,,201,158,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+356,Gender,Unknown,,2302,1944,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+357,Race/Ethnicity,Hispanic,906742,407718,316594,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+358,Race/Ethnicity,NH White,417222,282439,224536,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+359,Race/Ethnicity,NH Asian,43680,25708,20728,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+360,Race/Ethnicity,NH Black,115979,39731,26211,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+361,Race/Ethnicity,NH Other,24099,94363,70707,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+362,Race/Ethnicity,Unknown,,87064,59534,"VA data included, DOD data not included",2021/05/27 05:00:00+00
+363,5Cat Age Groups,12+,1661614,1073367,834259,VA and DOD data included,2021/06/01 05:00:00+00
+364,5Cat Age Groups,16+,1552823,1050796,834205,VA and DOD data included,2021/06/01 05:00:00+00
+365,5Cat Age Groups,18+,1450476,1030011,820444,VA and DOD data included,2021/06/01 05:00:00+00
+366,5Cat Age Groups,18-49,898710,455493,363599,VA and DOD data included,2021/06/01 05:00:00+00
+367,5Cat Age Groups,50-64,320289,245861,198857,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+368,5Cat Age Groups,65+,247843,220070,170823,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+369,Gender,Female,769303,516743,413172,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+370,Gender,Male,736913,452693,331764,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+371,Gender,Other,,210,177,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+372,Gender,Unknown,,2633,1982,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+373,Race/Ethnicity,Hispanic,906742,421335,327438,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+374,Race/Ethnicity,NH White,417222,291895,233837,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+375,Race/Ethnicity,NH Asian,43680,26572,21487,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+376,Race/Ethnicity,NH Black,115979,41443,27707,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+377,Race/Ethnicity,NH Other,24099,102239,76315,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+378,Race/Ethnicity,Unknown,,88795,60311,"VA data included, DOD data not included",2021/06/01 05:00:00+00
+379,MultiCat Age Groups,15-Dec,,22571,54,VA and DOD data not included,2021/06/01 05:00:00+00
+380,MultiCat Age Groups,16-18,,33110,22797,VA and DOD data not included,2021/06/01 05:00:00+00
+381,MultiCat Age Groups,19-29,,142150,109927,VA and DOD data not included,2021/06/01 05:00:00+00
+382,MultiCat Age Groups,30-39,,147564,119037,VA and DOD data not included,2021/06/01 05:00:00+00
+383,MultiCat Age Groups,40-49,,153454,125599,VA and DOD data not included,2021/06/01 05:00:00+00
+384,MultiCat Age Groups,50-59,,158969,133821,VA and DOD data not included,2021/06/01 05:00:00+00
+385,MultiCat Age Groups,60-64,,75629,65036,VA and DOD data not included,2021/06/01 05:00:00+00
+386,MultiCat Age Groups,65-75,,130345,114034,VA and DOD data not included,2021/06/01 05:00:00+00
+387,MultiCat Age Groups,76-85,,51640,44034,VA and DOD data not included,2021/06/01 05:00:00+00
+388,MultiCat Age Groups,86-95,,14974,11963,VA and DOD data not included,2021/06/01 05:00:00+00
+389,MultiCat Age Groups,96+,,1146,792,VA and DOD data not included,2021/06/01 05:00:00+00
+390,5Cat Age Groups,12+,1661614,1093120,858012,VA and DOD data included,2021/06/08 05:00:00+00
+391,5Cat Age Groups,16+,1552823,1067237,852352,VA and DOD data included,2021/06/08 05:00:00+00
+392,5Cat Age Groups,18+,1450476,1045526,837630,VA and DOD data included,2021/06/08 05:00:00+00
+393,5Cat Age Groups,18-49,898710,464129,373879,VA and DOD data included,2021/06/08 05:00:00+00
+394,5Cat Age Groups,50-64,320289,248539,202089,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+395,5Cat Age Groups,65+,247843,221579,172528,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+396,Gender,Female,769303,525280,424079,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+397,Gender,Male,736913,461416,342631,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+398,Gender,Other,,211,178,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+399,Gender,Unknown,,2652,1992,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+400,Race/Ethnicity,Hispanic,906742,428692,337253,"VA data included, DOD data not included",2021/06/08 05:00:00+00
+401,MultiCat Age Groups,60-64,,90727,81131,VA and DOD data not included,2021/09/22 05:00:00+00
+402,MultiCat Age Groups,65-75,,150187,135278,VA and DOD data not included,2021/09/22 05:00:00+00
+403,MultiCat Age Groups,76-85,,59975,53431,VA and DOD data not included,2021/09/22 05:00:00+00
+404,MultiCat Age Groups,86-95,,19023,16645,VA and DOD data not included,2021/09/22 05:00:00+00
+405,MultiCat Age Groups,96+,,1753,1430,VA and DOD data not included,2021/09/22 05:00:00+00
+406,5Cat Age Groups,12+,1672349,1492099,1240394,VA and DOD data included,2021/09/29 05:00:00+00
+407,5Cat Age Groups,16+,1552823,1420892,1184077,VA and DOD data included,2021/09/29 05:00:00+00
+408,5Cat Age Groups,18+,1511890,1380904,1151465,VA and DOD data included,2021/09/29 05:00:00+00
+409,5Cat Age Groups,18-49,898710,660491,557622,VA and DOD data included,2021/09/29 05:00:00+00
+410,5Cat Age Groups,50-64,336785,310098,259008,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+411,5Cat Age Groups,65+,264903,263288,208266,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+412,Gender,Female,769303,704820,601643,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+413,Gender,Male,736913,653926,510059,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+414,Gender,Other,,208,185,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+415,Gender,Unknown,,2367,1938,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+416,Race/Ethnicity,Hispanic,906742,581495,486181,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+417,Race/Ethnicity,NH White,417222,379971,311993,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+418,Race/Ethnicity,NH Asian,43680,33323,29222,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+419,Race/Ethnicity,NH Black,115979,61503,43844,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+420,Race/Ethnicity,NH Other,24099,210967,178877,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+421,Race/Ethnicity,Unknown,,94062,63708,"VA data included, DOD data not included",2021/09/29 05:00:00+00
+422,MultiCat Age Groups,15-Dec,109159,71207,56317,VA and DOD data not included,2021/09/29 05:00:00+00
+423,MultiCat Age Groups,16-18,80937,60260,49087,VA and DOD data not included,2021/09/29 05:00:00+00
+424,MultiCat Age Groups,19-29,,219943,180796,VA and DOD data not included,2021/09/29 05:00:00+00
+425,MultiCat Age Groups,30-39,,213437,181413,VA and DOD data not included,2021/09/29 05:00:00+00
+426,MultiCat Age Groups,19-29,,210137,167636,VA and DOD data not included,2021/09/08 05:00:00+00
+427,MultiCat Age Groups,40-49,,206839,178938,VA and DOD data not included,2021/09/29 05:00:00+00
+428,MultiCat Age Groups,50-59,,200528,177292,VA and DOD data not included,2021/09/29 05:00:00+00
+429,MultiCat Age Groups,60-64,,91097,81716,VA and DOD data not included,2021/09/29 05:00:00+00
+430,MultiCat Age Groups,65-75,,151147,136214,VA and DOD data not included,2021/09/29 05:00:00+00
+431,MultiCat Age Groups,76-85,,60417,53820,VA and DOD data not included,2021/09/29 05:00:00+00
+432,MultiCat Age Groups,86-95,,19207,16792,VA and DOD data not included,2021/09/29 05:00:00+00
+433,MultiCat Age Groups,96+,,1766,1440,VA and DOD data not included,2021/09/29 05:00:00+00
+434,5Cat Age Groups,12+,1672349,1495293,1241938,VA and DOD data included,2021/10/06 05:00:00+00
+435,5Cat Age Groups,16+,1552823,1424472,1185949,VA and DOD data included,2021/10/06 05:00:00+00
+436,5Cat Age Groups,18+,1511890,1384551,1153389,VA and DOD data included,2021/10/06 05:00:00+00
+437,5Cat Age Groups,18-49,898710,660512,557625,VA and DOD data included,2021/10/06 05:00:00+00
+438,5Cat Age Groups,50-64,336785,310357,259070,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+439,5Cat Age Groups,65+,264903,264012,208582,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+440,Gender,Female,769303,704975,601643,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+441,Gender,Male,736913,654476,510060,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+442,Gender,Other,,208,185,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+443,Gender,Unknown,,2367,1938,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+444,Race/Ethnicity,Hispanic,906742,581640,486182,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+445,Race/Ethnicity,NH White,417222,380214,311993,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+446,Race/Ethnicity,NH Asian,43680,33336,29222,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+447,Race/Ethnicity,NH Black,115979,61603,43844,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+448,Race/Ethnicity,NH Other,24099,210991,178877,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+449,Race/Ethnicity,Unknown,,94242,63708,"VA data included, DOD data not included",2021/10/06 05:00:00+00
+450,MultiCat Age Groups,15-Dec,109159,70821,55989,VA and DOD data not included,2021/10/06 05:00:00+00
+451,MultiCat Age Groups,16-18,80937,60259,49098,VA and DOD data not included,2021/10/06 05:00:00+00
+452,MultiCat Age Groups,19-29,,219925,180770,VA and DOD data not included,2021/10/06 05:00:00+00
+453,MultiCat Age Groups,30-39,,213394,181355,VA and DOD data not included,2021/10/06 05:00:00+00
+454,MultiCat Age Groups,40-49,,206855,178962,VA and DOD data not included,2021/10/06 05:00:00+00
+455,MultiCat Age Groups,50-59,,200572,177317,VA and DOD data not included,2021/10/06 05:00:00+00
+456,MultiCat Age Groups,60-64,,91128,81753,VA and DOD data not included,2021/10/06 05:00:00+00
+457,MultiCat Age Groups,65-75,,151339,136390,VA and DOD data not included,2021/10/06 05:00:00+00
+458,MultiCat Age Groups,76-85,,60530,53907,VA and DOD data not included,2021/10/06 05:00:00+00
+459,MultiCat Age Groups,86-95,,19254,16839,VA and DOD data not included,2021/10/06 05:00:00+00
+460,MultiCat Age Groups,30-39,,205832,170154,VA and DOD data not included,2021/09/08 05:00:00+00
+461,MultiCat Age Groups,40-49,,201384,170566,VA and DOD data not included,2021/09/08 05:00:00+00
+462,MultiCat Age Groups,50-59,,196553,171236,VA and DOD data not included,2021/09/08 05:00:00+00
+463,MultiCat Age Groups,60-64,,89626,79478,VA and DOD data not included,2021/09/08 05:00:00+00
+464,MultiCat Age Groups,65-75,,148578,133208,VA and DOD data not included,2021/09/08 05:00:00+00
+465,MultiCat Age Groups,76-85,,59241,52625,VA and DOD data not included,2021/09/08 05:00:00+00
+466,MultiCat Age Groups,86-95,,18759,16375,VA and DOD data not included,2021/09/08 05:00:00+00
+467,MultiCat Age Groups,96+,,1724,1404,VA and DOD data not included,2021/09/08 05:00:00+00
+468,5Cat Age Groups,12+,1672349,1458525,1191883,VA and DOD data included,2021/09/15 05:00:00+00
+469,5Cat Age Groups,16+,1552823,1390301,1142493,VA and DOD data included,2021/09/15 05:00:00+00
+470,5Cat Age Groups,18+,1511890,1351680,1112536,VA and DOD data included,2021/09/15 05:00:00+00
+471,5Cat Age Groups,18-49,898710,641179,529821,VA and DOD data included,2021/09/15 05:00:00+00
+472,5Cat Age Groups,50-64,336785,305720,252335,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+473,5Cat Age Groups,65+,264903,259869,204563,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+474,Gender,Female,769303,689443,577676,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+475,Gender,Male,736913,637791,486232,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+476,Gender,Other,,209,186,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+477,Race/Ethnicity,NH Other,24099,176718,139775,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+478,Gender,Unknown,,2419,1972,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+479,Race/Ethnicity,Hispanic,906742,572730,473916,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+480,Race/Ethnicity,NH White,417222,372619,299275,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+481,Race/Ethnicity,NH Asian,43680,33179,28858,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+482,Race/Ethnicity,NH Black,115979,60108,41937,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+483,Race/Ethnicity,NH Other,24099,193666,155903,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+484,Race/Ethnicity,Unknown,,97560,66177,"VA data included, DOD data not included",2021/09/15 05:00:00+00
+485,MultiCat Age Groups,15-Dec,109159,68224,49390,VA and DOD data not included,2021/09/15 05:00:00+00
+486,MultiCat Age Groups,16-18,80937,58318,45447,VA and DOD data not included,2021/09/15 05:00:00+00
+487,MultiCat Age Groups,19-29,,211920,170012,VA and DOD data not included,2021/09/15 05:00:00+00
+488,MultiCat Age Groups,30-39,,207185,172222,VA and DOD data not included,2021/09/15 05:00:00+00
+489,MultiCat Age Groups,40-49,,202377,172097,VA and DOD data not included,2021/09/15 05:00:00+00
+490,MultiCat Age Groups,50-59,,197344,172424,VA and DOD data not included,2021/09/15 05:00:00+00
+491,MultiCat Age Groups,60-64,,89903,79911,VA and DOD data not included,2021/09/15 05:00:00+00
+492,MultiCat Age Groups,65-75,,149073,133800,VA and DOD data not included,2021/09/15 05:00:00+00
+493,MultiCat Age Groups,76-85,,59454,52868,VA and DOD data not included,2021/09/15 05:00:00+00
+494,MultiCat Age Groups,86-95,,18855,16478,VA and DOD data not included,2021/09/15 05:00:00+00
+495,MultiCat Age Groups,96+,,1736,1417,VA and DOD data not included,2021/09/15 05:00:00+00
+496,5Cat Age Groups,12+,1672349,1483257,1226944,VA and DOD data included,2021/09/22 05:00:00+00
+497,5Cat Age Groups,16+,1552823,1412549,1172098,VA and DOD data included,2021/09/22 05:00:00+00
+498,5Cat Age Groups,18+,1511890,1372842,1140099,VA and DOD data included,2021/09/22 05:00:00+00
+499,5Cat Age Groups,18-49,898710,655282,549746,VA and DOD data included,2021/09/22 05:00:00+00
+500,5Cat Age Groups,50-64,336785,308844,257000,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+501,5Cat Age Groups,65+,264903,261689,206784,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+502,Gender,Female,769303,700608,594935,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+503,Gender,Male,736913,649260,503293,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+504,Gender,Other,,210,187,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+505,Gender,Unknown,,2401,1960,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+506,Race/Ethnicity,Hispanic,906742,576399,479572,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+507,Race/Ethnicity,NH White,417222,380339,310978,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+508,Race/Ethnicity,NH Asian,43680,33348,29202,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+509,Race/Ethnicity,NH Black,115979,61180,43357,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+510,Race/Ethnicity,NH Other,24099,205471,172308,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+511,Race/Ethnicity,Unknown,,95742,64958,"VA data included, DOD data not included",2021/09/22 05:00:00+00
+512,MultiCat Age Groups,15-Dec,109159,70708,54846,VA and DOD data not included,2021/09/22 05:00:00+00
+513,MultiCat Age Groups,16-18,80937,59864,48264,VA and DOD data not included,2021/09/22 05:00:00+00
+514,MultiCat Age Groups,19-29,,217784,177668,VA and DOD data not included,2021/09/22 05:00:00+00
+515,MultiCat Age Groups,30-39,,211694,178823,VA and DOD data not included,2021/09/22 05:00:00+00
+516,MultiCat Age Groups,40-49,,205647,176990,VA and DOD data not included,2021/09/22 05:00:00+00
+517,MultiCat Age Groups,50-59,,199644,175869,VA and DOD data not included,2021/09/22 05:00:00+00
+518,Race/Ethnicity,Unknown,,95701,66877,"VA data included, DOD data not included",2021/08/24 05:00:00+00
+519,MultiCat Age Groups,15-Dec,109159,62685,41566,VA and DOD data not included,2021/08/24 05:00:00+00
+520,MultiCat Age Groups,16-18,80937,55068,41295,VA and DOD data not included,2021/08/24 05:00:00+00
+521,MultiCat Age Groups,19-29,,202025,159379,VA and DOD data not included,2021/08/24 05:00:00+00
+522,MultiCat Age Groups,30-39,,199140,162792,VA and DOD data not included,2021/08/24 05:00:00+00
+523,MultiCat Age Groups,40-49,,196353,164896,VA and DOD data not included,2021/08/24 05:00:00+00
+524,MultiCat Age Groups,50-59,,193156,167169,VA and DOD data not included,2021/08/24 05:00:00+00
+525,MultiCat Age Groups,60-64,,88352,77965,VA and DOD data not included,2021/08/24 05:00:00+00
+526,MultiCat Age Groups,65-75,,146669,131206,VA and DOD data not included,2021/08/24 05:00:00+00
+527,MultiCat Age Groups,76-85,,58497,51876,VA and DOD data not included,2021/08/24 05:00:00+00
+528,MultiCat Age Groups,86-95,,18486,16087,VA and DOD data not included,2021/08/24 05:00:00+00
+529,MultiCat Age Groups,96+,,1672,1363,VA and DOD data not included,2021/08/24 05:00:00+00
+530,5Cat Age Groups,12+,1672349,1435702,1162982,VA and DOD data included,2021/09/01 05:00:00+00
+531,5Cat Age Groups,16+,1552823,1369260,1117286,VA and DOD data included,2021/09/01 05:00:00+00
+532,5Cat Age Groups,18+,1511890,1331463,1088793,VA and DOD data included,2021/09/01 05:00:00+00
+533,5Cat Age Groups,18-49,898710,631131,515432,VA and DOD data included,2021/09/01 05:00:00+00
+534,5Cat Age Groups,50-64,336785,302725,248728,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+535,5Cat Age Groups,65+,264903,257519,202518,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+536,Gender,Female,769303,680893,565129,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+537,Gender,Male,736913,627580,473572,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+538,Gender,Other,,210,186,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+539,Gender,Unknown,,2453,2003,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+540,Race/Ethnicity,Hispanic,906742,560378,457662,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+541,Race/Ethnicity,NH White,417222,372709,298602,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+542,Race/Ethnicity,NH Asian,43680,33255,28780,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+543,Race/Ethnicity,NH Black,115979,59137,40925,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+544,Race/Ethnicity,NH Other,24099,187395,148395,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+545,Race/Ethnicity,Unknown,,98262,66526,"VA data included, DOD data not included",2021/09/01 05:00:00+00
+546,MultiCat Age Groups,15-Dec,109159,66442,45696,VA and DOD data not included,2021/09/01 05:00:00+00
+547,MultiCat Age Groups,16-18,80937,57159,43479,VA and DOD data not included,2021/09/01 05:00:00+00
+548,MultiCat Age Groups,19-29,,207765,164587,VA and DOD data not included,2021/09/01 05:00:00+00
+549,MultiCat Age Groups,30-39,,203949,167375,VA and DOD data not included,2021/09/01 05:00:00+00
+550,MultiCat Age Groups,40-49,,200055,168484,VA and DOD data not included,2021/09/01 05:00:00+00
+551,MultiCat Age Groups,50-59,,195563,169800,VA and DOD data not included,2021/09/01 05:00:00+00
+552,MultiCat Age Groups,60-64,,89256,78928,VA and DOD data not included,2021/09/01 05:00:00+00
+553,MultiCat Age Groups,65-75,,147954,132505,VA and DOD data not included,2021/09/01 05:00:00+00
+554,MultiCat Age Groups,76-85,,58973,52345,VA and DOD data not included,2021/09/01 05:00:00+00
+555,MultiCat Age Groups,86-95,,18666,16281,VA and DOD data not included,2021/09/01 05:00:00+00
+556,MultiCat Age Groups,96+,,1703,1387,VA and DOD data not included,2021/09/01 05:00:00+00
+557,5Cat Age Groups,12+,1672349,1446335,1178034,VA and DOD data included,2021/09/08 05:00:00+00
+558,5Cat Age Groups,16+,1552823,1378798,1130123,VA and DOD data included,2021/09/08 05:00:00+00
+559,5Cat Age Groups,18+,1511890,1340548,1100752,VA and DOD data included,2021/09/08 05:00:00+00
+560,5Cat Age Groups,18-49,898710,636926,523661,VA and DOD data included,2021/09/08 05:00:00+00
+561,5Cat Age Groups,50-64,336785,304295,250714,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+562,5Cat Age Groups,65+,264903,258722,203612,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+563,Gender,Female,769303,685728,572300,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+564,Gender,Male,736913,633141,480794,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+565,Gender,Other,,209,186,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+566,Gender,Unknown,,2436,1989,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+567,Race/Ethnicity,Hispanic,906742,567327,466919,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+568,Race/Ethnicity,NH White,417222,373007,299503,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+569,Race/Ethnicity,NH Asian,43680,33260,28855,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+570,Race/Ethnicity,NH Black,115979,59650,41540,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+571,Race/Ethnicity,NH Other,24099,190324,152074,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+572,Race/Ethnicity,Unknown,,97946,66378,"VA data included, DOD data not included",2021/09/08 05:00:00+00
+573,MultiCat Age Groups,15-Dec,109159,67537,47911,VA and DOD data not included,2021/09/08 05:00:00+00
+574,MultiCat Age Groups,16-18,80937,57823,44676,VA and DOD data not included,2021/09/08 05:00:00+00
+575,MultiCat Age Groups,96+,,1774,1446,VA and DOD data not included,2021/10/06 05:00:00+00
+576,5Cat Age Groups,12+,1672349,1516675,1263881,VA and DOD data included,2021/10/13 05:00:00+00
+577,5Cat Age Groups,16+,1552823,1444434,1205682,VA and DOD data included,2021/10/13 05:00:00+00
+578,5Cat Age Groups,18+,1511890,1403827,1172217,VA and DOD data included,2021/10/13 05:00:00+00
+579,5Cat Age Groups,18-49,898710,670366,569869,VA and DOD data included,2021/10/13 05:00:00+00
+580,5Cat Age Groups,50-64,336785,313262,262489,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+581,5Cat Age Groups,65+,264903,268902,211536,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+582,Gender,Female,769303,714443,612606,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+583,Gender,Male,736913,664688,520915,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+584,Gender,Other,,206,183,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+585,Gender,Unknown,,2290,1854,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+586,Race/Ethnicity,Hispanic,906742,589403,494743,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+587,Race/Ethnicity,NH White,417222,379897,312428,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+588,Race/Ethnicity,NH Asian,43680,33058,28936,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+589,Race/Ethnicity,NH Black,115979,62235,44541,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+590,Race/Ethnicity,NH Other,24099,227682,195351,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+591,Race/Ethnicity,Unknown,,89352,59559,"VA data included, DOD data not included",2021/10/13 05:00:00+00
+592,MultiCat Age Groups,15-Dec,109159,72241,58199,VA and DOD data not included,2021/10/13 05:00:00+00
+593,MultiCat Age Groups,16-18,80937,61190,50329,VA and DOD data not included,2021/10/13 05:00:00+00
+594,MultiCat Age Groups,19-29,,223701,185388,VA and DOD data not included,2021/10/13 05:00:00+00
+595,MultiCat Age Groups,30-39,,216609,185493,VA and DOD data not included,2021/10/13 05:00:00+00
+596,MultiCat Age Groups,40-49,,209473,182124,VA and DOD data not included,2021/10/13 05:00:00+00
+597,MultiCat Age Groups,50-59,,202675,179747,VA and DOD data not included,2021/10/13 05:00:00+00
+598,MultiCat Age Groups,60-64,,92114,82742,VA and DOD data not included,2021/10/13 05:00:00+00
+599,MultiCat Age Groups,65-75,,154286,138232,VA and DOD data not included,2021/10/13 05:00:00+00
+600,MultiCat Age Groups,76-85,,62307,54712,VA and DOD data not included,2021/10/13 05:00:00+00
+601,MultiCat Age Groups,86-95,,19757,17127,VA and DOD data not included,2021/10/13 05:00:00+00
+602,MultiCat Age Groups,96+,,1801,1465,VA and DOD data not included,2021/10/13 05:00:00+00
+603,5Cat Age Groups,12+,1672349,1533078,1273327,VA and DOD data included,2021/10/20 05:00:00+00
+604,5Cat Age Groups,16+,1552823,1460697,1214730,VA and DOD data included,2021/10/20 05:00:00+00
+605,5Cat Age Groups,18+,1511890,1419868,1181029,VA and DOD data included,2021/10/20 05:00:00+00
+606,5Cat Age Groups,18-49,898710,673984,573889,VA and DOD data included,2021/10/20 05:00:00+00
+607,5Cat Age Groups,50-64,336785,314960,263722,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+608,5Cat Age Groups,65+,264903,271455,212729,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+609,Gender,Female,769303,718285,616213,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+610,Gender,Male,736913,669817,524420,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+611,Gender,Other,,206,183,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+612,Gender,Unknown,,2261,1822,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+613,Race/Ethnicity,Hispanic,906742,593812,498536,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+614,Race/Ethnicity,NH White,417222,379617,311626,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+615,Race/Ethnicity,NH Asian,43680,32946,28784,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+616,Race/Ethnicity,NH Black,115979,62587,44748,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+617,Race/Ethnicity,NH Other,24099,233421,200847,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+618,Race/Ethnicity,Unknown,,88186,58097,"VA data included, DOD data not included",2021/10/20 05:00:00+00
+619,MultiCat Age Groups,15-Dec,109159,72381,58597,VA and DOD data not included,2021/10/20 05:00:00+00
+620,MultiCat Age Groups,16-18,80937,61493,50656,VA and DOD data not included,2021/10/20 05:00:00+00
+621,MultiCat Age Groups,19-29,,225022,186958,VA and DOD data not included,2021/10/20 05:00:00+00
+622,MultiCat Age Groups,30-39,,217859,186814,VA and DOD data not included,2021/10/20 05:00:00+00
+623,MultiCat Age Groups,40-49,,210439,183162,VA and DOD data not included,2021/10/20 05:00:00+00
+624,MultiCat Age Groups,50-59,,203502,180603,VA and DOD data not included,2021/10/20 05:00:00+00
+625,MultiCat Age Groups,60-64,,92535,83119,VA and DOD data not included,2021/10/20 05:00:00+00
+626,MultiCat Age Groups,65-75,,155300,138929,VA and DOD data not included,2021/10/20 05:00:00+00
+627,MultiCat Age Groups,76-85,,62874,55049,VA and DOD data not included,2021/10/20 05:00:00+00
+628,MultiCat Age Groups,86-95,,19958,17269,VA and DOD data not included,2021/10/20 05:00:00+00
+629,MultiCat Age Groups,96+,,1824,1482,VA and DOD data not included,2021/10/20 05:00:00+00
